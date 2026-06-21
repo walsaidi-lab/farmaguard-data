@@ -144,23 +144,73 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Wilaya Moulouya",
-      "ville": "Casablanca",
-      "quartier": "Hay hassani et el oulfa",
-      "adresse": "222 bd Oued Moulouya Oulfa",
-      "tel": "",
-      "lat": 33.5394,
-      "lng": -7.6536,
-      "garde": "24h"
-    },
-    {
       "nom": "Pharmacie Hay ElMatar",
       "ville": "Casablanca",
       "quartier": "Hay hassani et el oulfa",
       "adresse": "1, bd Oued Oum Errabia. Face polyclinique CNSS hay hassani",
       "tel": "",
+      "lat": 33.5394,
+      "lng": -7.6536,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Wilaya Moulouya",
+      "ville": "Casablanca",
+      "quartier": "Hay hassani et el oulfa",
+      "adresse": "222 bd Oued Moulouya Oulfa",
+      "tel": "",
       "lat": 33.5406,
       "lng": -7.6584,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Janquière",
+      "ville": "Casablanca",
+      "quartier": "Hay Mohammadi",
+      "adresse": "39, rue beni amar",
+      "tel": "",
+      "lat": 33.5888,
+      "lng": -7.5662,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Moulay Cherif",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "1, rue Abou Ali Kali",
+      "tel": "",
+      "lat": 33.59,
+      "lng": -7.565,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie AlAhd El Jadid",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "43, bd de la Grande Ceinture (h.Mohammadi)",
+      "tel": "",
+      "lat": 33.5912,
+      "lng": -7.5638,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie H M Minaret",
+      "ville": "Casablanca",
+      "quartier": "Hay Mohammadi",
+      "adresse": "308 bloc Saada rue 37 n°139",
+      "tel": "",
+      "lat": 33.5924,
+      "lng": -7.5626,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Houar Rifai",
+      "ville": "Casablanca",
+      "quartier": "Hay Mohammadi",
+      "adresse": "135 bd du Fouarat",
+      "tel": "",
+      "lat": 33.5936,
+      "lng": -7.5674,
       "garde": "jour"
     },
     {
@@ -169,7 +219,7 @@
       "quartier": "Hay mohammadi",
       "adresse": "154, bd du Fouarat, hay Mohammadi",
       "tel": "",
-      "lat": 33.5888,
+      "lat": 33.5864,
       "lng": -7.5662,
       "garde": "jour"
     },
@@ -179,7 +229,7 @@
       "quartier": "Hay mohammadi",
       "adresse": "hay Mohammadi, hay Mino, rue 3, n°7",
       "tel": "",
-      "lat": 33.59,
+      "lat": 33.5876,
       "lng": -7.565,
       "garde": "jour"
     },
@@ -189,58 +239,18 @@
       "quartier": "Hay mohammadi",
       "adresse": "bd Ibn Tachfine, rue 21 n°40, Hakam I",
       "tel": "",
-      "lat": 33.5912,
-      "lng": -7.5638,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Houar Rifai",
-      "ville": "Casablanca",
-      "quartier": "Hay Mohammadi",
-      "adresse": "135 bd du Fouarat",
-      "tel": "",
-      "lat": 33.5924,
-      "lng": -7.5626,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Moulay Cherif",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "1, rue Abou Ali Kali",
-      "tel": "",
-      "lat": 33.5936,
-      "lng": -7.5674,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie AlAhd El Jadid",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "43, bd de la Grande Ceinture (h.Mohammadi)",
-      "tel": "",
-      "lat": 33.5864,
-      "lng": -7.5662,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie H M Minaret",
-      "ville": "Casablanca",
-      "quartier": "Hay Mohammadi",
-      "adresse": "308 bloc Saada rue 37 n°139",
-      "tel": "",
-      "lat": 33.5876,
-      "lng": -7.565,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Janquière",
-      "ville": "Casablanca",
-      "quartier": "Hay Mohammadi",
-      "adresse": "39, rue beni amar",
-      "tel": "",
       "lat": 33.5888,
       "lng": -7.5638,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Al Omra",
+      "ville": "Casablanca",
+      "quartier": "Lissasfa",
+      "adresse": "zone ind. Lissasfa, Chemin Tertiaire 1077",
+      "tel": "",
+      "lat": 33.53,
+      "lng": -7.6736,
       "garde": "jour"
     },
     {
@@ -249,19 +259,9 @@
       "quartier": "Lissasfa",
       "adresse": "lotiss. Alkhouzama, 118 imm.12 Lissasfa",
       "tel": "",
-      "lat": 33.53,
-      "lng": -7.6736,
-      "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie Al Omra",
-      "ville": "Casablanca",
-      "quartier": "Lissasfa",
-      "adresse": "zone ind. Lissasfa, Chemin Tertiaire 1077",
-      "tel": "",
       "lat": 33.5312,
       "lng": -7.6784,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie Zyma",
@@ -294,24 +294,24 @@
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Prefecture Bernoussi",
-      "ville": "Casablanca",
-      "quartier": "Sidi bernoussi",
-      "adresse": "cité Sidi Bernoussi, derb Maaguiz bloc 20 n°23",
-      "tel": "",
-      "lat": 33.6126,
-      "lng": -7.5126,
-      "garde": "24h"
-    },
-    {
       "nom": "Pharmacie la Palmeraie",
       "ville": "Casablanca",
       "quartier": "Sidi bernoussi",
       "adresse": "Hay Al Qods, Résidence. Annakhil",
       "tel": "",
+      "lat": 33.6126,
+      "lng": -7.5126,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Prefecture Bernoussi",
+      "ville": "Casablanca",
+      "quartier": "Sidi bernoussi",
+      "adresse": "cité Sidi Bernoussi, derb Maaguiz bloc 20 n°23",
+      "tel": "",
       "lat": 33.6138,
       "lng": -7.5174,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie les Bureaux",
@@ -354,24 +354,24 @@
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Charles Nicolle",
-      "ville": "Casablanca",
-      "quartier": "Ville et bourgogne et maarif",
-      "adresse": "19, place Louis Pasteur -ex Charles Nicolle",
-      "tel": "",
-      "lat": 33.5794,
-      "lng": -7.6104,
-      "garde": "24h"
-    },
-    {
       "nom": "Pharmacie Al Amne",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
       "adresse": "1, rue du Golo",
       "tel": "",
+      "lat": 33.5794,
+      "lng": -7.6104,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Charles Nicolle",
+      "ville": "Casablanca",
+      "quartier": "Ville et bourgogne et maarif",
+      "adresse": "19, place Louis Pasteur -ex Charles Nicolle",
+      "tel": "",
       "lat": 33.5806,
       "lng": -7.6092,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie Mersultan",
