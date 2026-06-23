@@ -1,76 +1,56 @@
 {
   "source": "annuaire-gratuit.ma",
-  "date": "2026-06-22",
+  "date": "2026-06-23",
   "note": "Donnees de garde du jour. Coordonnees approximatives (quartier). Telephones a completer depuis la source officielle.",
   "pharmacies": [
     {
-      "nom": "Pharmacie Bin El Ouidane",
+      "nom": "Pharmacie Alam",
       "ville": "Rabat",
       "quartier": "Agdal",
-      "adresse": "angle av bin el ouidane rue el gansra agdal ss",
+      "adresse": "33.35 avenue oqba agdal (en face du jardin d'essai et l'ambassade de franceet à côté de l'hôtel oumlil) -",
       "tel": "",
       "lat": 33.9894,
       "lng": -6.8524,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Ibn Toumerte",
+      "nom": "Pharmacie Renaissance",
       "ville": "Rabat",
-      "quartier": "Akkari Ocean Orangers",
-      "adresse": "bd ibn toumerte les orangers près clinique al boustane et l'école badr",
+      "quartier": "hassan",
+      "adresse": "N°356, avenue Mohammed V",
       "tel": "",
-      "lat": 34.0096,
-      "lng": -6.8432,
-      "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie De La Capitale",
-      "ville": "Rabat",
-      "quartier": "Centre Ville",
-      "adresse": "15 rue my abdelaziz (prés snrt)",
-      "tel": "",
-      "lat": 34.0128,
-      "lng": -6.833,
+      "lat": 34.0185,
+      "lng": -6.8428,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie La Vitalite",
+      "nom": "Pharmacie Aboubakr Assedik",
       "ville": "Rabat",
-      "quartier": "Hay Riad",
-      "adresse": "croisement avenue mehdi ben barka et avenue al arz",
+      "quartier": "Takadoum Et Souissi",
+      "adresse": "rue chaouia, imm j n°5 mabella",
       "tel": "",
-      "lat": 34.0209,
-      "lng": -6.8404,
+      "lat": 33.9748,
+      "lng": -6.818,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Tarik Elmehdi",
+      "nom": "Pharmacie Al Kawthar",
       "ville": "Rabat",
       "quartier": "Yacoub El Mansour",
-      "adresse": "av el massira n°16 amal 4 ext c.y.m",
+      "adresse": "18 rue inbiat c.y.m",
+      "tel": "",
+      "lat": 33.965,
+      "lng": -6.8608,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Sofia",
+      "ville": "Rabat",
+      "quartier": "Yacoub El Mansour",
+      "adresse": "1205 bis avenue al massira hay el menzeh",
       "tel": "",
       "lat": 33.9662,
       "lng": -6.8596,
-      "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie Al Fadila",
-      "ville": "Rabat",
-      "quartier": "Yacoub El Mansour",
-      "adresse": "9 avenue annour kamra (en face lycée abdelkrim khatabi)",
-      "tel": "",
-      "lat": 33.9674,
-      "lng": -6.8644,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Lotus",
-      "ville": "Rabat",
-      "quartier": "Yacoub El Mansour",
-      "adresse": "bd des far n°342 quartier el menzeh c.y.m",
-      "tel": "",
-      "lat": 33.9686,
-      "lng": -6.8632,
       "garde": "jour"
     }
   ]
