@@ -124,33 +124,23 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Salaheddine",
-      "ville": "Casablanca",
-      "quartier": "Hay hassani et el oulfa",
-      "adresse": "756, bd Oued Sebou",
-      "tel": "",
-      "lat": 33.5454,
-      "lng": -7.656,
-      "garde": "24h"
-    },
-    {
       "nom": "Pharmacie Nasri",
       "ville": "Casablanca",
       "quartier": "Hay hassani et el oulfa",
       "adresse": "hay Hassani, bloc 2, n°75 bis cité Commune Urbaine - Oulfa",
       "tel": "",
-      "lat": 33.5466,
-      "lng": -7.6548,
+      "lat": 33.5454,
+      "lng": -7.656,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Avenue Naciri",
+      "nom": "Pharmacie Salaheddine",
       "ville": "Casablanca",
       "quartier": "Hay hassani et el oulfa",
-      "adresse": "253, bd Mohamed Taieb Naciri . El oulfa",
+      "adresse": "756, bd Oued Sebou",
       "tel": "",
-      "lat": 33.5394,
-      "lng": -7.6536,
+      "lat": 33.5466,
+      "lng": -7.6548,
       "garde": "24h"
     },
     {
@@ -159,19 +149,19 @@
       "quartier": "Hay hassani et el oulfa",
       "adresse": "N°17. Rue Larache. Hay Salam (Souika C.I.L)",
       "tel": "",
-      "lat": 33.5406,
-      "lng": -7.6584,
+      "lat": 33.5394,
+      "lng": -7.6536,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Erreda",
+      "nom": "Pharmacie Avenue Naciri",
       "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "162, avenue Nkili Ahmed ex A. Bourgadam et Vitalis",
+      "quartier": "Hay hassani et el oulfa",
+      "adresse": "253, bd Mohamed Taieb Naciri . El oulfa",
       "tel": "",
-      "lat": 33.5888,
-      "lng": -7.5662,
-      "garde": "jour"
+      "lat": 33.5406,
+      "lng": -7.6584,
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie AlAqsa",
@@ -179,8 +169,8 @@
       "quartier": "Hay mohammadi",
       "adresse": "6, rue du Soldat Emile Brunet, résid. AlAmane",
       "tel": "",
-      "lat": 33.59,
-      "lng": -7.565,
+      "lat": 33.5888,
+      "lng": -7.5662,
       "garde": "jour"
     },
     {
@@ -189,18 +179,18 @@
       "quartier": "Hay Mohammadi",
       "adresse": "avenue chaouki jilali meskini ex lhoucin b.a toto projet hassan ii imm. 12 n°14 hay mohammadi",
       "tel": "",
-      "lat": 33.5912,
-      "lng": -7.5638,
+      "lat": 33.59,
+      "lng": -7.565,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie derb Takadoum",
+      "nom": "Pharmacie Erreda",
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
-      "adresse": "hay Takadoum, rue 26 n°5",
+      "adresse": "162, avenue Nkili Ahmed ex A. Bourgadam et Vitalis",
       "tel": "",
-      "lat": 33.5924,
-      "lng": -7.5626,
+      "lat": 33.5912,
+      "lng": -7.5638,
       "garde": "jour"
     },
     {
@@ -209,8 +199,8 @@
       "quartier": "Hay mohammadi",
       "adresse": "Hay Azeddine, Rue 4 N°3",
       "tel": "",
-      "lat": 33.5936,
-      "lng": -7.5674,
+      "lat": 33.5924,
+      "lng": -7.5626,
       "garde": "jour"
     },
     {
@@ -219,8 +209,8 @@
       "quartier": "Hay mohammadi",
       "adresse": "Dar Lamane. Bloc L N°8",
       "tel": "",
-      "lat": 33.5864,
-      "lng": -7.5662,
+      "lat": 33.5936,
+      "lng": -7.5674,
       "garde": "jour"
     },
     {
@@ -228,6 +218,16 @@
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
       "adresse": "15, rue Jaafar El Barmaki",
+      "tel": "",
+      "lat": 33.5864,
+      "lng": -7.5662,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie derb Takadoum",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "hay Takadoum, rue 26 n°5",
       "tel": "",
       "lat": 33.5876,
       "lng": -7.565,
@@ -314,20 +314,20 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Abdellatif",
+      "nom": "Pharmacie AlHayat",
       "ville": "Casablanca",
       "quartier": "Sidi moumen",
-      "adresse": "lotiss. Alhadika, imm. 1 mag. 1",
+      "adresse": "hay Sidi Moumen, rue 20 n°93-95",
       "tel": "",
       "lat": 33.586,
       "lng": -7.5272,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie AlHayat",
+      "nom": "Pharmacie Abdellatif",
       "ville": "Casablanca",
       "quartier": "Sidi moumen",
-      "adresse": "hay Sidi Moumen, rue 20 n°93-95",
+      "adresse": "lotiss. Alhadika, imm. 1 mag. 1",
       "tel": "",
       "lat": 33.5872,
       "lng": -7.526,
@@ -344,20 +344,20 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Jerrada",
+      "nom": "Pharmacie du lycée",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
-      "adresse": "N°61, Boulevard Abderrahim Bouabid -ex Jerrada - Oasis",
+      "adresse": "8 rue de la Réunion Bourgogne",
       "tel": "",
       "lat": 33.5866,
       "lng": -7.6056,
-      "garde": "24h"
+      "garde": "jour"
     },
     {
-      "nom": "Pharmacie Chafik",
+      "nom": "Pharmacie Attissir",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
-      "adresse": "Boulevard Abdelhadi Boutaleb ex rte d'Azemmour, Hay El Massaoudi rue 1 N°40 bis",
+      "adresse": "lot. Famille Française, rue 93 n°57",
       "tel": "",
       "lat": 33.5794,
       "lng": -7.6104,
@@ -374,24 +374,24 @@
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie du lycée",
+      "nom": "Pharmacie Chafik",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
-      "adresse": "8 rue de la Réunion Bourgogne",
+      "adresse": "Boulevard Abdelhadi Boutaleb ex rte d'Azemmour, Hay El Massaoudi rue 1 N°40 bis",
       "tel": "",
       "lat": 33.5818,
       "lng": -7.608,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Attissir",
+      "nom": "Pharmacie Jerrada",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
-      "adresse": "lot. Famille Française, rue 93 n°57",
+      "adresse": "N°61, Boulevard Abderrahim Bouabid -ex Jerrada - Oasis",
       "tel": "",
       "lat": 33.583,
       "lng": -7.6068,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie Anzi",
