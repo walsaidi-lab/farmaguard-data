@@ -84,24 +84,24 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Ezohours",
-      "ville": "Casablanca",
-      "quartier": "El fida et mers sultan",
-      "adresse": "hay Aïn Chiffa I, rue 2 n°30",
-      "tel": "",
-      "lat": 33.5806,
-      "lng": -7.6068,
-      "garde": "jour"
-    },
-    {
       "nom": "Pharmacie Derb Sultan",
       "ville": "Casablanca",
       "quartier": "El fida et mers sultan",
       "adresse": "Derb Baladia (nvlle médina), rue Chaouia, n°24/25/26",
       "tel": "",
+      "lat": 33.5806,
+      "lng": -7.6068,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Ezohours",
+      "ville": "Casablanca",
+      "quartier": "El fida et mers sultan",
+      "adresse": "hay Aïn Chiffa I, rue 2 n°30",
+      "tel": "",
       "lat": 33.5818,
       "lng": -7.6056,
-      "garde": "24h"
+      "garde": "jour"
     },
     {
       "nom": "Pharmacie Khlil",
@@ -114,13 +114,23 @@
       "garde": "jour"
     },
     {
+      "nom": "Pharmacie ElKawtar",
+      "ville": "Casablanca",
+      "quartier": "Hay hassani et el oulfa",
+      "adresse": "10 bd Oued Sebou (hay El Oulfa) Mosquée Ferrara I Oulfa",
+      "tel": "",
+      "lat": 33.5442,
+      "lng": -7.6572,
+      "garde": "jour"
+    },
+    {
       "nom": "Pharmacie Massira Hassania",
       "ville": "Casablanca",
       "quartier": "Hay hassani et el oulfa",
       "adresse": "lotiss. Al Massira Al Hassania, lot 55 rue 6",
       "tel": "",
-      "lat": 33.5442,
-      "lng": -7.6572,
+      "lat": 33.5454,
+      "lng": -7.656,
       "garde": "jour"
     },
     {
@@ -129,19 +139,9 @@
       "quartier": "Hay hassani et el oulfa",
       "adresse": "142, bd Abdelhadi Boutaleb ex rte d'Azemmour. Hay hassani",
       "tel": "",
-      "lat": 33.5454,
-      "lng": -7.656,
-      "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie ElKawtar",
-      "ville": "Casablanca",
-      "quartier": "Hay hassani et el oulfa",
-      "adresse": "10 bd Oued Sebou (hay El Oulfa) Mosquée Ferrara I Oulfa",
-      "tel": "",
       "lat": 33.5466,
       "lng": -7.6548,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie Mazola",
@@ -154,20 +154,20 @@
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Boualam",
+      "nom": "Pharmacie Choura Al Assil",
       "ville": "Casablanca",
-      "quartier": "Hay Mohammadi",
-      "adresse": "hay Souarete (Aïn Borja) rue 5 n°54",
+      "quartier": "hay Mohammadi",
+      "adresse": "bd Ibn Louennane résid. AlAssil n°4 A 003 Hay Mohammadi",
       "tel": "",
       "lat": 33.5876,
       "lng": -7.5674,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Résidence ElMouahidine",
+      "nom": "Pharmacie Senhaja Health",
       "ville": "Casablanca",
-      "quartier": "Hay Mohammadi",
-      "adresse": "lot. el mouahidine, résid. abdelmoumen 1 n°7",
+      "quartier": "Hay mohammadi",
+      "adresse": "98, rue du Capitaine Loubet, Khalil I",
       "tel": "",
       "lat": 33.5888,
       "lng": -7.5662,
@@ -184,20 +184,20 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Choura Al Assil",
+      "nom": "Pharmacie Boualam",
       "ville": "Casablanca",
-      "quartier": "hay Mohammadi",
-      "adresse": "bd Ibn Louennane résid. AlAssil n°4 A 003 Hay Mohammadi",
+      "quartier": "Hay Mohammadi",
+      "adresse": "hay Souarete (Aïn Borja) rue 5 n°54",
       "tel": "",
       "lat": 33.5912,
       "lng": -7.5638,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Senhaja Health",
+      "nom": "Pharmacie Résidence ElMouahidine",
       "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "98, rue du Capitaine Loubet, Khalil I",
+      "quartier": "Hay Mohammadi",
+      "adresse": "lot. el mouahidine, résid. abdelmoumen 1 n°7",
       "tel": "",
       "lat": 33.5924,
       "lng": -7.5626,
@@ -234,33 +234,23 @@
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Ghofrane",
-      "ville": "Casablanca",
-      "quartier": "Sidi bernoussi",
-      "adresse": "hay El Qods, bloc c, rue 2, n°116",
-      "tel": "",
-      "lat": 33.6138,
-      "lng": -7.5138,
-      "garde": "24h"
-    },
-    {
       "nom": "Pharmacie El Boussairi",
       "ville": "Casablanca",
       "quartier": "Sidi bernoussi",
       "adresse": "cité Sidi Bernoussi, bloc 33, n°18 bis",
       "tel": "",
-      "lat": 33.615,
-      "lng": -7.5126,
+      "lat": 33.6138,
+      "lng": -7.5138,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Zenith Millenium",
+      "nom": "Pharmacie Ghofrane",
       "ville": "Casablanca",
-      "quartier": "Sidi maarouf",
-      "adresse": "162, lotiss. Florida , California",
+      "quartier": "Sidi bernoussi",
+      "adresse": "hay El Qods, bloc c, rue 2, n°116",
       "tel": "",
-      "lat": 33.5062,
-      "lng": -7.6324,
+      "lat": 33.615,
+      "lng": -7.5126,
       "garde": "24h"
     },
     {
@@ -269,18 +259,18 @@
       "quartier": "Sidi maarouf",
       "adresse": "126, lotiss. Faraj , Sidi Maârouf",
       "tel": "",
-      "lat": 33.5074,
-      "lng": -7.6312,
+      "lat": 33.5062,
+      "lng": -7.6324,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Masjid Attacharouk",
+      "nom": "Pharmacie Zenith Millenium",
       "ville": "Casablanca",
-      "quartier": "Sidi moumen",
-      "adresse": "Hay Sidi Moumen, Lotissement. Talibi, lot. 9",
+      "quartier": "Sidi maarouf",
+      "adresse": "162, lotiss. Florida , California",
       "tel": "",
-      "lat": 33.5896,
-      "lng": -7.526,
+      "lat": 33.5074,
+      "lng": -7.6312,
       "garde": "24h"
     },
     {
@@ -288,6 +278,16 @@
       "ville": "Casablanca",
       "quartier": "Sidi moumen",
       "adresse": "Lotissement. El houria, Rue 19 N°65",
+      "tel": "",
+      "lat": 33.5896,
+      "lng": -7.526,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Masjid Attacharouk",
+      "ville": "Casablanca",
+      "quartier": "Sidi moumen",
+      "adresse": "Hay Sidi Moumen, Lotissement. Talibi, lot. 9",
       "tel": "",
       "lat": 33.5824,
       "lng": -7.5248,
@@ -324,10 +324,10 @@
       "garde": "jour"
     },
     {
-      "nom": "Grande pharmacie du Maroc",
+      "nom": "Pharmacie Bab Marrakech",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
-      "adresse": "place Bandoeng",
+      "adresse": "1, place de Marrakech",
       "tel": "",
       "lat": 33.5842,
       "lng": -7.608,
@@ -344,10 +344,10 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Bab Marrakech",
+      "nom": "Grande pharmacie du Maroc",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
-      "adresse": "1, place de Marrakech",
+      "adresse": "place Bandoeng",
       "tel": "",
       "lat": 33.5866,
       "lng": -7.6056,
