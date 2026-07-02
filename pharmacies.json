@@ -84,24 +84,24 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Derb Sultan",
-      "ville": "Casablanca",
-      "quartier": "El fida et mers sultan",
-      "adresse": "Derb Baladia (nvlle médina), rue Chaouia, n°24/25/26",
-      "tel": "",
-      "lat": 33.5806,
-      "lng": -7.6068,
-      "garde": "24h"
-    },
-    {
       "nom": "Pharmacie Ezohours",
       "ville": "Casablanca",
       "quartier": "El fida et mers sultan",
       "adresse": "hay Aïn Chiffa I, rue 2 n°30",
       "tel": "",
+      "lat": 33.5806,
+      "lng": -7.6068,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Derb Sultan",
+      "ville": "Casablanca",
+      "quartier": "El fida et mers sultan",
+      "adresse": "Derb Baladia (nvlle médina), rue Chaouia, n°24/25/26",
+      "tel": "",
       "lat": 33.5818,
       "lng": -7.6056,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie Khlil",
@@ -114,24 +114,24 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Massira Hassania",
-      "ville": "Casablanca",
-      "quartier": "Hay hassani et el oulfa",
-      "adresse": "lotiss. Al Massira Al Hassania, lot 55 rue 6",
-      "tel": "",
-      "lat": 33.5442,
-      "lng": -7.6572,
-      "garde": "jour"
-    },
-    {
       "nom": "Pharmacie Sahel",
       "ville": "Casablanca",
       "quartier": "Hay hassani et el oulfa",
       "adresse": "142, bd Abdelhadi Boutaleb ex rte d'Azemmour. Hay hassani",
       "tel": "",
+      "lat": 33.5442,
+      "lng": -7.6572,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Massira Hassania",
+      "ville": "Casablanca",
+      "quartier": "Hay hassani et el oulfa",
+      "adresse": "lotiss. Al Massira Al Hassania, lot 55 rue 6",
+      "tel": "",
       "lat": 33.5454,
       "lng": -7.656,
-      "garde": "24h"
+      "garde": "jour"
     },
     {
       "nom": "Pharmacie ElKawtar",
@@ -324,13 +324,23 @@
       "garde": "24h"
     },
     {
+      "nom": "Pharmacie Bab Marrakech",
+      "ville": "Casablanca",
+      "quartier": "Ville et bourgogne et maarif",
+      "adresse": "1, place de Marrakech",
+      "tel": "",
+      "lat": 33.5842,
+      "lng": -7.608,
+      "garde": "jour"
+    },
+    {
       "nom": "Grande pharmacie du Maroc",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
       "adresse": "place Bandoeng",
       "tel": "",
-      "lat": 33.5842,
-      "lng": -7.608,
+      "lat": 33.5854,
+      "lng": -7.6068,
       "garde": "jour"
     },
     {
@@ -338,16 +348,6 @@
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
       "adresse": "24 Bis, rue des Vanneaux",
-      "tel": "",
-      "lat": 33.5854,
-      "lng": -7.6068,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Bab Marrakech",
-      "ville": "Casablanca",
-      "quartier": "Ville et bourgogne et maarif",
-      "adresse": "1, place de Marrakech",
       "tel": "",
       "lat": 33.5866,
       "lng": -7.6056,
