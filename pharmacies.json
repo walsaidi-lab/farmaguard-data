@@ -1,6 +1,6 @@
 {
   "source": "annuaire-gratuit.ma",
-  "date": "2026-07-04",
+  "date": "2026-07-05",
   "note": "Donnees de garde du jour. Coordonnees approximatives (quartier). Telephones a completer depuis la source officielle.",
   "pharmacies": [
     {
@@ -94,24 +94,24 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Derb Sultan",
-      "ville": "Casablanca",
-      "quartier": "El fida et mers sultan",
-      "adresse": "Derb Baladia (nvlle médina), rue Chaouia, n°24/25/26",
-      "tel": "",
-      "lat": 33.5818,
-      "lng": -7.6056,
-      "garde": "24h"
-    },
-    {
       "nom": "Pharmacie Ezohours",
       "ville": "Casablanca",
       "quartier": "El fida et mers sultan",
       "adresse": "hay Aïn Chiffa I, rue 2 n°30",
       "tel": "",
+      "lat": 33.5818,
+      "lng": -7.6056,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Derb Sultan",
+      "ville": "Casablanca",
+      "quartier": "El fida et mers sultan",
+      "adresse": "Derb Baladia (nvlle médina), rue Chaouia, n°24/25/26",
+      "tel": "",
       "lat": 33.583,
       "lng": -7.6104,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie ElKawtar",
@@ -304,23 +304,13 @@
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Bab Marrakech",
-      "ville": "Casablanca",
-      "quartier": "Ville et bourgogne et maarif",
-      "adresse": "1, place de Marrakech",
-      "tel": "",
-      "lat": 33.5818,
-      "lng": -7.6104,
-      "garde": "jour"
-    },
-    {
       "nom": "Pharmacie AlAlia",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
       "adresse": "83, bd Massira El Khadra",
       "tel": "",
-      "lat": 33.583,
-      "lng": -7.6092,
+      "lat": 33.5818,
+      "lng": -7.6104,
       "garde": "jour"
     },
     {
@@ -329,9 +319,19 @@
       "quartier": "Ville et bourgogne et maarif",
       "adresse": "3 Bis, rue Henri Murget, résid. Talbi III",
       "tel": "",
+      "lat": 33.583,
+      "lng": -7.6092,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Bab Marrakech",
+      "ville": "Casablanca",
+      "quartier": "Ville et bourgogne et maarif",
+      "adresse": "1, place de Marrakech",
+      "tel": "",
       "lat": 33.5842,
       "lng": -7.608,
-      "garde": "24h"
+      "garde": "jour"
     },
     {
       "nom": "Grande pharmacie du Maroc",
@@ -381,7 +381,7 @@
       "tel": "",
       "lat": 34.0128,
       "lng": -6.833,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie Aya",
@@ -414,14 +414,24 @@
       "garde": "24h"
     },
     {
+      "nom": "Pharmacie Mazhar",
+      "ville": "Rabat",
+      "quartier": "Yacoub El Mansour",
+      "adresse": "127 avenue al majd amal 3 c.y.m -",
+      "tel": "",
+      "lat": 33.9686,
+      "lng": -6.8632,
+      "garde": "24h"
+    },
+    {
       "nom": "Pharmacie Ibn Rochd",
       "ville": "Rabat",
       "quartier": "Yacoub El Mansour",
       "adresse": "2, avenue es-salam c.y.m",
       "tel": "",
-      "lat": 33.9686,
-      "lng": -6.8632,
-      "garde": "24h"
+      "lat": 33.9614,
+      "lng": -6.862,
+      "garde": "jour"
     },
     {
       "nom": "Pharmacie Al Massira",
@@ -429,125 +439,125 @@
       "quartier": "Yacoub El Mansour",
       "adresse": "1081, av al massira c.y.m -",
       "tel": "",
-      "lat": 33.9614,
-      "lng": -6.862,
+      "lat": 33.9626,
+      "lng": -6.8608,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Sidi Amer",
+      "nom": "Pharmacie Palais Mansour",
       "ville": "Meknes",
       "quartier": "Ismailia",
-      "adresse": "109, derb souahel, sidi amer",
+      "adresse": "ex pharmacie m'hmdi avenue chaouia près de hri al mansour roua - zitoune",
       "tel": "",
       "lat": 33.8914,
       "lng": -5.5524,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Achifae",
+      "nom": "Pharmacie Lahlali",
       "ville": "Meknes",
       "quartier": "Ismailia",
-      "adresse": "12 bd driss ben larbi lyamouri",
+      "adresse": "hay al atlas el kheir 1",
       "tel": "",
       "lat": 33.8926,
       "lng": -5.5512,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Kenza Mountazah",
+      "nom": "Pharmacie Gare Routière",
       "ville": "Meknes",
       "quartier": "Ismailia",
-      "adresse": "2, lotiss. al mountazah 1, sect 2 bloc 1",
+      "adresse": "lotiss oualili - a coté de la banque marocaine du commerce extérieur bmce-bank sidi said",
       "tel": "",
       "lat": 33.8938,
       "lng": -5.55,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie La Baraka",
+      "nom": "Pharmacie Ibn Zohr",
       "ville": "Meknes",
       "quartier": "Ismailia",
-      "adresse": "188, hay marjane 4, sidi bouzekri",
+      "adresse": "7 hay ennaim - autre ville narjis 1",
       "tel": "",
       "lat": 33.895,
       "lng": -5.5488,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Al Jawarih",
+      "nom": "Pharmacie Bab Khemis",
       "ville": "Meknes",
       "quartier": "Ismailia",
-      "adresse": "152, hay attadamone 2",
+      "adresse": "1 rue meknès. bab rih. ryad. medina",
       "tel": "",
       "lat": 33.8962,
       "lng": -5.5476,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie L'atlas",
+      "nom": "Pharmacie Chahdia",
       "ville": "Meknes",
       "quartier": "Ismailia",
-      "adresse": "173 avenue abdelkrim el khettabi - sbata",
+      "adresse": "lotiss. chahdia, 3°tranche el mansour n°291",
       "tel": "",
       "lat": 33.8974,
       "lng": -5.5524,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Moderne",
+      "nom": "Pharmacie Aya",
       "ville": "Meknes",
       "quartier": "Menzeh",
-      "adresse": "59, bd des f.a.r.",
+      "adresse": "hay borj moulay omar, douar jdid n°69",
       "tel": "",
       "lat": 33.8816,
       "lng": -5.5662,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Masjid Al Anouar",
+      "nom": "Pharmacie La Rosée",
       "ville": "Meknes",
       "quartier": "Menzeh",
-      "adresse": "hay mly ismail, près de la mosquée al anouar, terminus bus 14 - 17. l'hacienda. 5 bd khalid bnou loualid",
+      "adresse": "bd moulay youssef ang. abou ali ben rahal. face les travaux publiques et neuvième arrondissement. route du stade d'honneur",
       "tel": "",
       "lat": 33.8744,
       "lng": -5.565,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Al Amane",
+      "nom": "Pharmacie Al Ikhlasse",
       "ville": "Meknes",
       "quartier": "Menzeh",
-      "adresse": "secteur c prés du dispensaire et de la percéption",
+      "adresse": "27, hay al bassatine, lotiss. laaraichi 6",
       "tel": "",
       "lat": 33.8756,
       "lng": -5.5638,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Asrar Assiha",
+      "nom": "Pharmacie El Boustane",
       "ville": "Meknes",
       "quartier": "Ouislane",
-      "adresse": "3 riad al omrane, resid assafaa tranche 1 ouislane",
+      "adresse": "hay ouislane, imm. a1 n°3 el boustane",
       "tel": "",
       "lat": 33.9138,
       "lng": -5.5226,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Al Hikma",
+      "nom": "Pharmacie La Farge",
       "ville": "Meknes",
       "quartier": "Ouislane",
-      "adresse": "63, rue nador, hay salam, ouislane",
+      "adresse": "76 lotiss. la farge",
       "tel": "",
       "lat": 33.915,
       "lng": -5.5274,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie ben Bouziane",
+      "nom": "Pharmacie Assakina 5",
       "ville": "Meknes",
       "quartier": "Toulal",
-      "adresse": "24 lotiss. boujidi toulal",
+      "adresse": "2 hay toulal - imm e mag.20",
       "tel": "",
       "lat": 33.8612,
       "lng": -5.6062,
