@@ -4,24 +4,24 @@
   "note": "Donnees de garde du jour. Coordonnees approximatives (quartier). Telephones a completer depuis la source officielle.",
   "pharmacies": [
     {
-      "nom": "Pharmacie Addiar",
-      "ville": "Casablanca",
-      "quartier": "Ain chock",
-      "adresse": "Hay Inara I, rue3- Addiar Al Jadida N°16",
-      "tel": "",
-      "lat": 33.5364,
-      "lng": -7.5814,
-      "garde": "jour"
-    },
-    {
       "nom": "Pharmacie bd Mohamed VI",
       "ville": "Casablanca",
       "quartier": "Ain chock",
       "adresse": "Hay Moulay Abdallah, rue 286 n°37, Bd. El Khalil",
       "tel": "",
+      "lat": 33.5364,
+      "lng": -7.5814,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Addiar",
+      "ville": "Casablanca",
+      "quartier": "Ain chock",
+      "adresse": "Hay Inara I, rue3- Addiar Al Jadida N°16",
+      "tel": "",
       "lat": 33.5376,
       "lng": -7.5802,
-      "garde": "24h"
+      "garde": "jour"
     },
     {
       "nom": "Pharmacie Riad Al Andalous",
@@ -144,33 +144,13 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Al Fatiha",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "3, rue Senhaja, khalil II",
-      "tel": "",
-      "lat": 33.5864,
-      "lng": -7.5626,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Jihane",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "bd Abdelkrim Al Khatib ex Oulad Ziane, C.com. Cité Ouled Ziane n°28",
-      "tel": "",
-      "lat": 33.5876,
-      "lng": -7.5674,
-      "garde": "jour"
-    },
-    {
       "nom": "Pharmacie Okba Ibn Nafii",
       "ville": "Casablanca",
       "quartier": "hay Mohammadi",
       "adresse": "hay Adil rue 5 n°11 Ain Borja",
       "tel": "",
-      "lat": 33.5888,
-      "lng": -7.5662,
+      "lat": 33.5864,
+      "lng": -7.5626,
       "garde": "jour"
     },
     {
@@ -179,28 +159,28 @@
       "quartier": "Hay mohammadi",
       "adresse": "278, bd Ibn Tachfine",
       "tel": "",
-      "lat": 33.59,
-      "lng": -7.565,
+      "lat": 33.5876,
+      "lng": -7.5674,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Ghizlane",
+      "nom": "Pharmacie Al Fatiha",
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
-      "adresse": "120 Bis, bd du Fouarat, hay Jamal",
+      "adresse": "3, rue Senhaja, khalil II",
       "tel": "",
-      "lat": 33.5912,
-      "lng": -7.5638,
+      "lat": 33.5888,
+      "lng": -7.5662,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Nagjir",
+      "nom": "Pharmacie Jihane",
       "ville": "Casablanca",
-      "quartier": "hay Mohammadi",
-      "adresse": "lot. El Mouahidine (hay Mohammadi) lot.334 bd la Grande Ceinture Hay Mohammadi",
+      "quartier": "Hay mohammadi",
+      "adresse": "bd Abdelkrim Al Khatib ex Oulad Ziane, C.com. Cité Ouled Ziane n°28",
       "tel": "",
-      "lat": 33.5924,
-      "lng": -7.5626,
+      "lat": 33.59,
+      "lng": -7.565,
       "garde": "jour"
     },
     {
@@ -209,8 +189,8 @@
       "quartier": "Hay mohammadi",
       "adresse": "N°2, Avenue Ali Yata -ex Foum Lahsan",
       "tel": "",
-      "lat": 33.5936,
-      "lng": -7.5674,
+      "lat": 33.5912,
+      "lng": -7.5638,
       "garde": "24h"
     },
     {
@@ -218,6 +198,26 @@
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
       "adresse": "av. Zouhair Med Najjar -ex D, Bloc Kodia 1 n°44",
+      "tel": "",
+      "lat": 33.5924,
+      "lng": -7.5626,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Ghizlane",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "120 Bis, bd du Fouarat, hay Jamal",
+      "tel": "",
+      "lat": 33.5936,
+      "lng": -7.5674,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Nagjir",
+      "ville": "Casablanca",
+      "quartier": "hay Mohammadi",
+      "adresse": "lot. El Mouahidine (hay Mohammadi) lot.334 bd la Grande Ceinture Hay Mohammadi",
       "tel": "",
       "lat": 33.5864,
       "lng": -7.5662,
