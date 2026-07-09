@@ -1,6 +1,6 @@
 {
   "source": "annuaire-gratuit.ma",
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "note": "Donnees de garde du jour. Coordonnees approximatives (quartier). Telephones a completer depuis la source officielle.",
   "pharmacies": [
     {
@@ -114,24 +114,24 @@
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Soufiane",
-      "ville": "Casablanca",
-      "quartier": "Hay hassani et el oulfa",
-      "adresse": "hay El Oulfa, grp.K, rue 154 n°23/25",
-      "tel": "",
-      "lat": 33.5442,
-      "lng": -7.6572,
-      "garde": "24h"
-    },
-    {
       "nom": "Pharmacie Jabrane",
       "ville": "Casablanca",
       "quartier": "Hay hassani et el oulfa",
       "adresse": "zone indus. El Wifak, rte H H24, n°52",
       "tel": "",
+      "lat": 33.5442,
+      "lng": -7.6572,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Soufiane",
+      "ville": "Casablanca",
+      "quartier": "Hay hassani et el oulfa",
+      "adresse": "hay El Oulfa, grp.K, rue 154 n°23/25",
+      "tel": "",
       "lat": 33.5454,
       "lng": -7.656,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie Jnane Oulfa",
@@ -334,13 +334,23 @@
       "garde": "jour"
     },
     {
+      "nom": "Pharmacie du Complexe Sportif",
+      "ville": "Casablanca",
+      "quartier": "Ville et bourgogne et maarif",
+      "adresse": "63, rue Mamoun Mohamed -ex Platon",
+      "tel": "",
+      "lat": 33.5854,
+      "lng": -7.6068,
+      "garde": "jour"
+    },
+    {
       "nom": "Pharmacie Onyx",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
       "adresse": "bd de la Grande Ceinture (A.Diab) ex S. Abderrahman, lotiss. Salaj, lot. n°9, villa 75",
       "tel": "",
-      "lat": 33.5854,
-      "lng": -7.6068,
+      "lat": 33.5866,
+      "lng": -7.6056,
       "garde": "jour"
     },
     {
@@ -349,28 +359,8 @@
       "quartier": "Ville et bourgogne et maarif",
       "adresse": "153 bd El Habacha - ex Watteau Derb Ghalef",
       "tel": "",
-      "lat": 33.5866,
-      "lng": -7.6056,
-      "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie du Complexe Sportif",
-      "ville": "Casablanca",
-      "quartier": "Ville et bourgogne et maarif",
-      "adresse": "63, rue Mamoun Mohamed -ex Platon",
-      "tel": "",
       "lat": 33.5794,
       "lng": -7.6104,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Souktani",
-      "ville": "Casablanca",
-      "quartier": "Ville et bourgogne et maarif",
-      "adresse": "11, rue Moutanabbi -ex Roziers",
-      "tel": "",
-      "lat": 33.5806,
-      "lng": -7.6092,
       "garde": "24h"
     },
     {
@@ -379,75 +369,85 @@
       "quartier": "Ville et bourgogne et maarif",
       "adresse": "1, rue des Salins",
       "tel": "",
-      "lat": 33.5818,
-      "lng": -7.608,
+      "lat": 33.5806,
+      "lng": -7.6092,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Iswane",
+      "nom": "Pharmacie Souktani",
+      "ville": "Casablanca",
+      "quartier": "Ville et bourgogne et maarif",
+      "adresse": "11, rue Moutanabbi -ex Roziers",
+      "tel": "",
+      "lat": 33.5818,
+      "lng": -7.608,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Al Wifak",
       "ville": "Rabat",
       "quartier": "Agdal",
-      "adresse": "rue jaâfar essadik résidence lakhdar mag n°37 (en face hôpital avicenne)",
+      "adresse": "n°3, boulevard ibn sina, en face école mohamadia des ingénieurs",
       "tel": "",
       "lat": 33.9894,
       "lng": -6.8524,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie des Orangers",
+      "nom": "Pharmacie Al Maghreb Al Arabi",
       "ville": "Rabat",
       "quartier": "Akkari Ocean Orangers",
-      "adresse": "189 av hassan ii -",
+      "adresse": "21.23 avenue al maghreb al arabit océan",
       "tel": "",
       "lat": 34.0096,
       "lng": -6.8432,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
-      "nom": "Pharmacie Chellah",
+      "nom": "Pharmacie De La Marne",
       "ville": "Rabat",
       "quartier": "Centre Ville",
-      "adresse": "place melilia, hassan (en face de l'hôtel malak)",
+      "adresse": "42 rue patrice lumumba (a coté du lycée lalla aicha)",
       "tel": "",
       "lat": 34.0128,
       "lng": -6.833,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie L 039 Hopital Militaire",
+      "nom": "Pharmacie Al Melia",
       "ville": "Rabat",
       "quartier": "Hay Riad",
-      "adresse": "angle av al arz et av al hour",
+      "adresse": "avenue dr abdelkrim el khatib (ex: av al melia) -",
       "tel": "",
       "lat": 34.0209,
       "lng": -6.8404,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Lacustre",
-      "ville": "Rabat",
-      "quartier": "Takadoum Et Souissi",
-      "adresse": "13 bd mehdi ben barka -",
-      "tel": "",
-      "lat": 33.9772,
-      "lng": -6.8156,
-      "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie Al Hikma",
+      "nom": "Pharmacie Attaissir",
       "ville": "Rabat",
       "quartier": "Yacoub El Mansour",
-      "adresse": "numéro 1376 amal 5 c.y.m -",
+      "adresse": "443 rue alhassoune hay al manzah c.y.m (a côté de youpi et du restaurant piccola italia)",
+      "tel": "",
+      "lat": 33.9662,
+      "lng": -6.8596,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Hay Al Kora",
+      "ville": "Rabat",
+      "quartier": "Yacoub El Mansour",
+      "adresse": "93, lot sidi elyabouri douar al kora c.y.m -",
       "tel": "",
       "lat": 33.9674,
       "lng": -6.8644,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Chbanat",
+      "nom": "Pharmacie Choukroallah",
       "ville": "Rabat",
       "quartier": "Yacoub El Mansour",
-      "adresse": "349 lot chbanat cym",
+      "adresse": "À côté av al majd: 9 bis bloc dg kouass (ancien poste pointage taxi et achoura)yacoub el mansour",
       "tel": "",
       "lat": 33.9686,
       "lng": -6.8632,
