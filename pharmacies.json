@@ -124,23 +124,33 @@
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Soufiane",
-      "ville": "Casablanca",
-      "quartier": "Hay hassani et el oulfa",
-      "adresse": "hay El Oulfa, grp.K, rue 154 n°23/25",
-      "tel": "",
-      "lat": 33.5454,
-      "lng": -7.656,
-      "garde": "24h"
-    },
-    {
       "nom": "Pharmacie Jabrane",
       "ville": "Casablanca",
       "quartier": "Hay hassani et el oulfa",
       "adresse": "zone indus. El Wifak, rte H H24, n°52",
       "tel": "",
+      "lat": 33.5454,
+      "lng": -7.656,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Soufiane",
+      "ville": "Casablanca",
+      "quartier": "Hay hassani et el oulfa",
+      "adresse": "hay El Oulfa, grp.K, rue 154 n°23/25",
+      "tel": "",
       "lat": 33.5466,
       "lng": -7.6548,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Jihane",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "bd Abdelkrim Al Khatib ex Oulad Ziane, C.com. Cité Ouled Ziane n°28",
+      "tel": "",
+      "lat": 33.5864,
+      "lng": -7.5626,
       "garde": "jour"
     },
     {
@@ -149,8 +159,8 @@
       "quartier": "hay Mohammadi",
       "adresse": "hay Adil rue 5 n°11 Ain Borja",
       "tel": "",
-      "lat": 33.5864,
-      "lng": -7.5626,
+      "lat": 33.5876,
+      "lng": -7.5674,
       "garde": "jour"
     },
     {
@@ -159,8 +169,8 @@
       "quartier": "Hay mohammadi",
       "adresse": "278, bd Ibn Tachfine",
       "tel": "",
-      "lat": 33.5876,
-      "lng": -7.5674,
+      "lat": 33.5888,
+      "lng": -7.5662,
       "garde": "jour"
     },
     {
@@ -169,18 +179,18 @@
       "quartier": "Hay mohammadi",
       "adresse": "3, rue Senhaja, khalil II",
       "tel": "",
-      "lat": 33.5888,
-      "lng": -7.5662,
+      "lat": 33.59,
+      "lng": -7.565,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Jihane",
+      "nom": "Pharmacie Ghizlane",
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
-      "adresse": "bd Abdelkrim Al Khatib ex Oulad Ziane, C.com. Cité Ouled Ziane n°28",
+      "adresse": "120 Bis, bd du Fouarat, hay Jamal",
       "tel": "",
-      "lat": 33.59,
-      "lng": -7.565,
+      "lat": 33.5912,
+      "lng": -7.5638,
       "garde": "jour"
     },
     {
@@ -189,8 +199,8 @@
       "quartier": "hay Mohammadi",
       "adresse": "lot. El Mouahidine (hay Mohammadi) lot.334 bd la Grande Ceinture Hay Mohammadi",
       "tel": "",
-      "lat": 33.5912,
-      "lng": -7.5638,
+      "lat": 33.5924,
+      "lng": -7.5626,
       "garde": "jour"
     },
     {
@@ -199,8 +209,8 @@
       "quartier": "Hay mohammadi",
       "adresse": "N°2, Avenue Ali Yata -ex Foum Lahsan",
       "tel": "",
-      "lat": 33.5924,
-      "lng": -7.5626,
+      "lat": 33.5936,
+      "lng": -7.5674,
       "garde": "24h"
     },
     {
@@ -208,16 +218,6 @@
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
       "adresse": "av. Zouhair Med Najjar -ex D, Bloc Kodia 1 n°44",
-      "tel": "",
-      "lat": 33.5936,
-      "lng": -7.5674,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Ghizlane",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "120 Bis, bd du Fouarat, hay Jamal",
       "tel": "",
       "lat": 33.5864,
       "lng": -7.5662,
@@ -304,24 +304,24 @@
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Hay Al Houda",
-      "ville": "Casablanca",
-      "quartier": "Sidi moumen",
-      "adresse": "lotiss. Alhouda rue 16 n°48",
-      "tel": "",
-      "lat": 33.5848,
-      "lng": -7.5284,
-      "garde": "24h"
-    },
-    {
       "nom": "Pharmacie Résidence Al Yakine",
       "ville": "Casablanca",
       "quartier": "Sidi moumen",
       "adresse": "hay Sidi Moumen, résid. AlYakine GH4 n°2",
       "tel": "",
+      "lat": 33.5848,
+      "lng": -7.5284,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Hay Al Houda",
+      "ville": "Casablanca",
+      "quartier": "Sidi moumen",
+      "adresse": "lotiss. Alhouda rue 16 n°48",
+      "tel": "",
       "lat": 33.586,
       "lng": -7.5272,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie De L 039 Hopital",
@@ -334,24 +334,24 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie du Complexe Sportif",
+      "nom": "Pharmacie Ibork",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
-      "adresse": "63, rue Mamoun Mohamed -ex Platon",
+      "adresse": "1, rue des Salins",
       "tel": "",
       "lat": 33.5854,
       "lng": -7.6068,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Onyx",
+      "nom": "Pharmacie Souktani",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
-      "adresse": "bd de la Grande Ceinture (A.Diab) ex S. Abderrahman, lotiss. Salaj, lot. n°9, villa 75",
+      "adresse": "11, rue Moutanabbi -ex Roziers",
       "tel": "",
       "lat": 33.5866,
       "lng": -7.6056,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie Wato Ex Mbirkou",
@@ -364,24 +364,24 @@
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Ibork",
+      "nom": "Pharmacie du Complexe Sportif",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
-      "adresse": "1, rue des Salins",
+      "adresse": "63, rue Mamoun Mohamed -ex Platon",
       "tel": "",
       "lat": 33.5806,
       "lng": -7.6092,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Souktani",
+      "nom": "Pharmacie Onyx",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
-      "adresse": "11, rue Moutanabbi -ex Roziers",
+      "adresse": "bd de la Grande Ceinture (A.Diab) ex S. Abderrahman, lotiss. Salaj, lot. n°9, villa 75",
       "tel": "",
       "lat": 33.5818,
       "lng": -7.608,
-      "garde": "24h"
+      "garde": "jour"
     },
     {
       "nom": "Pharmacie Bayt Al Maarifa",
