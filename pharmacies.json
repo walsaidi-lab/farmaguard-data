@@ -1,27 +1,27 @@
 {
   "source": "annuaire-gratuit.ma",
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "note": "Donnees de garde du jour. Coordonnees approximatives (quartier). Telephones a completer depuis la source officielle.",
   "pharmacies": [
-    {
-      "nom": "Pharmacie Hakam",
-      "ville": "Casablanca",
-      "quartier": "",
-      "adresse": "442 bd Ibn Tachfine",
-      "tel": "",
-      "lat": 33.5695,
-      "lng": -7.5922,
-      "garde": "jour"
-    },
     {
       "nom": "Pharmacie Elfirdaous",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "hay Jamila VII (cité Djemaa) rue 14 n°90-92",
       "tel": "",
+      "lat": 33.5695,
+      "lng": -7.5922,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Hakam",
+      "ville": "Casablanca",
+      "quartier": "",
+      "adresse": "442 bd Ibn Tachfine",
+      "tel": "",
       "lat": 33.5707,
       "lng": -7.591,
-      "garde": "24h"
+      "garde": "jour"
     },
     {
       "nom": "Pharmacie Aman",
@@ -144,23 +144,13 @@
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Riad El Oulfa",
-      "ville": "Casablanca",
-      "quartier": "Hay hassani et el oulfa",
-      "adresse": "lotiss. Riad El Oulfa, Gh 5 n°241",
-      "tel": "",
-      "lat": 33.5394,
-      "lng": -7.6536,
-      "garde": "jour"
-    },
-    {
       "nom": "Pharmacie Hay Albaraka",
       "ville": "Casablanca",
       "quartier": "Hay hassani et el oulfa",
       "adresse": "hay Hassani, résid. AlBaraka",
       "tel": "",
-      "lat": 33.5406,
-      "lng": -7.6584,
+      "lat": 33.5394,
+      "lng": -7.6536,
       "garde": "jour"
     },
     {
@@ -169,18 +159,18 @@
       "quartier": "Hay hassani et el oulfa",
       "adresse": "N°51 Bis, Rue Banafsaj - ex Violettes .Beauséjour",
       "tel": "",
-      "lat": 33.5418,
-      "lng": -7.6572,
+      "lat": 33.5406,
+      "lng": -7.6584,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Ibn Khaldoun",
+      "nom": "Pharmacie Riad El Oulfa",
       "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "422, bd Abnaa Chouhada, lot. Inani h.m",
+      "quartier": "Hay hassani et el oulfa",
+      "adresse": "lotiss. Riad El Oulfa, Gh 5 n°241",
       "tel": "",
-      "lat": 33.59,
-      "lng": -7.565,
+      "lat": 33.5418,
+      "lng": -7.6572,
       "garde": "jour"
     },
     {
@@ -189,8 +179,8 @@
       "quartier": "Hay mohammadi",
       "adresse": "12, rue abdelkrim el yazighi .bd ibn tachefine. la villette",
       "tel": "",
-      "lat": 33.5912,
-      "lng": -7.5638,
+      "lat": 33.59,
+      "lng": -7.565,
       "garde": "jour"
     },
     {
@@ -199,8 +189,8 @@
       "quartier": "Hay mohammadi",
       "adresse": "251, rue Abou Ali Kali",
       "tel": "",
-      "lat": 33.5924,
-      "lng": -7.5626,
+      "lat": 33.5912,
+      "lng": -7.5638,
       "garde": "jour"
     },
     {
@@ -208,6 +198,16 @@
       "ville": "Casablanca",
       "quartier": "Hay Mohammadi",
       "adresse": "62 bd de la Grande Ceinture (h.Mohammadi) lot Almouahidine rue 8",
+      "tel": "",
+      "lat": 33.5924,
+      "lng": -7.5626,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Ibn Khaldoun",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "422, bd Abnaa Chouhada, lot. Inani h.m",
       "tel": "",
       "lat": 33.5936,
       "lng": -7.5674,
@@ -364,94 +364,24 @@
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie de Bordeaux",
-      "ville": "Casablanca",
-      "quartier": "Ville et bourgogne et maarif",
-      "adresse": "N°164, Boulevard de Bordeaux. Maarif",
-      "tel": "",
-      "lat": 33.5806,
-      "lng": -7.6092,
-      "garde": "24h"
-    },
-    {
       "nom": "Pharmacie derb Ghallef",
       "ville": "Casablanca",
       "quartier": "Ville Et Bourgogne Et Maarif",
       "adresse": "25 derb ghalef - casablanca imm. al omrane derb ghalef",
       "tel": "",
+      "lat": 33.5806,
+      "lng": -7.6092,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie de Bordeaux",
+      "ville": "Casablanca",
+      "quartier": "Ville et bourgogne et maarif",
+      "adresse": "N°164, Boulevard de Bordeaux. Maarif",
+      "tel": "",
       "lat": 33.5818,
       "lng": -7.608,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Gare Agdal",
-      "ville": "Rabat",
-      "quartier": "Agdal",
-      "adresse": "rue abderrahmane ghafiki a l’intérieur de la gare al boraq accÈs porte cÔtÉ agdal -",
-      "tel": "",
-      "lat": 33.9894,
-      "lng": -6.8524,
       "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie Fellat",
-      "ville": "Rabat",
-      "quartier": "Akkari Ocean",
-      "adresse": "16 place de russie ocean",
-      "tel": "",
-      "lat": 34.0096,
-      "lng": -6.8432,
-      "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie Sawmaat Hassan",
-      "ville": "Rabat",
-      "quartier": "Centre Ville",
-      "adresse": "1 rue riad — hassan",
-      "tel": "",
-      "lat": 34.0128,
-      "lng": -6.833,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Mecca",
-      "ville": "Rabat",
-      "quartier": "Hay Riad",
-      "adresse": "av ailanthus, sec 23, résidence les chênes",
-      "tel": "",
-      "lat": 34.0209,
-      "lng": -6.8404,
-      "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie Doum",
-      "ville": "Rabat",
-      "quartier": "Takadoum Et Souissi",
-      "adresse": "av. goundafa, parti 211-212-213 hay abo regrag youssoufia",
-      "tel": "",
-      "lat": 33.9772,
-      "lng": -6.8156,
-      "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie Nadia",
-      "ville": "Rabat",
-      "quartier": "Yacoub El Mansour",
-      "adresse": "av sidi med benabdellah rue 7hay ahbass - c.y.m",
-      "tel": "",
-      "lat": 33.9674,
-      "lng": -6.8644,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Chbanat",
-      "ville": "Rabat",
-      "quartier": "Yacoub El Mansour",
-      "adresse": "349 lot chbanat cym",
-      "tel": "",
-      "lat": 33.9686,
-      "lng": -6.8632,
-      "garde": "jour"
     }
   ]
 }
