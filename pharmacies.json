@@ -134,13 +134,23 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Saâd El Kheir",
+      "nom": "Pharmacie Route Errahma",
       "ville": "Casablanca",
       "quartier": "Hay hassani et el oulfa",
-      "adresse": "hay El Oulfa bd H.H. 24 Hay Hassani Oulfa",
+      "adresse": "rte My. Thami , Km 1 Oulad Ahmed, Dar Bouazza",
       "tel": "",
       "lat": 33.5466,
       "lng": -7.6548,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Dawdia",
+      "ville": "Casablanca",
+      "quartier": "Hay hassani et el oulfa",
+      "adresse": "hay El Wifak 1, rue 13 n°85",
+      "tel": "",
+      "lat": 33.5394,
+      "lng": -7.6536,
       "garde": "24h"
     },
     {
@@ -149,25 +159,15 @@
       "quartier": "Hay hassani et el oulfa",
       "adresse": "hay El Oulfa Chhoubat Rte Mly Thami n°343 Oulfa",
       "tel": "",
-      "lat": 33.5394,
-      "lng": -7.6536,
-      "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie Route Errahma",
-      "ville": "Casablanca",
-      "quartier": "Hay hassani et el oulfa",
-      "adresse": "rte My. Thami , Km 1 Oulad Ahmed, Dar Bouazza",
-      "tel": "",
       "lat": 33.5406,
       "lng": -7.6584,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Dawdia",
+      "nom": "Pharmacie Saâd El Kheir",
       "ville": "Casablanca",
       "quartier": "Hay hassani et el oulfa",
-      "adresse": "hay El Wifak 1, rue 13 n°85",
+      "adresse": "hay El Oulfa bd H.H. 24 Hay Hassani Oulfa",
       "tel": "",
       "lat": 33.5418,
       "lng": -7.6572,
@@ -194,30 +194,30 @@
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie AlWissal",
+      "nom": "Pharmacie Ouzineb",
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
-      "adresse": "bd Dr Mohamed Jennaoui -ex Mostachfa Med V, projet Hassan II bloc 2 n°18",
+      "adresse": "161, Bd Oqba Bnou Nafiaa",
       "tel": "",
       "lat": 33.5924,
       "lng": -7.5626,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Kissariat Aziza",
+      "nom": "Pharmacie Centrale Aïn Borja",
       "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "86, bd de la Grande Ceinture (h.Mohammadi), Kiss. Aziza n°21",
+      "quartier": "Hay Mohammadi",
+      "adresse": "hay arsalane, rue 7 lot. 82",
       "tel": "",
       "lat": 33.5936,
       "lng": -7.5674,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Adil",
+      "nom": "Pharmacie Afak",
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
-      "adresse": "hay Mohammadi, ElMassira imm.71, n°3",
+      "adresse": "hay Mohammadi, bloc 22 rue 6 n°74",
       "tel": "",
       "lat": 33.5864,
       "lng": -7.5662,
@@ -234,50 +234,50 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Ouzineb",
+      "nom": "Pharmacie Kissariat Aziza",
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
-      "adresse": "161, Bd Oqba Bnou Nafiaa",
+      "adresse": "86, bd de la Grande Ceinture (h.Mohammadi), Kiss. Aziza n°21",
       "tel": "",
       "lat": 33.5888,
       "lng": -7.5638,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Centrale Aïn Borja",
+      "nom": "Pharmacie Adil",
       "ville": "Casablanca",
-      "quartier": "Hay Mohammadi",
-      "adresse": "hay arsalane, rue 7 lot. 82",
+      "quartier": "Hay mohammadi",
+      "adresse": "hay Mohammadi, ElMassira imm.71, n°3",
       "tel": "",
       "lat": 33.59,
       "lng": -7.5626,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Afak",
+      "nom": "Pharmacie AlWissal",
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
-      "adresse": "hay Mohammadi, bloc 22 rue 6 n°74",
+      "adresse": "bd Dr Mohamed Jennaoui -ex Mostachfa Med V, projet Hassan II bloc 2 n°18",
       "tel": "",
       "lat": 33.5912,
       "lng": -7.5674,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Othmane",
+      "nom": "Pharmacie Tilila",
       "ville": "Casablanca",
       "quartier": "Lissasfa",
-      "adresse": "quartier Lissasfa III (route d'El Jadida), lot. 12 bloc C",
+      "adresse": "Hay Laymoun, 47 HH El Oulfa- En Face du Centre Commercial Laymoun",
       "tel": "",
       "lat": 33.5324,
       "lng": -7.6772,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Tilila",
+      "nom": "Pharmacie Othmane",
       "ville": "Casablanca",
       "quartier": "Lissasfa",
-      "adresse": "Hay Laymoun, 47 HH El Oulfa- En Face du Centre Commercial Laymoun",
+      "adresse": "quartier Lissasfa III (route d'El Jadida), lot. 12 bloc C",
       "tel": "",
       "lat": 33.5336,
       "lng": -7.676,
