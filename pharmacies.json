@@ -114,24 +114,24 @@
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Laâfou",
-      "ville": "Casablanca",
-      "quartier": "El fida et mers sultan",
-      "adresse": "derb Laafou rue 34 n°43/45 Derb El Kabir",
-      "tel": "",
-      "lat": 33.5842,
-      "lng": -7.6092,
-      "garde": "jour"
-    },
-    {
       "nom": "Pharmacie Beyrouth",
       "ville": "Casablanca",
       "quartier": "El fida et mers sultan",
       "adresse": "99 Bis, rue de Beyrouth, hay Laâyoune",
       "tel": "",
+      "lat": 33.5842,
+      "lng": -7.6092,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Laâfou",
+      "ville": "Casablanca",
+      "quartier": "El fida et mers sultan",
+      "adresse": "derb Laafou rue 34 n°43/45 Derb El Kabir",
+      "tel": "",
       "lat": 33.5854,
       "lng": -7.608,
-      "garde": "24h"
+      "garde": "jour"
     },
     {
       "nom": "Pharmacie la Résidence",
@@ -144,14 +144,14 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Oued Beht",
+      "nom": "Pharmacie Oum Al Kora",
       "ville": "Casablanca",
       "quartier": "Hay hassani et el oulfa",
-      "adresse": "2, avenue Oued Beht - ex B, grp. B",
+      "adresse": "46 hay El Wifak - Casablanca rue 109 Oulfa",
       "tel": "",
       "lat": 33.5394,
       "lng": -7.6536,
-      "garde": "24h"
+      "garde": "jour"
     },
     {
       "nom": "Pharmacie les Pyramides",
@@ -164,64 +164,14 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Oum Al Kora",
+      "nom": "Pharmacie Oued Beht",
       "ville": "Casablanca",
       "quartier": "Hay hassani et el oulfa",
-      "adresse": "46 hay El Wifak - Casablanca rue 109 Oulfa",
+      "adresse": "2, avenue Oued Beht - ex B, grp. B",
       "tel": "",
       "lat": 33.5418,
       "lng": -7.6572,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie ElMorakab Ettakafi",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "derb Amal rue 6 n°74 H.M Hay Mohammadi",
-      "tel": "",
-      "lat": 33.59,
-      "lng": -7.565,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie la Villette",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "23, rue Abou Bakr El Wahrani",
-      "tel": "",
-      "lat": 33.5912,
-      "lng": -7.5638,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie le Projet",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "bd Dr Mohamed Jennaoui -ex Mostachfa Med V, projet Hassan II, bloc 11, n°61-62",
-      "tel": "",
-      "lat": 33.5924,
-      "lng": -7.5626,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie hay Makam",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "quartier Aïn Borja, hay makam n°117.",
-      "tel": "",
-      "lat": 33.5936,
-      "lng": -7.5674,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Ibn Sina",
-      "ville": "Casablanca",
-      "quartier": "hay Mohammadi",
-      "adresse": "319 bd. Chouhada (hay Mohammadi) bloc 15 Hay Mohammadi",
-      "tel": "",
-      "lat": 33.5864,
-      "lng": -7.5662,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie Lamia",
@@ -229,7 +179,7 @@
       "quartier": "Hay mohammadi",
       "adresse": "lot. Lamia (bd Fouarat), bloc 10 n°7",
       "tel": "",
-      "lat": 33.5876,
+      "lat": 33.59,
       "lng": -7.565,
       "garde": "jour"
     },
@@ -239,25 +189,75 @@
       "quartier": "Hay Mohammadi",
       "adresse": "hay tissir ii, av a n°58",
       "tel": "",
-      "lat": 33.5888,
+      "lat": 33.5912,
       "lng": -7.5638,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Chifa",
+      "nom": "Pharmacie hay Makam",
       "ville": "Casablanca",
-      "quartier": "Lissasfa",
-      "adresse": "bd d' Afghanistan (hay Hassani) Farah 1",
+      "quartier": "Hay mohammadi",
+      "adresse": "quartier Aïn Borja, hay makam n°117.",
       "tel": "",
-      "lat": 33.53,
-      "lng": -7.6736,
-      "garde": "24h"
+      "lat": 33.5924,
+      "lng": -7.5626,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Ibn Sina",
+      "ville": "Casablanca",
+      "quartier": "hay Mohammadi",
+      "adresse": "319 bd. Chouhada (hay Mohammadi) bloc 15 Hay Mohammadi",
+      "tel": "",
+      "lat": 33.5936,
+      "lng": -7.5674,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie le Projet",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "bd Dr Mohamed Jennaoui -ex Mostachfa Med V, projet Hassan II, bloc 11, n°61-62",
+      "tel": "",
+      "lat": 33.5864,
+      "lng": -7.5662,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie ElMorakab Ettakafi",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "derb Amal rue 6 n°74 H.M Hay Mohammadi",
+      "tel": "",
+      "lat": 33.5876,
+      "lng": -7.565,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie la Villette",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "23, rue Abou Bakr El Wahrani",
+      "tel": "",
+      "lat": 33.5888,
+      "lng": -7.5638,
+      "garde": "jour"
     },
     {
       "nom": "Pharmacie Lausanne",
       "ville": "Casablanca",
       "quartier": "Lissasfa",
       "adresse": "207, hay Laimoune",
+      "tel": "",
+      "lat": 33.53,
+      "lng": -7.6736,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Chifa",
+      "ville": "Casablanca",
+      "quartier": "Lissasfa",
+      "adresse": "bd d' Afghanistan (hay Hassani) Farah 1",
       "tel": "",
       "lat": 33.5312,
       "lng": -7.6784,
@@ -284,24 +284,24 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Fath El Khair",
-      "ville": "Casablanca",
-      "quartier": "Sidi bernoussi",
-      "adresse": "30, hay El Qods, grpe El Baida n°1",
-      "tel": "",
-      "lat": 33.6114,
-      "lng": -7.5138,
-      "garde": "jour"
-    },
-    {
       "nom": "Pharmacie L 039 Horizon",
       "ville": "Casablanca",
       "quartier": "Sidi Bernoussi",
       "adresse": "lot. Saada (Sidi Bernoussi) ang. rue 3-5 Lot. 29",
       "tel": "",
+      "lat": 33.6114,
+      "lng": -7.5138,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Fath El Khair",
+      "ville": "Casablanca",
+      "quartier": "Sidi bernoussi",
+      "adresse": "30, hay El Qods, grpe El Baida n°1",
+      "tel": "",
       "lat": 33.6126,
       "lng": -7.5126,
-      "garde": "24h"
+      "garde": "jour"
     },
     {
       "nom": "Pharmacie Du Coin",
@@ -354,33 +354,23 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Taddart",
+      "nom": "Pharmacie Univers Santé",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
-      "adresse": "3 Bis, bd El Hachemi El Filali",
+      "adresse": "116, rue Haj Jillali Eloufir-ex Guillotte , près de la poste Sokrat",
       "tel": "",
       "lat": 33.5794,
       "lng": -7.6104,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Univers Santé",
+      "nom": "Pharmacie Taddart",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
-      "adresse": "116, rue Haj Jillali Eloufir-ex Guillotte , près de la poste Sokrat",
+      "adresse": "3 Bis, bd El Hachemi El Filali",
       "tel": "",
       "lat": 33.5806,
       "lng": -7.6092,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie AlAndaloussia",
-      "ville": "Casablanca",
-      "quartier": "Ville et bourgogne et maarif",
-      "adresse": "126 rue Dom Pérignon Franceville",
-      "tel": "",
-      "lat": 33.5818,
-      "lng": -7.608,
       "garde": "jour"
     },
     {
@@ -389,9 +379,19 @@
       "quartier": "Ville et bourgogne et maarif",
       "adresse": "341, bd Mohamed Zerktouni",
       "tel": "",
+      "lat": 33.5818,
+      "lng": -7.608,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie AlAndaloussia",
+      "ville": "Casablanca",
+      "quartier": "Ville et bourgogne et maarif",
+      "adresse": "126 rue Dom Pérignon Franceville",
+      "tel": "",
       "lat": 33.583,
       "lng": -7.6068,
-      "garde": "24h"
+      "garde": "jour"
     },
     {
       "nom": "Pharmacie L 039 Oasis",
