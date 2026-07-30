@@ -24,13 +24,23 @@
       "garde": "24h"
     },
     {
+      "nom": "Pharmacie Krimat",
+      "ville": "Casablanca",
+      "quartier": "Ain chock",
+      "adresse": "341, bd Panoramique",
+      "tel": "",
+      "lat": 33.5388,
+      "lng": -7.579,
+      "garde": "jour"
+    },
+    {
       "nom": "Pharmacie Chaab",
       "ville": "Casablanca",
       "quartier": "Ain chock",
       "adresse": "hay Moulay Abdallah, rue 226 n°23-25",
       "tel": "",
-      "lat": 33.5388,
-      "lng": -7.579,
+      "lat": 33.54,
+      "lng": -7.5778,
       "garde": "jour"
     },
     {
@@ -39,28 +49,8 @@
       "quartier": "Ain chock",
       "adresse": "lot. Omariya, rue 31 n°64",
       "tel": "",
-      "lat": 33.54,
-      "lng": -7.5778,
-      "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie Krimat",
-      "ville": "Casablanca",
-      "quartier": "Ain chock",
-      "adresse": "341, bd Panoramique",
-      "tel": "",
       "lat": 33.5412,
       "lng": -7.5766,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Diwane",
-      "ville": "Casablanca",
-      "quartier": "Ain sebaa",
-      "adresse": "8 Bis, Allée des Lilas, Hay castor. Aïn Sebâa. Face usine des ciments et terrain de basket",
-      "tel": "",
-      "lat": 33.6074,
-      "lng": -7.5374,
       "garde": "24h"
     },
     {
@@ -69,9 +59,19 @@
       "quartier": "Ain sebaa",
       "adresse": "quartier Beausite, résid. Al Amane Gh42 n°323",
       "tel": "",
+      "lat": 33.6074,
+      "lng": -7.5374,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Diwane",
+      "ville": "Casablanca",
+      "quartier": "Ain sebaa",
+      "adresse": "8 Bis, Allée des Lilas, Hay castor. Aïn Sebâa. Face usine des ciments et terrain de basket",
+      "tel": "",
       "lat": 33.6086,
       "lng": -7.5362,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie Projet Assalam",
@@ -84,20 +84,20 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Sourzac",
+      "nom": "Pharmacie Gare Casa Voyageurs",
       "ville": "Casablanca",
       "quartier": "Belvédère et roches noires",
-      "adresse": "rue Augustin Sourzac ang. Zoubeir Ibnou El Aouame r.n",
+      "adresse": "238, bd Ba Hmad",
       "tel": "",
       "lat": 33.5826,
       "lng": -7.5748,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Gare Casa Voyageurs",
+      "nom": "Pharmacie Sourzac",
       "ville": "Casablanca",
       "quartier": "Belvédère et roches noires",
-      "adresse": "238, bd Ba Hmad",
+      "adresse": "rue Augustin Sourzac ang. Zoubeir Ibnou El Aouame r.n",
       "tel": "",
       "lat": 33.5838,
       "lng": -7.5736,
@@ -114,14 +114,14 @@
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie la Résidence",
+      "nom": "Pharmacie Beyrouth",
       "ville": "Casablanca",
       "quartier": "El fida et mers sultan",
-      "adresse": "149 bd Lahcen ou Ider ang. bd de la Résistance Mers Sultan",
+      "adresse": "99 Bis, rue de Beyrouth, hay Laâyoune",
       "tel": "",
       "lat": 33.5842,
       "lng": -7.6092,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie Laâfou",
@@ -134,14 +134,14 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Beyrouth",
+      "nom": "Pharmacie la Résidence",
       "ville": "Casablanca",
       "quartier": "El fida et mers sultan",
-      "adresse": "99 Bis, rue de Beyrouth, hay Laâyoune",
+      "adresse": "149 bd Lahcen ou Ider ang. bd de la Résistance Mers Sultan",
       "tel": "",
       "lat": 33.5866,
       "lng": -7.6068,
-      "garde": "24h"
+      "garde": "jour"
     },
     {
       "nom": "Pharmacie Oum Al Kora",
@@ -154,23 +154,33 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Oued Beht",
-      "ville": "Casablanca",
-      "quartier": "Hay hassani et el oulfa",
-      "adresse": "2, avenue Oued Beht - ex B, grp. B",
-      "tel": "",
-      "lat": 33.5406,
-      "lng": -7.6584,
-      "garde": "24h"
-    },
-    {
       "nom": "Pharmacie les Pyramides",
       "ville": "Casablanca",
       "quartier": "Hay hassani et el oulfa",
       "adresse": "6 Bis, bd Abderrahim Bouabid -ex Jerrada",
       "tel": "",
+      "lat": 33.5406,
+      "lng": -7.6584,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Oued Beht",
+      "ville": "Casablanca",
+      "quartier": "Hay hassani et el oulfa",
+      "adresse": "2, avenue Oued Beht - ex B, grp. B",
+      "tel": "",
       "lat": 33.5418,
       "lng": -7.6572,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Lamia",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "lot. Lamia (bd Fouarat), bloc 10 n°7",
+      "tel": "",
+      "lat": 33.59,
+      "lng": -7.565,
       "garde": "jour"
     },
     {
@@ -179,8 +189,8 @@
       "quartier": "Hay Mohammadi",
       "adresse": "hay tissir ii, av a n°58",
       "tel": "",
-      "lat": 33.59,
-      "lng": -7.565,
+      "lat": 33.5912,
+      "lng": -7.5638,
       "garde": "jour"
     },
     {
@@ -189,8 +199,8 @@
       "quartier": "Hay mohammadi",
       "adresse": "quartier Aïn Borja, hay makam n°117.",
       "tel": "",
-      "lat": 33.5912,
-      "lng": -7.5638,
+      "lat": 33.5924,
+      "lng": -7.5626,
       "garde": "jour"
     },
     {
@@ -199,18 +209,18 @@
       "quartier": "hay Mohammadi",
       "adresse": "319 bd. Chouhada (hay Mohammadi) bloc 15 Hay Mohammadi",
       "tel": "",
-      "lat": 33.5924,
-      "lng": -7.5626,
+      "lat": 33.5936,
+      "lng": -7.5674,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Lamia",
+      "nom": "Pharmacie le Projet",
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
-      "adresse": "lot. Lamia (bd Fouarat), bloc 10 n°7",
+      "adresse": "bd Dr Mohamed Jennaoui -ex Mostachfa Med V, projet Hassan II, bloc 11, n°61-62",
       "tel": "",
-      "lat": 33.5936,
-      "lng": -7.5674,
+      "lat": 33.5864,
+      "lng": -7.5662,
       "garde": "jour"
     },
     {
@@ -219,8 +229,8 @@
       "quartier": "Hay mohammadi",
       "adresse": "derb Amal rue 6 n°74 H.M Hay Mohammadi",
       "tel": "",
-      "lat": 33.5864,
-      "lng": -7.5662,
+      "lat": 33.5876,
+      "lng": -7.565,
       "garde": "jour"
     },
     {
@@ -228,16 +238,6 @@
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
       "adresse": "23, rue Abou Bakr El Wahrani",
-      "tel": "",
-      "lat": 33.5876,
-      "lng": -7.565,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie le Projet",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "bd Dr Mohamed Jennaoui -ex Mostachfa Med V, projet Hassan II, bloc 11, n°61-62",
       "tel": "",
       "lat": 33.5888,
       "lng": -7.5638,
@@ -274,13 +274,23 @@
       "garde": "jour"
     },
     {
+      "nom": "Pharmacie Berhil",
+      "ville": "Casablanca",
+      "quartier": "Sidi Bernoussi",
+      "adresse": "cité Sidi Bernoussi - Casablanca Bab Anassi Al Azhar TR 03 GH 15 Entrée 12 n° 267",
+      "tel": "",
+      "lat": 33.6186,
+      "lng": -7.515,
+      "garde": "jour"
+    },
+    {
       "nom": "Pharmacie L 039 Horizon",
       "ville": "Casablanca",
       "quartier": "Sidi Bernoussi",
       "adresse": "lot. Saada (Sidi Bernoussi) ang. rue 3-5 Lot. 29",
       "tel": "",
-      "lat": 33.6186,
-      "lng": -7.515,
+      "lat": 33.6114,
+      "lng": -7.5138,
       "garde": "24h"
     },
     {
@@ -289,28 +299,8 @@
       "quartier": "Sidi bernoussi",
       "adresse": "30, hay El Qods, grpe El Baida n°1",
       "tel": "",
-      "lat": 33.6114,
-      "lng": -7.5138,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Berhil",
-      "ville": "Casablanca",
-      "quartier": "Sidi Bernoussi",
-      "adresse": "cité Sidi Bernoussi - Casablanca Bab Anassi Al Azhar TR 03 GH 15 Entrée 12 n° 267",
-      "tel": "",
       "lat": 33.6126,
       "lng": -7.5126,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Zahra",
-      "ville": "Casablanca",
-      "quartier": "Sidi maârouf",
-      "adresse": "Route 1029, Bloc de la commune , Ouled Haddou",
-      "tel": "",
-      "lat": 33.5719,
-      "lng": -7.5922,
       "garde": "jour"
     },
     {
@@ -319,9 +309,19 @@
       "quartier": "Sidi Maarouf",
       "adresse": "10 bd Zoulikha Nasri",
       "tel": "",
-      "lat": 33.505,
-      "lng": -7.6312,
+      "lat": 33.5038,
+      "lng": -7.6324,
       "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Zahra",
+      "ville": "Casablanca",
+      "quartier": "Sidi maârouf",
+      "adresse": "Route 1029, Bloc de la commune , Ouled Haddou",
+      "tel": "",
+      "lat": 33.5731,
+      "lng": -7.591,
+      "garde": "jour"
     },
     {
       "nom": "Pharmacie Chama",
