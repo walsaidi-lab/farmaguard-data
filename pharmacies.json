@@ -4,13 +4,23 @@
   "note": "Donnees de garde du jour. Coordonnees approximatives (quartier). Telephones a completer depuis la source officielle.",
   "pharmacies": [
     {
+      "nom": "Pharmacie la Tulipe",
+      "ville": "Casablanca",
+      "quartier": "Ain chock",
+      "adresse": "843, avenue 2 Mars, Hadaouia 3",
+      "tel": "",
+      "lat": 33.5364,
+      "lng": -7.5814,
+      "garde": "jour"
+    },
+    {
       "nom": "Pharmacie Goumri",
       "ville": "Casablanca",
       "quartier": "Ain chock",
       "adresse": "bd Tah, Rue 2 n°2 Dar Chaoui",
       "tel": "",
-      "lat": 33.5364,
-      "lng": -7.5814,
+      "lat": 33.5376,
+      "lng": -7.5802,
       "garde": "jour"
     },
     {
@@ -19,28 +29,8 @@
       "quartier": "Ain chock",
       "adresse": "bd El Qods, Coopérative Acharaf n°DM2",
       "tel": "",
-      "lat": 33.5376,
-      "lng": -7.5802,
-      "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie la Tulipe",
-      "ville": "Casablanca",
-      "quartier": "Ain chock",
-      "adresse": "843, avenue 2 Mars, Hadaouia 3",
-      "tel": "",
       "lat": 33.5388,
       "lng": -7.579,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Océanic",
-      "ville": "Casablanca",
-      "quartier": "Ain sebaa",
-      "adresse": "313 route des Zenatas - r.s. 111 (côtière) Aïn Sebaâ",
-      "tel": "",
-      "lat": 33.605,
-      "lng": -7.5338,
       "garde": "24h"
     },
     {
@@ -49,9 +39,19 @@
       "quartier": "Ain sebaa",
       "adresse": "Route de Rabat (rond-point1), Résidence. Al Manare N°4. Bloc B. Bernoussi.",
       "tel": "",
+      "lat": 33.605,
+      "lng": -7.5338,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Océanic",
+      "ville": "Casablanca",
+      "quartier": "Ain sebaa",
+      "adresse": "313 route des Zenatas - r.s. 111 (côtière) Aïn Sebaâ",
+      "tel": "",
       "lat": 33.6062,
       "lng": -7.5326,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie Mouad Anassi",
@@ -94,24 +94,24 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Skiba",
-      "ville": "Casablanca",
-      "quartier": "Ben M'sik",
-      "adresse": "98,bd.oued eddahab, jamila 5, cite djemaa",
-      "tel": "",
-      "lat": 33.5719,
-      "lng": -7.5874,
-      "garde": "jour"
-    },
-    {
       "nom": "Pharmacie Océania",
       "ville": "Casablanca",
       "quartier": "Ben m'sik",
       "adresse": "146, avenue Réda Guedira -ex Nil",
       "tel": "",
+      "lat": 33.5719,
+      "lng": -7.5874,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Skiba",
+      "ville": "Casablanca",
+      "quartier": "Ben M'sik",
+      "adresse": "98,bd.oued eddahab, jamila 5, cite djemaa",
+      "tel": "",
       "lat": 33.5731,
       "lng": -7.5922,
-      "garde": "24h"
+      "garde": "jour"
     },
     {
       "nom": "Pharmacie Derb Elkabir",
@@ -134,13 +134,23 @@
       "garde": "24h"
     },
     {
+      "nom": "Pharmacie Jamai",
+      "ville": "Casablanca",
+      "quartier": "Hay hassani et el oulfa",
+      "adresse": "hay El Oulfa, ensemble immobilier AlFirdaous Gh 15 imm. A 80 n°1",
+      "tel": "",
+      "lat": 33.5466,
+      "lng": -7.6548,
+      "garde": "24h"
+    },
+    {
       "nom": "Pharmacie Cinéma Anfa",
       "ville": "Casablanca",
       "quartier": "Hay hassani et el oulfa",
       "adresse": "141 Bis, bd Sidi Abderrahman",
       "tel": "",
-      "lat": 33.5466,
-      "lng": -7.6548,
+      "lat": 33.5394,
+      "lng": -7.6536,
       "garde": "24h"
     },
     {
@@ -149,19 +159,9 @@
       "quartier": "Hay hassani et el oulfa",
       "adresse": "2 bd Ghandi résid.Elmansour Hay Salam ex Cil",
       "tel": "",
-      "lat": 33.5394,
-      "lng": -7.6536,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Jamai",
-      "ville": "Casablanca",
-      "quartier": "Hay hassani et el oulfa",
-      "adresse": "hay El Oulfa, ensemble immobilier AlFirdaous Gh 15 imm. A 80 n°1",
-      "tel": "",
       "lat": 33.5406,
       "lng": -7.6584,
-      "garde": "24h"
+      "garde": "jour"
     },
     {
       "nom": "Pharmacie Lotf Allah",
@@ -304,24 +304,24 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Ibn ElKati",
-      "ville": "Casablanca",
-      "quartier": "Sidi moumen",
-      "adresse": "hay Sidi Moumen Lot. Baraka 2 rue 12 n°29 Sidi Moumen",
-      "tel": "",
-      "lat": 33.5848,
-      "lng": -7.5284,
-      "garde": "24h"
-    },
-    {
       "nom": "Pharmacie des Saisons",
       "ville": "Casablanca",
       "quartier": "Sidi moumen",
       "adresse": "14 rue Lhoussine Assoussi (Sidi Moumen) résid. Ochor Sidi Moumen",
       "tel": "",
+      "lat": 33.5848,
+      "lng": -7.5284,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Ibn ElKati",
+      "ville": "Casablanca",
+      "quartier": "Sidi moumen",
+      "adresse": "hay Sidi Moumen Lot. Baraka 2 rue 12 n°29 Sidi Moumen",
+      "tel": "",
       "lat": 33.586,
       "lng": -7.5272,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie Widad 039 S",
@@ -334,23 +334,13 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie minuit",
-      "ville": "Casablanca",
-      "quartier": "Ville et bourgogne et maarif",
-      "adresse": "39, bd de Paris",
-      "tel": "",
-      "lat": 33.5854,
-      "lng": -7.6068,
-      "garde": "jour"
-    },
-    {
       "nom": "Pharmacie Rive Bleue",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
       "adresse": "26, rue Abou Mahasine Arroyani-ex Boissy",
       "tel": "",
-      "lat": 33.5866,
-      "lng": -7.6056,
+      "lat": 33.5854,
+      "lng": -7.6068,
       "garde": "jour"
     },
     {
@@ -359,8 +349,8 @@
       "quartier": "Ville et bourgogne et maarif",
       "adresse": "252, bd Moukaouama - ex Résistance",
       "tel": "",
-      "lat": 33.5794,
-      "lng": -7.6104,
+      "lat": 33.5866,
+      "lng": -7.6056,
       "garde": "24h"
     },
     {
@@ -368,6 +358,16 @@
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
       "adresse": "406, bd Ghandi",
+      "tel": "",
+      "lat": 33.5794,
+      "lng": -7.6104,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie minuit",
+      "ville": "Casablanca",
+      "quartier": "Ville et bourgogne et maarif",
+      "adresse": "39, bd de Paris",
       "tel": "",
       "lat": 33.5806,
       "lng": -7.6092,
