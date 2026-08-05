@@ -4,24 +4,24 @@
   "note": "Donnees de garde du jour. Coordonnees approximatives (quartier). Telephones a completer depuis la source officielle.",
   "pharmacies": [
     {
-      "nom": "Pharmacie Goumri",
-      "ville": "Casablanca",
-      "quartier": "Ain chock",
-      "adresse": "bd Tah, Rue 2 n°2 Dar Chaoui",
-      "tel": "",
-      "lat": 33.5364,
-      "lng": -7.5814,
-      "garde": "jour"
-    },
-    {
       "nom": "Pharmacie Achcharaf",
       "ville": "Casablanca",
       "quartier": "Ain chock",
       "adresse": "bd El Qods, Coopérative Acharaf n°DM2",
       "tel": "",
+      "lat": 33.5364,
+      "lng": -7.5814,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Goumri",
+      "ville": "Casablanca",
+      "quartier": "Ain chock",
+      "adresse": "bd Tah, Rue 2 n°2 Dar Chaoui",
+      "tel": "",
       "lat": 33.5376,
       "lng": -7.5802,
-      "garde": "24h"
+      "garde": "jour"
     },
     {
       "nom": "Pharmacie la Tulipe",
@@ -164,13 +164,23 @@
       "garde": "24h"
     },
     {
+      "nom": "Pharmacie AlAhd El Jadid",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "43, bd de la Grande Ceinture (h.Mohammadi)",
+      "tel": "",
+      "lat": 33.5888,
+      "lng": -7.5662,
+      "garde": "jour"
+    },
+    {
       "nom": "Pharmacie H M Minaret",
       "ville": "Casablanca",
       "quartier": "Hay Mohammadi",
       "adresse": "308 bloc Saada rue 37 n°139",
       "tel": "",
-      "lat": 33.5888,
-      "lng": -7.5662,
+      "lat": 33.59,
+      "lng": -7.565,
       "garde": "jour"
     },
     {
@@ -179,8 +189,8 @@
       "quartier": "Hay Mohammadi",
       "adresse": "39, rue beni amar",
       "tel": "",
-      "lat": 33.59,
-      "lng": -7.565,
+      "lat": 33.5912,
+      "lng": -7.5638,
       "garde": "jour"
     },
     {
@@ -189,18 +199,18 @@
       "quartier": "Hay mohammadi",
       "adresse": "1, rue Abou Ali Kali",
       "tel": "",
-      "lat": 33.5912,
-      "lng": -7.5638,
+      "lat": 33.5924,
+      "lng": -7.5626,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie AlAhd El Jadid",
+      "nom": "Pharmacie Lotf Allah",
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
-      "adresse": "43, bd de la Grande Ceinture (h.Mohammadi)",
+      "adresse": "hay Mohammadi, hay Mino, rue 3, n°7",
       "tel": "",
-      "lat": 33.5924,
-      "lng": -7.5626,
+      "lat": 33.5936,
+      "lng": -7.5674,
       "garde": "jour"
     },
     {
@@ -209,8 +219,8 @@
       "quartier": "Hay mohammadi",
       "adresse": "bd Ibn Tachfine, rue 21 n°40, Hakam I",
       "tel": "",
-      "lat": 33.5936,
-      "lng": -7.5674,
+      "lat": 33.5864,
+      "lng": -7.5662,
       "garde": "jour"
     },
     {
@@ -219,8 +229,8 @@
       "quartier": "Hay Mohammadi",
       "adresse": "135 bd du Fouarat",
       "tel": "",
-      "lat": 33.5864,
-      "lng": -7.5662,
+      "lat": 33.5876,
+      "lng": -7.565,
       "garde": "jour"
     },
     {
@@ -228,16 +238,6 @@
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
       "adresse": "154, bd du Fouarat, hay Mohammadi",
-      "tel": "",
-      "lat": 33.5876,
-      "lng": -7.565,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Lotf Allah",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "hay Mohammadi, hay Mino, rue 3, n°7",
       "tel": "",
       "lat": 33.5888,
       "lng": -7.5638,
