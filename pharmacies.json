@@ -14,24 +14,24 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Achcharaf",
-      "ville": "Casablanca",
-      "quartier": "Ain chock",
-      "adresse": "bd El Qods, Coopérative Acharaf n°DM2",
-      "tel": "",
-      "lat": 33.5376,
-      "lng": -7.5802,
-      "garde": "24h"
-    },
-    {
       "nom": "Pharmacie Goumri",
       "ville": "Casablanca",
       "quartier": "Ain chock",
       "adresse": "bd Tah, Rue 2 n°2 Dar Chaoui",
       "tel": "",
+      "lat": 33.5376,
+      "lng": -7.5802,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Achcharaf",
+      "ville": "Casablanca",
+      "quartier": "Ain chock",
+      "adresse": "bd El Qods, Coopérative Acharaf n°DM2",
+      "tel": "",
       "lat": 33.5388,
       "lng": -7.579,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie Route de Rabat",
@@ -164,13 +164,23 @@
       "garde": "24h"
     },
     {
+      "nom": "Pharmacie Houar Rifai",
+      "ville": "Casablanca",
+      "quartier": "Hay Mohammadi",
+      "adresse": "135 bd du Fouarat",
+      "tel": "",
+      "lat": 33.5888,
+      "lng": -7.5662,
+      "garde": "jour"
+    },
+    {
       "nom": "Pharmacie Slaoui",
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
       "adresse": "154, bd du Fouarat, hay Mohammadi",
       "tel": "",
-      "lat": 33.5888,
-      "lng": -7.5662,
+      "lat": 33.59,
+      "lng": -7.565,
       "garde": "jour"
     },
     {
@@ -179,8 +189,8 @@
       "quartier": "Hay mohammadi",
       "adresse": "hay Mohammadi, hay Mino, rue 3, n°7",
       "tel": "",
-      "lat": 33.59,
-      "lng": -7.565,
+      "lat": 33.5912,
+      "lng": -7.5638,
       "garde": "jour"
     },
     {
@@ -188,16 +198,6 @@
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
       "adresse": "bd Ibn Tachfine, rue 21 n°40, Hakam I",
-      "tel": "",
-      "lat": 33.5912,
-      "lng": -7.5638,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Houar Rifai",
-      "ville": "Casablanca",
-      "quartier": "Hay Mohammadi",
-      "adresse": "135 bd du Fouarat",
       "tel": "",
       "lat": 33.5924,
       "lng": -7.5626,
@@ -344,13 +344,23 @@
       "garde": "jour"
     },
     {
+      "nom": "Pharmacie Zerktouni",
+      "ville": "Casablanca",
+      "quartier": "Ville et bourgogne et maarif",
+      "adresse": "252, bd Moukaouama - ex Résistance",
+      "tel": "",
+      "lat": 33.5866,
+      "lng": -7.6056,
+      "garde": "24h"
+    },
+    {
       "nom": "Pharmacie Franceville",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
       "adresse": "406, bd Ghandi",
       "tel": "",
-      "lat": 33.5866,
-      "lng": -7.6056,
+      "lat": 33.5794,
+      "lng": -7.6104,
       "garde": "jour"
     },
     {
@@ -359,19 +369,9 @@
       "quartier": "Ville et bourgogne et maarif",
       "adresse": "26, rue Abou Mahasine Arroyani-ex Boissy",
       "tel": "",
-      "lat": 33.5794,
-      "lng": -7.6104,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Zerktouni",
-      "ville": "Casablanca",
-      "quartier": "Ville et bourgogne et maarif",
-      "adresse": "252, bd Moukaouama - ex Résistance",
-      "tel": "",
       "lat": 33.5806,
       "lng": -7.6092,
-      "garde": "24h"
+      "garde": "jour"
     },
     {
       "nom": "Pharmacie Tansift",
