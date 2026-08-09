@@ -144,34 +144,24 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Jamai",
+      "nom": "Pharmacie Cinéma Anfa",
       "ville": "Casablanca",
       "quartier": "Hay hassani et el oulfa",
-      "adresse": "hay El Oulfa, ensemble immobilier AlFirdaous Gh 15 imm. A 80 n°1",
+      "adresse": "141 Bis, bd Sidi Abderrahman",
       "tel": "",
       "lat": 33.5394,
       "lng": -7.6536,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Cinéma Anfa",
+      "nom": "Pharmacie Jamai",
       "ville": "Casablanca",
       "quartier": "Hay hassani et el oulfa",
-      "adresse": "141 Bis, bd Sidi Abderrahman",
+      "adresse": "hay El Oulfa, ensemble immobilier AlFirdaous Gh 15 imm. A 80 n°1",
       "tel": "",
       "lat": 33.5406,
       "lng": -7.6584,
       "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie Lotf Allah",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "hay Mohammadi, hay Mino, rue 3, n°7",
-      "tel": "",
-      "lat": 33.5888,
-      "lng": -7.5662,
-      "garde": "jour"
     },
     {
       "nom": "Pharmacie Hay Hakam",
@@ -179,8 +169,8 @@
       "quartier": "Hay mohammadi",
       "adresse": "bd Ibn Tachfine, rue 21 n°40, Hakam I",
       "tel": "",
-      "lat": 33.59,
-      "lng": -7.565,
+      "lat": 33.5888,
+      "lng": -7.5662,
       "garde": "jour"
     },
     {
@@ -189,8 +179,8 @@
       "quartier": "Hay Mohammadi",
       "adresse": "135 bd du Fouarat",
       "tel": "",
-      "lat": 33.5912,
-      "lng": -7.5638,
+      "lat": 33.59,
+      "lng": -7.565,
       "garde": "jour"
     },
     {
@@ -198,6 +188,16 @@
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
       "adresse": "154, bd du Fouarat, hay Mohammadi",
+      "tel": "",
+      "lat": 33.5912,
+      "lng": -7.5638,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Lotf Allah",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "hay Mohammadi, hay Mino, rue 3, n°7",
       "tel": "",
       "lat": 33.5924,
       "lng": -7.5626,
@@ -334,23 +334,13 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Franceville",
-      "ville": "Casablanca",
-      "quartier": "Ville et bourgogne et maarif",
-      "adresse": "406, bd Ghandi",
-      "tel": "",
-      "lat": 33.5854,
-      "lng": -7.6068,
-      "garde": "jour"
-    },
-    {
       "nom": "Pharmacie Rive Bleue",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
       "adresse": "26, rue Abou Mahasine Arroyani-ex Boissy",
       "tel": "",
-      "lat": 33.5866,
-      "lng": -7.6056,
+      "lat": 33.5854,
+      "lng": -7.6068,
       "garde": "jour"
     },
     {
@@ -358,6 +348,16 @@
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
       "adresse": "252, bd Moukaouama - ex Résistance",
+      "tel": "",
+      "lat": 33.5866,
+      "lng": -7.6056,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Franceville",
+      "ville": "Casablanca",
+      "quartier": "Ville et bourgogne et maarif",
+      "adresse": "406, bd Ghandi",
       "tel": "",
       "lat": 33.5794,
       "lng": -7.6104,
@@ -391,7 +391,7 @@
       "tel": "",
       "lat": 34.0096,
       "lng": -6.8432,
-      "garde": "24h"
+      "garde": "jour"
     },
     {
       "nom": "Pharmacie Al Maghreb Al Arabi",
@@ -411,7 +411,7 @@
       "tel": "",
       "lat": 34.014,
       "lng": -6.8318,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie L 039 Orchidee",
@@ -461,7 +461,7 @@
       "tel": "",
       "lat": 33.9626,
       "lng": -6.8608,
-      "garde": "24h"
+      "garde": "jour"
     },
     {
       "nom": "Pharmacie Mazhar",
@@ -471,7 +471,7 @@
       "tel": "",
       "lat": 33.9638,
       "lng": -6.8596,
-      "garde": "jour"
+      "garde": "24h"
     }
   ]
 }
