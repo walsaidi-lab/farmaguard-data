@@ -74,24 +74,24 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie De L 039 Etoile",
-      "ville": "Casablanca",
-      "quartier": "El Fida Et Mers Sultan",
-      "adresse": "hay Omar Ibn Khattab rue 29 n°82",
-      "tel": "",
-      "lat": 33.5794,
-      "lng": -7.608,
-      "garde": "24h"
-    },
-    {
       "nom": "Pharmacie de Casablanca",
       "ville": "Casablanca",
       "quartier": "El fida et mers sultan",
       "adresse": "160, bd El Mahata -ex La Croix",
       "tel": "",
+      "lat": 33.5794,
+      "lng": -7.608,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie De L 039 Etoile",
+      "ville": "Casablanca",
+      "quartier": "El Fida Et Mers Sultan",
+      "adresse": "hay Omar Ibn Khattab rue 29 n°82",
+      "tel": "",
       "lat": 33.5806,
       "lng": -7.6068,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie Soultana",
@@ -154,20 +154,20 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Erreda",
+      "nom": "Pharmacie Hay Azzeddine",
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
-      "adresse": "162, avenue Nkili Ahmed ex A. Bourgadam et Vitalis",
+      "adresse": "Hay Azeddine, Rue 4 N°3",
       "tel": "",
       "lat": 33.5876,
       "lng": -7.5674,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie carrières centrales",
+      "nom": "Pharmacie Carnot",
       "ville": "Casablanca",
-      "quartier": "Hay Mohammadi",
-      "adresse": "avenue chaouki jilali meskini ex lhoucin b.a toto projet hassan ii imm. 12 n°14 hay mohammadi",
+      "quartier": "Hay mohammadi",
+      "adresse": "15, rue Jaafar El Barmaki",
       "tel": "",
       "lat": 33.5888,
       "lng": -7.5662,
@@ -184,20 +184,20 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Hay Azzeddine",
+      "nom": "Pharmacie Erreda",
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
-      "adresse": "Hay Azeddine, Rue 4 N°3",
+      "adresse": "162, avenue Nkili Ahmed ex A. Bourgadam et Vitalis",
       "tel": "",
       "lat": 33.5912,
       "lng": -7.5638,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Carnot",
+      "nom": "Pharmacie carrières centrales",
       "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "15, rue Jaafar El Barmaki",
+      "quartier": "Hay Mohammadi",
+      "adresse": "avenue chaouki jilali meskini ex lhoucin b.a toto projet hassan ii imm. 12 n°14 hay mohammadi",
       "tel": "",
       "lat": 33.5924,
       "lng": -7.5626,
@@ -214,24 +214,24 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Lissane Eddine",
-      "ville": "Casablanca",
-      "quartier": "Sidi bernoussi",
-      "adresse": "69 Bis, hay El Qods, grp. Albaida",
-      "tel": "",
-      "lat": 33.6114,
-      "lng": -7.5162,
-      "garde": "jour"
-    },
-    {
       "nom": "Pharmacie Ibtissama",
       "ville": "Casablanca",
       "quartier": "Sidi bernoussi",
       "adresse": "hay Mansour III, bloc 67 n°43",
       "tel": "",
+      "lat": 33.6114,
+      "lng": -7.5162,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Lissane Eddine",
+      "ville": "Casablanca",
+      "quartier": "Sidi bernoussi",
+      "adresse": "69 Bis, hay El Qods, grp. Albaida",
+      "tel": "",
       "lat": 33.6126,
       "lng": -7.515,
-      "garde": "24h"
+      "garde": "jour"
     },
     {
       "nom": "Pharmacie L 039 Isere",
@@ -244,33 +244,13 @@
       "garde": "jour"
     },
     {
-      "nom": "Grande Pharmacie Commerciale",
-      "ville": "Casablanca",
-      "quartier": "Ville et bourgogne et maarif",
-      "adresse": "9, bd Mohammed V",
-      "tel": "",
-      "lat": 33.583,
-      "lng": -7.6056,
-      "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie Liberté",
-      "ville": "Casablanca",
-      "quartier": "Ville et bourgogne et maarif",
-      "adresse": "N°104, Angle Boulevard de Paris et Bd Moulay Abdellah. Centre ville",
-      "tel": "",
-      "lat": 33.5842,
-      "lng": -7.6104,
-      "garde": "jour"
-    },
-    {
       "nom": "Pharmacie des Stades",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
       "adresse": "50, rue El Fourat-ex Roncevaux",
       "tel": "",
-      "lat": 33.5854,
-      "lng": -7.6092,
+      "lat": 33.583,
+      "lng": -7.6056,
       "garde": "24h"
     },
     {
@@ -279,88 +259,128 @@
       "quartier": "Ville et bourgogne et maarif",
       "adresse": "139, bd Moulay Youssef",
       "tel": "",
+      "lat": 33.5842,
+      "lng": -7.6104,
+      "garde": "jour"
+    },
+    {
+      "nom": "Grande Pharmacie Commerciale",
+      "ville": "Casablanca",
+      "quartier": "Ville et bourgogne et maarif",
+      "adresse": "9, bd Mohammed V",
+      "tel": "",
+      "lat": 33.5854,
+      "lng": -7.6092,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Liberté",
+      "ville": "Casablanca",
+      "quartier": "Ville et bourgogne et maarif",
+      "adresse": "N°104, Angle Boulevard de Paris et Bd Moulay Abdellah. Centre ville",
+      "tel": "",
       "lat": 33.5866,
       "lng": -7.608,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Les Iris",
+      "nom": "Pharmacie Imane Ex Benyahia",
       "ville": "Rabat",
       "quartier": "Agdal",
-      "adresse": "33 av. ibn sina (entre clinique agdal et ecole mohammadiades ingénieurs)",
+      "adresse": "457 av hassan ii résid meryem",
       "tel": "",
       "lat": 33.9894,
       "lng": -6.8524,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Ben Omar",
+      "nom": "Pharmacie Al Maghreb Al Arabi",
+      "ville": "Rabat",
+      "quartier": "Akkari Ocean Orangers",
+      "adresse": "21.23 avenue al maghreb al arabit océan",
+      "tel": "",
+      "lat": 34.0096,
+      "lng": -6.8432,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie La Corniche",
+      "ville": "Rabat",
+      "quartier": "Akkari Ocean Orangers",
+      "adresse": "n°4 rue adis ababa route cotière (prés visite technique d'auto mobiles)",
+      "tel": "",
+      "lat": 34.0108,
+      "lng": -6.842,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Centre Cheques Postaux",
       "ville": "Rabat",
       "quartier": "Centre Ville",
-      "adresse": "72 bis av du chellah - hassan",
+      "adresse": "45, av moulay ismail hassan",
       "tel": "",
-      "lat": 34.0116,
-      "lng": -6.8342,
+      "lat": 34.014,
+      "lng": -6.8318,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Kounouz",
+      "nom": "Pharmacie Mosquee Karrakchou",
       "ville": "Rabat",
       "quartier": "Hay Riad",
-      "adresse": "avenue arz imeuble arz 22",
+      "adresse": "rue sidi mohamed (a coté mosquée karrakchou)",
       "tel": "",
-      "lat": 34.0197,
-      "lng": -6.8416,
+      "lat": 34.0221,
+      "lng": -6.8392,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie La Muraille",
+      "nom": "Pharmacie Cherqi",
       "ville": "Rabat",
-      "quartier": "Ocean Orangers",
-      "adresse": "14,av ibn toumart",
+      "quartier": "Medina",
+      "adresse": "100-100 bis avenue laalou medina",
       "tel": "",
-      "lat": 34.012,
-      "lng": -6.8408,
-      "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie Al Waha",
-      "ville": "Rabat",
-      "quartier": "Takadoum Et Souissi",
-      "adresse": "av annahda résidence al waha prés du stade fus (complexe sportifmoulay el hassan)",
-      "tel": "",
-      "lat": 33.9772,
-      "lng": -6.8156,
-      "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie Attaissir",
-      "ville": "Rabat",
-      "quartier": "Yacoub El Mansour",
-      "adresse": "443 rue alhassoune hay al manzah c.y.m (a côté de youpi et du restaurant piccola italia)",
-      "tel": "",
-      "lat": 33.9674,
-      "lng": -6.8644,
-      "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie Hay Al Kora",
-      "ville": "Rabat",
-      "quartier": "Yacoub El Mansour",
-      "adresse": "93, lot sidi elyabouri douar al kora c.y.m -",
-      "tel": "",
-      "lat": 33.9686,
-      "lng": -6.8632,
+      "lat": 34.0274,
+      "lng": -6.8394,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Choukroallah",
+      "nom": "Pharmacie du Golf",
+      "ville": "Rabat",
+      "quartier": "Takadoum et Souissi",
+      "adresse": "bd Mohammed VI -ex Imam Malik, km 7,5",
+      "tel": "",
+      "lat": 33.9796,
+      "lng": -6.8192,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Bouitat",
       "ville": "Rabat",
       "quartier": "Yacoub El Mansour",
-      "adresse": "À côté av al majd: 9 bis bloc dg kouass (ancien poste pointage taxi et achoura)yacoub el mansour",
+      "adresse": "j3 complement n°1, rue el faouz c.y.m -",
       "tel": "",
       "lat": 33.9614,
       "lng": -6.862,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Des Residences",
+      "ville": "Rabat",
+      "quartier": "Yacoub El Mansour",
+      "adresse": "233. hay el menzeh c.y.m",
+      "tel": "",
+      "lat": 33.9626,
+      "lng": -6.8608,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Layachi",
+      "ville": "Rabat",
+      "quartier": "Yacoub El Mansour",
+      "adresse": "av essalam (en face la prefecture de police) c.y.m",
+      "tel": "",
+      "lat": 33.9638,
+      "lng": -6.8596,
       "garde": "jour"
     }
   ]
