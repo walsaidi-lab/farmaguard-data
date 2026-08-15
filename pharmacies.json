@@ -1,6 +1,6 @@
 {
   "source": "annuaire-gratuit.ma",
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "note": "Donnees de garde du jour. Coordonnees approximatives (quartier). Telephones a completer depuis la source officielle.",
   "pharmacies": [
     {
@@ -134,53 +134,13 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie du Paradis",
+      "nom": "Pharmacie carrières centrales",
       "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "Dar Lamane. Bloc L N°8",
+      "quartier": "Hay Mohammadi",
+      "adresse": "avenue chaouki jilali meskini ex lhoucin b.a toto projet hassan ii imm. 12 n°14 hay mohammadi",
       "tel": "",
       "lat": 33.5936,
       "lng": -7.5638,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie AlAqsa",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "6, rue du Soldat Emile Brunet, résid. AlAmane",
-      "tel": "",
-      "lat": 33.5864,
-      "lng": -7.5626,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Hay Azzeddine",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "Hay Azeddine, Rue 4 N°3",
-      "tel": "",
-      "lat": 33.5876,
-      "lng": -7.5674,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Carnot",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "15, rue Jaafar El Barmaki",
-      "tel": "",
-      "lat": 33.5888,
-      "lng": -7.5662,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie derb Takadoum",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "hay Takadoum, rue 26 n°5",
-      "tel": "",
-      "lat": 33.59,
-      "lng": -7.565,
       "garde": "jour"
     },
     {
@@ -189,15 +149,55 @@
       "quartier": "Hay mohammadi",
       "adresse": "162, avenue Nkili Ahmed ex A. Bourgadam et Vitalis",
       "tel": "",
+      "lat": 33.5864,
+      "lng": -7.5626,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie du Paradis",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "Dar Lamane. Bloc L N°8",
+      "tel": "",
+      "lat": 33.5876,
+      "lng": -7.5674,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie AlAqsa",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "6, rue du Soldat Emile Brunet, résid. AlAmane",
+      "tel": "",
+      "lat": 33.5888,
+      "lng": -7.5662,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Carnot",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "15, rue Jaafar El Barmaki",
+      "tel": "",
+      "lat": 33.59,
+      "lng": -7.565,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie derb Takadoum",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "hay Takadoum, rue 26 n°5",
+      "tel": "",
       "lat": 33.5912,
       "lng": -7.5638,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie carrières centrales",
+      "nom": "Pharmacie Hay Azzeddine",
       "ville": "Casablanca",
-      "quartier": "Hay Mohammadi",
-      "adresse": "avenue chaouki jilali meskini ex lhoucin b.a toto projet hassan ii imm. 12 n°14 hay mohammadi",
+      "quartier": "Hay mohammadi",
+      "adresse": "Hay Azeddine, Rue 4 N°3",
       "tel": "",
       "lat": 33.5924,
       "lng": -7.5626,
@@ -214,24 +214,24 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Ibtissama",
-      "ville": "Casablanca",
-      "quartier": "Sidi bernoussi",
-      "adresse": "hay Mansour III, bloc 67 n°43",
-      "tel": "",
-      "lat": 33.6114,
-      "lng": -7.5162,
-      "garde": "24h"
-    },
-    {
       "nom": "Pharmacie Lissane Eddine",
       "ville": "Casablanca",
       "quartier": "Sidi bernoussi",
       "adresse": "69 Bis, hay El Qods, grp. Albaida",
       "tel": "",
+      "lat": 33.6114,
+      "lng": -7.5162,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Ibtissama",
+      "ville": "Casablanca",
+      "quartier": "Sidi bernoussi",
+      "adresse": "hay Mansour III, bloc 67 n°43",
+      "tel": "",
       "lat": 33.6126,
       "lng": -7.515,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie L 039 Isere",
@@ -244,23 +244,13 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie des Stades",
+      "nom": "Pharmacie Liberté",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
-      "adresse": "50, rue El Fourat-ex Roncevaux",
+      "adresse": "N°104, Angle Boulevard de Paris et Bd Moulay Abdellah. Centre ville",
       "tel": "",
       "lat": 33.583,
       "lng": -7.6056,
-      "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie Moulay Youssef",
-      "ville": "Casablanca",
-      "quartier": "Ville et bourgogne et maarif",
-      "adresse": "139, bd Moulay Youssef",
-      "tel": "",
-      "lat": 33.5842,
-      "lng": -7.6104,
       "garde": "jour"
     },
     {
@@ -269,19 +259,29 @@
       "quartier": "Ville et bourgogne et maarif",
       "adresse": "9, bd Mohammed V",
       "tel": "",
-      "lat": 33.5854,
-      "lng": -7.6092,
+      "lat": 33.5842,
+      "lng": -7.6104,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Liberté",
+      "nom": "Pharmacie Moulay Youssef",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
-      "adresse": "N°104, Angle Boulevard de Paris et Bd Moulay Abdellah. Centre ville",
+      "adresse": "139, bd Moulay Youssef",
+      "tel": "",
+      "lat": 33.5854,
+      "lng": -7.6092,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie des Stades",
+      "ville": "Casablanca",
+      "quartier": "Ville et bourgogne et maarif",
+      "adresse": "50, rue El Fourat-ex Roncevaux",
       "tel": "",
       "lat": 33.5866,
       "lng": -7.608,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie Imane Ex Benyahia",
