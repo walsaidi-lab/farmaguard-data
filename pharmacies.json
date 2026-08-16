@@ -134,10 +134,10 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie du Paradis",
+      "nom": "Pharmacie carrières centrales",
       "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "Dar Lamane. Bloc L N°8",
+      "quartier": "Hay Mohammadi",
+      "adresse": "avenue chaouki jilali meskini ex lhoucin b.a toto projet hassan ii imm. 12 n°14 hay mohammadi",
       "tel": "",
       "lat": 33.5936,
       "lng": -7.5638,
@@ -154,33 +154,23 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie AlAqsa",
+      "nom": "Pharmacie du Paradis",
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
-      "adresse": "6, rue du Soldat Emile Brunet, résid. AlAmane",
+      "adresse": "Dar Lamane. Bloc L N°8",
       "tel": "",
       "lat": 33.5876,
       "lng": -7.5674,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie carrières centrales",
+      "nom": "Pharmacie AlAqsa",
       "ville": "Casablanca",
-      "quartier": "Hay Mohammadi",
-      "adresse": "avenue chaouki jilali meskini ex lhoucin b.a toto projet hassan ii imm. 12 n°14 hay mohammadi",
+      "quartier": "Hay mohammadi",
+      "adresse": "6, rue du Soldat Emile Brunet, résid. AlAmane",
       "tel": "",
       "lat": 33.5888,
       "lng": -7.5662,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Hay Azzeddine",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "Hay Azeddine, Rue 4 N°3",
-      "tel": "",
-      "lat": 33.59,
-      "lng": -7.565,
       "garde": "jour"
     },
     {
@@ -189,8 +179,8 @@
       "quartier": "Hay mohammadi",
       "adresse": "15, rue Jaafar El Barmaki",
       "tel": "",
-      "lat": 33.5912,
-      "lng": -7.5638,
+      "lat": 33.59,
+      "lng": -7.565,
       "garde": "jour"
     },
     {
@@ -198,6 +188,16 @@
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
       "adresse": "hay Takadoum, rue 26 n°5",
+      "tel": "",
+      "lat": 33.5912,
+      "lng": -7.5638,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Hay Azzeddine",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "Hay Azeddine, Rue 4 N°3",
       "tel": "",
       "lat": 33.5924,
       "lng": -7.5626,
@@ -244,33 +244,23 @@
       "garde": "jour"
     },
     {
-      "nom": "Grande Pharmacie Commerciale",
-      "ville": "Casablanca",
-      "quartier": "Ville et bourgogne et maarif",
-      "adresse": "9, bd Mohammed V",
-      "tel": "",
-      "lat": 33.583,
-      "lng": -7.6056,
-      "garde": "24h"
-    },
-    {
       "nom": "Pharmacie Liberté",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
       "adresse": "N°104, Angle Boulevard de Paris et Bd Moulay Abdellah. Centre ville",
       "tel": "",
-      "lat": 33.5842,
-      "lng": -7.6104,
+      "lat": 33.583,
+      "lng": -7.6056,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie des Stades",
+      "nom": "Grande Pharmacie Commerciale",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
-      "adresse": "50, rue El Fourat-ex Roncevaux",
+      "adresse": "9, bd Mohammed V",
       "tel": "",
-      "lat": 33.5854,
-      "lng": -7.6092,
+      "lat": 33.5842,
+      "lng": -7.6104,
       "garde": "24h"
     },
     {
@@ -279,9 +269,19 @@
       "quartier": "Ville et bourgogne et maarif",
       "adresse": "139, bd Moulay Youssef",
       "tel": "",
+      "lat": 33.5854,
+      "lng": -7.6092,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie des Stades",
+      "ville": "Casablanca",
+      "quartier": "Ville et bourgogne et maarif",
+      "adresse": "50, rue El Fourat-ex Roncevaux",
+      "tel": "",
       "lat": 33.5866,
       "lng": -7.608,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie Ibn Yassine",
@@ -311,7 +311,7 @@
       "tel": "",
       "lat": 34.0108,
       "lng": -6.842,
-      "garde": "24h"
+      "garde": "jour"
     },
     {
       "nom": "Pharmacie Centre Cheques Postaux",
@@ -371,7 +371,7 @@
       "tel": "",
       "lat": 33.9626,
       "lng": -6.8608,
-      "garde": "24h"
+      "garde": "jour"
     },
     {
       "nom": "Pharmacie Hay El Fath",
@@ -391,46 +391,56 @@
       "tel": "",
       "lat": 33.965,
       "lng": -6.8644,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
-      "nom": "Pharmacie Ryad Meknes",
+      "nom": "Pharmacie Rouamzine",
       "ville": "Meknes",
       "quartier": "Ismailia",
-      "adresse": "56 rue ibn zaidoune, face école ibn zaidoune et derrière la gare routière ryad - médina",
+      "adresse": "79 rue rouamzine. ville ancienne, medina",
       "tel": "",
       "lat": 33.8914,
       "lng": -5.5524,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Borj Machkouk",
+      "nom": "Pharmacie Shimi",
       "ville": "Meknes",
       "quartier": "Ismailia",
-      "adresse": "bd ferrane, borj machkouk rue 16 n°1",
+      "adresse": "37 bis, rue ambroise, saada la touraine",
       "tel": "",
       "lat": 33.8926,
       "lng": -5.5512,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Al Andalous",
+      "nom": "Pharmacie Meknès",
       "ville": "Meknes",
       "quartier": "Ismailia",
-      "adresse": "53, lotiss. al andalouss, zahwa ain maaza",
+      "adresse": "194 lot sahara vers auto école latifa akyoud et souk jadid route de sefita",
       "tel": "",
       "lat": 33.8938,
       "lng": -5.55,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Jamaa Roua",
+      "nom": "Pharmacie Loubna",
       "ville": "Meknes",
       "quartier": "Ismailia",
-      "adresse": "1, bd chaouia, jamaa roua",
+      "adresse": "810, diour jdad , beni mhammed",
       "tel": "",
       "lat": 33.895,
       "lng": -5.5488,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Rajae",
+      "ville": "Meknes",
+      "quartier": "Ismailia",
+      "adresse": "28, bd lakhmiss, sidi baba",
+      "tel": "",
+      "lat": 33.8962,
+      "lng": -5.5476,
       "garde": "24h"
     },
     {
@@ -439,78 +449,48 @@
       "quartier": "Ismailia",
       "adresse": "19 lot inbiat 1 kamilia pres hamame sahrawi a coté de hamam kamilia",
       "tel": "",
-      "lat": 33.8962,
-      "lng": -5.5476,
-      "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie Anassi",
-      "ville": "Meknes",
-      "quartier": "Ismailia",
-      "adresse": "520 bd zitoune lot riad ismailia",
-      "tel": "",
       "lat": 33.8974,
       "lng": -5.5524,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Al Bayrouni",
+      "nom": "Pharmacie Itrie",
       "ville": "Meknes",
       "quartier": "Menzeh",
-      "adresse": "avenue ibn sina 6 à coté de cinéma malaki borj my omar",
+      "adresse": "grande gare de meknès (au même bâtiment de la grande gare de meknès)",
       "tel": "",
       "lat": 33.8816,
       "lng": -5.5662,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie De Bretagne",
+      "nom": "Pharmacie Chams",
       "ville": "Meknes",
       "quartier": "Menzeh",
-      "adresse": "1, rue bandoeng; face clinique kendusi, vile novelle , hamria",
+      "adresse": "rue essaadiyine résid. mabrouka imm b. 300m de la criée- route principale el bassatine",
       "tel": "",
       "lat": 33.8744,
       "lng": -5.565,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Dar Achifae",
+      "nom": "Pharmacie Masjid Mohamed VI",
       "ville": "Meknes",
       "quartier": "Menzeh",
-      "adresse": "1104, hay al bassatine 7, lot 2",
+      "adresse": "2 bd oqba bnou nafiaa - sahat andalous",
       "tel": "",
       "lat": 33.8756,
       "lng": -5.5638,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Aladin",
-      "ville": "Meknes",
-      "quartier": "Ouislane",
-      "adresse": "14 rte de fès laktarat ouislane",
-      "tel": "",
-      "lat": 33.9138,
-      "lng": -5.5226,
-      "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie Roche Rouge",
-      "ville": "Meknes",
-      "quartier": "Ouislane",
-      "adresse": "18 bd al madarisse - autre ville hay al nasr",
-      "tel": "",
-      "lat": 33.915,
-      "lng": -5.5274,
-      "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie Jawharat Toulal",
+      "nom": "Pharmacie Centrale Toulal",
       "ville": "Meknes",
       "quartier": "Toulal",
-      "adresse": "57 lotiss. al massira",
+      "adresse": "357, trc 4 lot al massira",
       "tel": "",
-      "lat": 33.8612,
-      "lng": -5.6062,
+      "lat": 33.8588,
+      "lng": -5.6026,
       "garde": "24h"
     }
   ]
