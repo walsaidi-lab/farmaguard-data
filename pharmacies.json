@@ -1,27 +1,27 @@
 {
   "source": "annuaire-gratuit.ma",
-  "date": "2026-08-16",
+  "date": "2026-08-17",
   "note": "Donnees de garde du jour. Coordonnees approximatives (quartier). Telephones a completer depuis la source officielle.",
   "pharmacies": [
-    {
-      "nom": "Pharmacie Alkhayam",
-      "ville": "Casablanca",
-      "quartier": "Ain chock",
-      "adresse": "24, bd Smara",
-      "tel": "",
-      "lat": 33.5364,
-      "lng": -7.5814,
-      "garde": "jour"
-    },
     {
       "nom": "Pharmacie Boulmane",
       "ville": "Casablanca",
       "quartier": "Ain chock",
       "adresse": "2, bd Boulmane, hay Mly Abdellah",
       "tel": "",
+      "lat": 33.5364,
+      "lng": -7.5814,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Alkhayam",
+      "ville": "Casablanca",
+      "quartier": "Ain chock",
+      "adresse": "24, bd Smara",
+      "tel": "",
       "lat": 33.5376,
       "lng": -7.5802,
-      "garde": "24h"
+      "garde": "jour"
     },
     {
       "nom": "Pharmacie Bd Al Qods",
@@ -134,33 +134,13 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie carrières centrales",
-      "ville": "Casablanca",
-      "quartier": "Hay Mohammadi",
-      "adresse": "avenue chaouki jilali meskini ex lhoucin b.a toto projet hassan ii imm. 12 n°14 hay mohammadi",
-      "tel": "",
-      "lat": 33.5936,
-      "lng": -7.5638,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Erreda",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "162, avenue Nkili Ahmed ex A. Bourgadam et Vitalis",
-      "tel": "",
-      "lat": 33.5864,
-      "lng": -7.5626,
-      "garde": "jour"
-    },
-    {
       "nom": "Pharmacie du Paradis",
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
       "adresse": "Dar Lamane. Bloc L N°8",
       "tel": "",
-      "lat": 33.5876,
-      "lng": -7.5674,
+      "lat": 33.5936,
+      "lng": -7.5638,
       "garde": "jour"
     },
     {
@@ -168,6 +148,26 @@
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
       "adresse": "6, rue du Soldat Emile Brunet, résid. AlAmane",
+      "tel": "",
+      "lat": 33.5864,
+      "lng": -7.5626,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie carrières centrales",
+      "ville": "Casablanca",
+      "quartier": "Hay Mohammadi",
+      "adresse": "avenue chaouki jilali meskini ex lhoucin b.a toto projet hassan ii imm. 12 n°14 hay mohammadi",
+      "tel": "",
+      "lat": 33.5876,
+      "lng": -7.5674,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Erreda",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "162, avenue Nkili Ahmed ex A. Bourgadam et Vitalis",
       "tel": "",
       "lat": 33.5888,
       "lng": -7.5662,
