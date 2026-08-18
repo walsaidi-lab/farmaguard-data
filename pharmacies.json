@@ -1,6 +1,6 @@
 {
   "source": "annuaire-gratuit.ma",
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "note": "Donnees de garde du jour. Coordonnees approximatives (quartier). Telephones a completer depuis la source officielle.",
   "pharmacies": [
     {
@@ -174,13 +174,23 @@
       "garde": "jour"
     },
     {
+      "nom": "Pharmacie la Grande Ceinture",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "N°99, Boulevard de la Grande Ceinture (h.Mohammadi), Hay Adil",
+      "tel": "",
+      "lat": 33.59,
+      "lng": -7.565,
+      "garde": "jour"
+    },
+    {
       "nom": "Pharmacie Résidence ElMouahidine",
       "ville": "Casablanca",
       "quartier": "Hay Mohammadi",
       "adresse": "lot. el mouahidine, résid. abdelmoumen 1 n°7",
       "tel": "",
-      "lat": 33.59,
-      "lng": -7.565,
+      "lat": 33.5912,
+      "lng": -7.5638,
       "garde": "jour"
     },
     {
@@ -189,18 +199,18 @@
       "quartier": "Hay Mohammadi",
       "adresse": "hay Souarete (Aïn Borja) rue 5 n°54",
       "tel": "",
-      "lat": 33.5912,
-      "lng": -7.5638,
+      "lat": 33.5924,
+      "lng": -7.5626,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie la Grande Ceinture",
+      "nom": "Pharmacie kissariat Hay Mohammadi",
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
-      "adresse": "N°99, Boulevard de la Grande Ceinture (h.Mohammadi), Hay Adil",
+      "adresse": "Avenue Abdelkader Torres, IMM. 5 N°4",
       "tel": "",
-      "lat": 33.5924,
-      "lng": -7.5626,
+      "lat": 33.5936,
+      "lng": -7.5674,
       "garde": "jour"
     },
     {
@@ -209,8 +219,8 @@
       "quartier": "Hay mohammadi",
       "adresse": "98, rue du Capitaine Loubet, Khalil I",
       "tel": "",
-      "lat": 33.5936,
-      "lng": -7.5674,
+      "lat": 33.5864,
+      "lng": -7.5662,
       "garde": "jour"
     },
     {
@@ -219,8 +229,8 @@
       "quartier": "Hay mohammadi",
       "adresse": "9, rue Souleimane El Farissi",
       "tel": "",
-      "lat": 33.5864,
-      "lng": -7.5662,
+      "lat": 33.5876,
+      "lng": -7.565,
       "garde": "jour"
     },
     {
@@ -228,16 +238,6 @@
       "ville": "Casablanca",
       "quartier": "hay Mohammadi",
       "adresse": "bd Ibn Louennane résid. AlAssil n°4 A 003 Hay Mohammadi",
-      "tel": "",
-      "lat": 33.5876,
-      "lng": -7.565,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie kissariat Hay Mohammadi",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "Avenue Abdelkader Torres, IMM. 5 N°4",
       "tel": "",
       "lat": 33.5888,
       "lng": -7.5638,
@@ -304,33 +304,23 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Meftaha",
-      "ville": "Casablanca",
-      "quartier": "Sidi maarouf",
-      "adresse": "lotiss. ElKheir , lot.455- Ouled Haddou, Sidi Maârouf",
-      "tel": "",
-      "lat": 33.5038,
-      "lng": -7.6324,
-      "garde": "24h"
-    },
-    {
       "nom": "Pharmacie Attenmia",
       "ville": "Casablanca",
       "quartier": "Sidi maarouf",
       "adresse": "résid. Soufiane , imm. B2, Sidi Maârouf",
       "tel": "",
-      "lat": 33.505,
-      "lng": -7.6312,
+      "lat": 33.5038,
+      "lng": -7.6324,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Al Balsam",
+      "nom": "Pharmacie Meftaha",
       "ville": "Casablanca",
-      "quartier": "Sidi moumen",
-      "adresse": "hay Sidi Moumen, rue 10 n°84",
+      "quartier": "Sidi maarouf",
+      "adresse": "lotiss. ElKheir , lot.455- Ouled Haddou, Sidi Maârouf",
       "tel": "",
-      "lat": 33.5872,
-      "lng": -7.526,
+      "lat": 33.505,
+      "lng": -7.6312,
       "garde": "24h"
     },
     {
@@ -339,9 +329,19 @@
       "quartier": "Sidi moumen",
       "adresse": "hay Alwalaa, 2° tranche, imm. 13 n°2",
       "tel": "",
+      "lat": 33.5872,
+      "lng": -7.526,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Al Balsam",
+      "ville": "Casablanca",
+      "quartier": "Sidi moumen",
+      "adresse": "hay Sidi Moumen, rue 10 n°84",
+      "tel": "",
       "lat": 33.5884,
       "lng": -7.5248,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie De L 039 Hopital Ibnou Rochd",
@@ -354,23 +354,13 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Vita",
+      "nom": "Pharmacie Internationale",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
-      "adresse": "463 bd Brahim Roudani -ex route El Jadida résid. Saâda Val Fleurie Al Batha",
+      "adresse": "Rue Mohamed El Hansali -ex Cdt Provost",
       "tel": "",
       "lat": 33.5794,
       "lng": -7.6104,
-      "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie Moderne",
-      "ville": "Casablanca",
-      "quartier": "Ville et bourgogne et maarif",
-      "adresse": "68, bd du Onze Janvier",
-      "tel": "",
-      "lat": 33.5806,
-      "lng": -7.6092,
       "garde": "jour"
     },
     {
@@ -379,19 +369,29 @@
       "quartier": "Ville et bourgogne et maarif",
       "adresse": "319, bd Moulay Youssef",
       "tel": "",
-      "lat": 33.5818,
-      "lng": -7.608,
+      "lat": 33.5806,
+      "lng": -7.6092,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Internationale",
+      "nom": "Pharmacie Moderne",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
-      "adresse": "Rue Mohamed El Hansali -ex Cdt Provost",
+      "adresse": "68, bd du Onze Janvier",
+      "tel": "",
+      "lat": 33.5818,
+      "lng": -7.608,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Vita",
+      "ville": "Casablanca",
+      "quartier": "Ville et bourgogne et maarif",
+      "adresse": "463 bd Brahim Roudani -ex route El Jadida résid. Saâda Val Fleurie Al Batha",
       "tel": "",
       "lat": 33.583,
       "lng": -7.6068,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie Les Ministeres D 039 Agdal",
