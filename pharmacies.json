@@ -14,24 +14,24 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Arij",
-      "ville": "Casablanca",
-      "quartier": "Ain chock",
-      "adresse": "5 quartier Californie bd Demmame Californie",
-      "tel": "",
-      "lat": 33.5376,
-      "lng": -7.5802,
-      "garde": "24h"
-    },
-    {
       "nom": "Pharmacie Hay R 039 Mila",
       "ville": "Casablanca",
       "quartier": "Ain Chock",
       "adresse": "hay Anigrit (h. Rmila) rue 22 n°192",
       "tel": "",
+      "lat": 33.5376,
+      "lng": -7.5802,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Arij",
+      "ville": "Casablanca",
+      "quartier": "Ain chock",
+      "adresse": "5 quartier Californie bd Demmame Californie",
+      "tel": "",
       "lat": 33.5388,
       "lng": -7.579,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie ElMaaroufi",
@@ -304,24 +304,24 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Attenmia",
-      "ville": "Casablanca",
-      "quartier": "Sidi maarouf",
-      "adresse": "résid. Soufiane , imm. B2, Sidi Maârouf",
-      "tel": "",
-      "lat": 33.5038,
-      "lng": -7.6324,
-      "garde": "jour"
-    },
-    {
       "nom": "Pharmacie Meftaha",
       "ville": "Casablanca",
       "quartier": "Sidi maarouf",
       "adresse": "lotiss. ElKheir , lot.455- Ouled Haddou, Sidi Maârouf",
       "tel": "",
+      "lat": 33.5038,
+      "lng": -7.6324,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Attenmia",
+      "ville": "Casablanca",
+      "quartier": "Sidi maarouf",
+      "adresse": "résid. Soufiane , imm. B2, Sidi Maârouf",
+      "tel": "",
       "lat": 33.505,
       "lng": -7.6312,
-      "garde": "24h"
+      "garde": "jour"
     },
     {
       "nom": "Pharmacie Attacharouk",
@@ -354,24 +354,24 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie la corniche",
-      "ville": "Casablanca",
-      "quartier": "Ville et bourgogne et maarif",
-      "adresse": "319, bd Moulay Youssef",
-      "tel": "",
-      "lat": 33.5794,
-      "lng": -7.6104,
-      "garde": "24h"
-    },
-    {
       "nom": "Pharmacie Internationale",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
       "adresse": "Rue Mohamed El Hansali -ex Cdt Provost",
       "tel": "",
+      "lat": 33.5794,
+      "lng": -7.6104,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie la corniche",
+      "ville": "Casablanca",
+      "quartier": "Ville et bourgogne et maarif",
+      "adresse": "319, bd Moulay Youssef",
+      "tel": "",
       "lat": 33.5806,
       "lng": -7.6092,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie Moderne",
@@ -394,14 +394,94 @@
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Centre Cheques Postaux",
+      "nom": "Pharmacie Ibn Khatab",
+      "ville": "Rabat",
+      "quartier": "Agdal",
+      "adresse": "angle av omar bin khattab et av abtal (en face arribat centerentrée bershka) -",
+      "tel": "",
+      "lat": 33.9894,
+      "lng": -6.8524,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Akkari",
+      "ville": "Rabat",
+      "quartier": "Akkari Ocean Orangers",
+      "adresse": "57, rue sidi ahmed",
+      "tel": "",
+      "lat": 34.0096,
+      "lng": -6.8432,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Sawmaat Hassan",
       "ville": "Rabat",
       "quartier": "Centre Ville",
-      "adresse": "45, av moulay ismail hassan",
+      "adresse": "1 rue riad — hassan",
       "tel": "",
-      "lat": 34.0104,
-      "lng": -6.8354,
+      "lat": 34.0128,
+      "lng": -6.833,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Secteur 15",
+      "ville": "Rabat",
+      "quartier": "Hay Riad",
+      "adresse": "10 avenue mohamed el yazidi, bloc f, secteur 15",
+      "tel": "",
+      "lat": 34.0209,
+      "lng": -6.8404,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Belmahi",
+      "ville": "Rabat",
+      "quartier": "Oceon Orangers",
+      "adresse": "1, rue tonkin (av madagascar)prés l'école andre malraux et marché diour jamaa",
+      "tel": "",
+      "lat": 34.0221,
+      "lng": -6.8392,
       "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Mosquee O L M",
+      "ville": "Rabat",
+      "quartier": "Takadoum Et Souissi",
+      "adresse": "rue hamza bnou amr, o.l.m souissi ii",
+      "tel": "",
+      "lat": 33.9784,
+      "lng": -6.8204,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Al Amane",
+      "ville": "Rabat",
+      "quartier": "Yacoub El Mansour",
+      "adresse": "443 bis amal 5 massira - hay el fath lotissement grini c.y.m",
+      "tel": "",
+      "lat": 33.9686,
+      "lng": -6.8632,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Al Majd",
+      "ville": "Rabat",
+      "quartier": "Yacoub El Mansour",
+      "adresse": "bloc d5. n°9. avenue al ijtihad. kouas - c.y.m",
+      "tel": "",
+      "lat": 33.9614,
+      "lng": -6.862,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie El Kamra",
+      "ville": "Rabat",
+      "quartier": "Yacoub El Mansour",
+      "adresse": "bloc l n187 el kamra cym (en face immeubles touarga)",
+      "tel": "",
+      "lat": 33.9626,
+      "lng": -6.8608,
+      "garde": "24h"
     }
   ]
 }
