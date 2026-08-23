@@ -174,13 +174,23 @@
       "garde": "jour"
     },
     {
+      "nom": "Pharmacie la Grande Ceinture",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "N°99, Boulevard de la Grande Ceinture (h.Mohammadi), Hay Adil",
+      "tel": "",
+      "lat": 33.59,
+      "lng": -7.565,
+      "garde": "jour"
+    },
+    {
       "nom": "Pharmacie Résidence ElMouahidine",
       "ville": "Casablanca",
       "quartier": "Hay Mohammadi",
       "adresse": "lot. el mouahidine, résid. abdelmoumen 1 n°7",
       "tel": "",
-      "lat": 33.59,
-      "lng": -7.565,
+      "lat": 33.5912,
+      "lng": -7.5638,
       "garde": "jour"
     },
     {
@@ -189,38 +199,8 @@
       "quartier": "Hay Mohammadi",
       "adresse": "hay Souarete (Aïn Borja) rue 5 n°54",
       "tel": "",
-      "lat": 33.5912,
-      "lng": -7.5638,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie la Grande Ceinture",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "N°99, Boulevard de la Grande Ceinture (h.Mohammadi), Hay Adil",
-      "tel": "",
       "lat": 33.5924,
       "lng": -7.5626,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Senhaja Health",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "98, rue du Capitaine Loubet, Khalil I",
-      "tel": "",
-      "lat": 33.5936,
-      "lng": -7.5674,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie ElFarissi",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "9, rue Souleimane El Farissi",
-      "tel": "",
-      "lat": 33.5864,
-      "lng": -7.5662,
       "garde": "jour"
     },
     {
@@ -229,8 +209,8 @@
       "quartier": "hay Mohammadi",
       "adresse": "bd Ibn Louennane résid. AlAssil n°4 A 003 Hay Mohammadi",
       "tel": "",
-      "lat": 33.5876,
-      "lng": -7.565,
+      "lat": 33.5936,
+      "lng": -7.5674,
       "garde": "jour"
     },
     {
@@ -238,6 +218,26 @@
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
       "adresse": "Avenue Abdelkader Torres, IMM. 5 N°4",
+      "tel": "",
+      "lat": 33.5864,
+      "lng": -7.5662,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Senhaja Health",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "98, rue du Capitaine Loubet, Khalil I",
+      "tel": "",
+      "lat": 33.5876,
+      "lng": -7.565,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie ElFarissi",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "9, rue Souleimane El Farissi",
       "tel": "",
       "lat": 33.5888,
       "lng": -7.5638,
@@ -354,24 +354,24 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Vita",
-      "ville": "Casablanca",
-      "quartier": "Ville et bourgogne et maarif",
-      "adresse": "463 bd Brahim Roudani -ex route El Jadida résid. Saâda Val Fleurie Al Batha",
-      "tel": "",
-      "lat": 33.5794,
-      "lng": -7.6104,
-      "garde": "24h"
-    },
-    {
       "nom": "Pharmacie Moderne",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
       "adresse": "68, bd du Onze Janvier",
       "tel": "",
+      "lat": 33.5794,
+      "lng": -7.6104,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Vita",
+      "ville": "Casablanca",
+      "quartier": "Ville et bourgogne et maarif",
+      "adresse": "463 bd Brahim Roudani -ex route El Jadida résid. Saâda Val Fleurie Al Batha",
+      "tel": "",
       "lat": 33.5806,
       "lng": -7.6092,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie la corniche",
@@ -411,7 +411,7 @@
       "tel": "",
       "lat": 34.0096,
       "lng": -6.8432,
-      "garde": "24h"
+      "garde": "jour"
     },
     {
       "nom": "Pharmacie Al Amana",
@@ -461,7 +461,7 @@
       "tel": "",
       "lat": 33.9796,
       "lng": -6.8192,
-      "garde": "24h"
+      "garde": "jour"
     },
     {
       "nom": "Pharmacie Al Hikma",
@@ -481,7 +481,7 @@
       "tel": "",
       "lat": 33.9626,
       "lng": -6.8608,
-      "garde": "jour"
+      "garde": "24h"
     }
   ]
 }
