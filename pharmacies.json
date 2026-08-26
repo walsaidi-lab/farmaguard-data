@@ -1,6 +1,6 @@
 {
   "source": "annuaire-gratuit.ma",
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "note": "Donnees de garde du jour. Coordonnees approximatives (quartier). Telephones a completer depuis la source officielle.",
   "pharmacies": [
     {
@@ -14,23 +14,33 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie ElYacout",
+      "nom": "Pharmacie Benghazi",
       "ville": "Casablanca",
       "quartier": "Ain chock",
-      "adresse": "43, bd de Baghdad",
+      "adresse": "quartier Californie, lotiss. Tanay rue 8 n°2",
       "tel": "",
       "lat": 33.5376,
       "lng": -7.5802,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Benghazi",
+      "nom": "Pharmacie ElYacout",
       "ville": "Casablanca",
       "quartier": "Ain chock",
-      "adresse": "quartier Californie, lotiss. Tanay rue 8 n°2",
+      "adresse": "43, bd de Baghdad",
       "tel": "",
       "lat": 33.5388,
       "lng": -7.579,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Jacaranda",
+      "ville": "Casablanca",
+      "quartier": "Ain sebaa",
+      "adresse": "1 Bis, rue El Gara, bd. Mly Slimane",
+      "tel": "",
+      "lat": 33.605,
+      "lng": -7.5338,
       "garde": "jour"
     },
     {
@@ -39,19 +49,9 @@
       "quartier": "Ain sebaa",
       "adresse": "253, allée des Mimosas (Aïn Sebâa)",
       "tel": "",
-      "lat": 33.605,
-      "lng": -7.5338,
-      "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie Jacaranda",
-      "ville": "Casablanca",
-      "quartier": "Ain sebaa",
-      "adresse": "1 Bis, rue El Gara, bd. Mly Slimane",
-      "tel": "",
       "lat": 33.6062,
       "lng": -7.5326,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie Al Housne",
@@ -124,23 +124,13 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Nouzha",
-      "ville": "Casablanca",
-      "quartier": "Hay hassani et el oulfa",
-      "adresse": "602, bd Oued Oum Errabia",
-      "tel": "",
-      "lat": 33.5454,
-      "lng": -7.656,
-      "garde": "24h"
-    },
-    {
       "nom": "Pharmacie Rochdi",
       "ville": "Casablanca",
       "quartier": "Hay hassani et el oulfa",
       "adresse": "bd Oued Oum Errabia, résid. AlFirdaous GH4 imm.A 117 n°03",
       "tel": "",
-      "lat": 33.5466,
-      "lng": -7.6548,
+      "lat": 33.5454,
+      "lng": -7.656,
       "garde": "24h"
     },
     {
@@ -149,29 +139,19 @@
       "quartier": "Hay hassani et el oulfa",
       "adresse": "Boulevard Ibn Sina - ex Avicenne, Résidence. Al Baraka. Hay Al Hassani",
       "tel": "",
+      "lat": 33.5466,
+      "lng": -7.6548,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Nouzha",
+      "ville": "Casablanca",
+      "quartier": "Hay hassani et el oulfa",
+      "adresse": "602, bd Oued Oum Errabia",
+      "tel": "",
       "lat": 33.5394,
       "lng": -7.6536,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Ghizlane",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "120 Bis, bd du Fouarat, hay Jamal",
-      "tel": "",
-      "lat": 33.5876,
-      "lng": -7.5674,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Nagjir",
-      "ville": "Casablanca",
-      "quartier": "hay Mohammadi",
-      "adresse": "lot. El Mouahidine (hay Mohammadi) lot.334 bd la Grande Ceinture Hay Mohammadi",
-      "tel": "",
-      "lat": 33.5888,
-      "lng": -7.5662,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie Ibn Tachfine",
@@ -179,8 +159,8 @@
       "quartier": "Hay mohammadi",
       "adresse": "278, bd Ibn Tachfine",
       "tel": "",
-      "lat": 33.59,
-      "lng": -7.565,
+      "lat": 33.5876,
+      "lng": -7.5674,
       "garde": "jour"
     },
     {
@@ -189,28 +169,28 @@
       "quartier": "Hay mohammadi",
       "adresse": "3, rue Senhaja, khalil II",
       "tel": "",
+      "lat": 33.5888,
+      "lng": -7.5662,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Ghizlane",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "120 Bis, bd du Fouarat, hay Jamal",
+      "tel": "",
+      "lat": 33.59,
+      "lng": -7.565,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Nagjir",
+      "ville": "Casablanca",
+      "quartier": "hay Mohammadi",
+      "adresse": "lot. El Mouahidine (hay Mohammadi) lot.334 bd la Grande Ceinture Hay Mohammadi",
+      "tel": "",
       "lat": 33.5912,
       "lng": -7.5638,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Essaada",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "N°2, Avenue Ali Yata -ex Foum Lahsan",
-      "tel": "",
-      "lat": 33.5924,
-      "lng": -7.5626,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Jihane",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "bd Abdelkrim Al Khatib ex Oulad Ziane, C.com. Cité Ouled Ziane n°28",
-      "tel": "",
-      "lat": 33.5936,
-      "lng": -7.5674,
       "garde": "jour"
     },
     {
@@ -219,8 +199,8 @@
       "quartier": "hay Mohammadi",
       "adresse": "hay Adil rue 5 n°11 Ain Borja",
       "tel": "",
-      "lat": 33.5864,
-      "lng": -7.5662,
+      "lat": 33.5924,
+      "lng": -7.5626,
       "garde": "jour"
     },
     {
@@ -228,6 +208,26 @@
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
       "adresse": "av. Zouhair Med Najjar -ex D, Bloc Kodia 1 n°44",
+      "tel": "",
+      "lat": 33.5936,
+      "lng": -7.5674,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Essaada",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "N°2, Avenue Ali Yata -ex Foum Lahsan",
+      "tel": "",
+      "lat": 33.5864,
+      "lng": -7.5662,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Jihane",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "bd Abdelkrim Al Khatib ex Oulad Ziane, C.com. Cité Ouled Ziane n°28",
       "tel": "",
       "lat": 33.5876,
       "lng": -7.565,
@@ -324,24 +324,24 @@
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie les Capucines",
-      "ville": "Casablanca",
-      "quartier": "Ville et bourgogne et maarif",
-      "adresse": "38, bd Massira El Khadra",
-      "tel": "",
-      "lat": 33.5842,
-      "lng": -7.608,
-      "garde": "24h"
-    },
-    {
       "nom": "Pharmacie Lakbira",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
       "adresse": "62, rue du Chasseur Jules Gros",
       "tel": "",
+      "lat": 33.5842,
+      "lng": -7.608,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie les Capucines",
+      "ville": "Casablanca",
+      "quartier": "Ville et bourgogne et maarif",
+      "adresse": "38, bd Massira El Khadra",
+      "tel": "",
       "lat": 33.5854,
       "lng": -7.6068,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie Moderne",
