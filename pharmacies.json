@@ -124,24 +124,24 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Rochdi",
-      "ville": "Casablanca",
-      "quartier": "Hay hassani et el oulfa",
-      "adresse": "bd Oued Oum Errabia, résid. AlFirdaous GH4 imm.A 117 n°03",
-      "tel": "",
-      "lat": 33.5454,
-      "lng": -7.656,
-      "garde": "24h"
-    },
-    {
       "nom": "Pharmacie Ibnou Sina Hay Hassani",
       "ville": "Casablanca",
       "quartier": "Hay hassani et el oulfa",
       "adresse": "Boulevard Ibn Sina - ex Avicenne, Résidence. Al Baraka. Hay Al Hassani",
       "tel": "",
+      "lat": 33.5454,
+      "lng": -7.656,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Rochdi",
+      "ville": "Casablanca",
+      "quartier": "Hay hassani et el oulfa",
+      "adresse": "bd Oued Oum Errabia, résid. AlFirdaous GH4 imm.A 117 n°03",
+      "tel": "",
       "lat": 33.5466,
       "lng": -7.6548,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie Nouzha",
@@ -154,43 +154,13 @@
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Ibn Tachfine",
+      "nom": "Pharmacie Jihane",
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
-      "adresse": "278, bd Ibn Tachfine",
+      "adresse": "bd Abdelkrim Al Khatib ex Oulad Ziane, C.com. Cité Ouled Ziane n°28",
       "tel": "",
       "lat": 33.5876,
       "lng": -7.5674,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Al Fatiha",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "3, rue Senhaja, khalil II",
-      "tel": "",
-      "lat": 33.5888,
-      "lng": -7.5662,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Ghizlane",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "120 Bis, bd du Fouarat, hay Jamal",
-      "tel": "",
-      "lat": 33.59,
-      "lng": -7.565,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Nagjir",
-      "ville": "Casablanca",
-      "quartier": "hay Mohammadi",
-      "adresse": "lot. El Mouahidine (hay Mohammadi) lot.334 bd la Grande Ceinture Hay Mohammadi",
-      "tel": "",
-      "lat": 33.5912,
-      "lng": -7.5638,
       "garde": "jour"
     },
     {
@@ -199,8 +169,8 @@
       "quartier": "hay Mohammadi",
       "adresse": "hay Adil rue 5 n°11 Ain Borja",
       "tel": "",
-      "lat": 33.5924,
-      "lng": -7.5626,
+      "lat": 33.5888,
+      "lng": -7.5662,
       "garde": "jour"
     },
     {
@@ -209,8 +179,8 @@
       "quartier": "Hay mohammadi",
       "adresse": "av. Zouhair Med Najjar -ex D, Bloc Kodia 1 n°44",
       "tel": "",
-      "lat": 33.5936,
-      "lng": -7.5674,
+      "lat": 33.59,
+      "lng": -7.565,
       "garde": "jour"
     },
     {
@@ -219,29 +189,49 @@
       "quartier": "Hay mohammadi",
       "adresse": "N°2, Avenue Ali Yata -ex Foum Lahsan",
       "tel": "",
+      "lat": 33.5912,
+      "lng": -7.5638,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Ghizlane",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "120 Bis, bd du Fouarat, hay Jamal",
+      "tel": "",
+      "lat": 33.5924,
+      "lng": -7.5626,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Nagjir",
+      "ville": "Casablanca",
+      "quartier": "hay Mohammadi",
+      "adresse": "lot. El Mouahidine (hay Mohammadi) lot.334 bd la Grande Ceinture Hay Mohammadi",
+      "tel": "",
+      "lat": 33.5936,
+      "lng": -7.5674,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Ibn Tachfine",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "278, bd Ibn Tachfine",
+      "tel": "",
       "lat": 33.5864,
       "lng": -7.5662,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Jihane",
+      "nom": "Pharmacie Al Fatiha",
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
-      "adresse": "bd Abdelkrim Al Khatib ex Oulad Ziane, C.com. Cité Ouled Ziane n°28",
+      "adresse": "3, rue Senhaja, khalil II",
       "tel": "",
       "lat": 33.5876,
       "lng": -7.565,
       "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Anissa",
-      "ville": "Casablanca",
-      "quartier": "Lissasfa",
-      "adresse": "lotiss. Zoubeir, grp. Addoha n°312",
-      "tel": "",
-      "lat": 33.5288,
-      "lng": -7.6748,
-      "garde": "24h"
     },
     {
       "nom": "Pharmacie Nadia",
@@ -249,18 +239,18 @@
       "quartier": "Lissasfa",
       "adresse": "quartier Lissasfa II (route d'El Jadida), bloc A n°347",
       "tel": "",
-      "lat": 33.53,
-      "lng": -7.6736,
+      "lat": 33.5288,
+      "lng": -7.6748,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie les Usines",
+      "nom": "Pharmacie Anissa",
       "ville": "Casablanca",
-      "quartier": "Sidi bernoussi",
-      "adresse": "bd Almaâdane -ex Houcine Ben Med Ben Ahmed",
+      "quartier": "Lissasfa",
+      "adresse": "lotiss. Zoubeir, grp. Addoha n°312",
       "tel": "",
-      "lat": 33.6162,
-      "lng": -7.5174,
+      "lat": 33.53,
+      "lng": -7.6736,
       "garde": "24h"
     },
     {
@@ -269,18 +259,18 @@
       "quartier": "Sidi Bernoussi",
       "adresse": "imm 11 magazin 13 residence firdaous - sidi bernoussi",
       "tel": "",
-      "lat": 33.6174,
-      "lng": -7.5162,
+      "lat": 33.6162,
+      "lng": -7.5174,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Saliha",
+      "nom": "Pharmacie les Usines",
       "ville": "Casablanca",
-      "quartier": "Sidi moumen",
-      "adresse": "Hay Al walaa, IM. 2, N°4, Tranche 6. Attacharok",
+      "quartier": "Sidi bernoussi",
+      "adresse": "bd Almaâdane -ex Houcine Ben Med Ben Ahmed",
       "tel": "",
-      "lat": 33.5896,
-      "lng": -7.526,
+      "lat": 33.6174,
+      "lng": -7.5162,
       "garde": "24h"
     },
     {
@@ -289,29 +279,39 @@
       "quartier": "Sidi moumen",
       "adresse": "Lotissement. Elhouria, Rue 1 N°10 Sidi Moumen",
       "tel": "",
+      "lat": 33.5896,
+      "lng": -7.526,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Saliha",
+      "ville": "Casablanca",
+      "quartier": "Sidi moumen",
+      "adresse": "Hay Al walaa, IM. 2, N°4, Tranche 6. Attacharok",
+      "tel": "",
       "lat": 33.5824,
       "lng": -7.5248,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Régionale",
+      "nom": "Pharmacie Lakbira",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
-      "adresse": "80, Angle bd de la Liberté et Bd Alsace, Ben jdia",
+      "adresse": "62, rue du Chasseur Jules Gros",
       "tel": "",
       "lat": 33.5806,
       "lng": -7.6056,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Oliveri",
+      "nom": "Pharmacie les Capucines",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
-      "adresse": "55 A, rue Othman ben Affan -ex Lafuente",
+      "adresse": "38, bd Massira El Khadra",
       "tel": "",
       "lat": 33.5818,
       "lng": -7.6104,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie Danton",
@@ -324,90 +324,90 @@
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Lakbira",
+      "nom": "Pharmacie Oliveri",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
-      "adresse": "62, rue du Chasseur Jules Gros",
+      "adresse": "55 A, rue Othman ben Affan -ex Lafuente",
       "tel": "",
       "lat": 33.5842,
       "lng": -7.608,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie les Capucines",
+      "nom": "Pharmacie Régionale",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
-      "adresse": "38, bd Massira El Khadra",
+      "adresse": "80, Angle bd de la Liberté et Bd Alsace, Ben jdia",
       "tel": "",
       "lat": 33.5854,
       "lng": -7.6068,
-      "garde": "24h"
+      "garde": "jour"
     },
     {
-      "nom": "Pharmacie Moderne",
+      "nom": "Pharmacie De L 039 Agdal",
       "ville": "Rabat",
       "quartier": "Agdal",
-      "adresse": "place rabiaa al adaouia (entre marché de l'agdal et résidence kays)",
+      "adresse": "avenue des nations unies, rue ibn hanbal résidence ibn khaldoun (à proximité de paul agdal et de la clinique des nations unies)",
       "tel": "",
       "lat": 33.9894,
       "lng": -6.8524,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Ksar Labhar",
+      "nom": "Pharmacie Al Amana",
       "ville": "Rabat",
-      "quartier": "Akkari Ocean",
-      "adresse": "7,8 bloc b maché ksar labhar (prés hopital my youssef)",
+      "quartier": "Akkari Ocean Orangers",
+      "adresse": "425 bd hassan ii n°7 diour jamâa (prés hotel oscar)",
       "tel": "",
       "lat": 34.0096,
       "lng": -6.8432,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Les Arcades",
-      "ville": "Rabat",
-      "quartier": "Akkari Ocean Orangers",
-      "adresse": "44 bis av pasteur (angle av pasteur et av la victoire)",
-      "tel": "",
-      "lat": 34.0108,
-      "lng": -6.842,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Sawmaat Hassan",
+      "nom": "Pharmacie Du Mausolee",
       "ville": "Rabat",
       "quartier": "Centre Ville",
-      "adresse": "1 rue riad — hassan",
+      "adresse": "8 rue al mouahidine angle bd alaouine hassan",
       "tel": "",
-      "lat": 34.014,
-      "lng": -6.8318,
+      "lat": 34.0128,
+      "lng": -6.833,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Al Minbat",
+      "nom": "Pharmacie Arrayhane",
       "ville": "Rabat",
-      "quartier": "Takadoum Et Souissi",
-      "adresse": "18 av mehdi benbarka souissi",
+      "quartier": "Hay Riad",
+      "adresse": "secteur 6d1, rue arrayhane",
+      "tel": "",
+      "lat": 34.0209,
+      "lng": -6.8404,
+      "garde": "24h"
+    },
+    {
+      "nom": "Louka Pharma",
+      "ville": "Rabat",
+      "quartier": "Takadoum et Souissi",
+      "adresse": "23 avenue mohammed vi",
       "tel": "",
       "lat": 33.9772,
       "lng": -6.8156,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Ibn Zohr",
+      "nom": "Pharmacie Abi Hourayra",
       "ville": "Rabat",
       "quartier": "Yacoub El Mansour",
-      "adresse": "19,bloc c av al kifah al kamra (en face la gare routière kamra)",
+      "adresse": "73, lot haj slimane j3 c.y.m ( prés de souk laghzel)",
       "tel": "",
       "lat": 33.9674,
       "lng": -6.8644,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Al Khawarizmi",
+      "nom": "Pharmacie Yacoub El Mansour",
       "ville": "Rabat",
       "quartier": "Yacoub El Mansour",
-      "adresse": "n°1180 avenue el menzeh hay el menzeh c.y.m -",
+      "adresse": "im 2 mag 4 av al majd /massira 5 (en face terrain fus) c.y.m",
       "tel": "",
       "lat": 33.9686,
       "lng": -6.8632,
