@@ -1,6 +1,6 @@
 {
   "source": "annuaire-gratuit.ma",
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "note": "Donnees de garde du jour. Coordonnees approximatives (quartier). Telephones a completer depuis la source officielle.",
   "pharmacies": [
     {
@@ -154,33 +154,13 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Essaada",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "N°2, Avenue Ali Yata -ex Foum Lahsan",
-      "tel": "",
-      "lat": 33.5876,
-      "lng": -7.5674,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Jihane",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "bd Abdelkrim Al Khatib ex Oulad Ziane, C.com. Cité Ouled Ziane n°28",
-      "tel": "",
-      "lat": 33.5888,
-      "lng": -7.5662,
-      "garde": "jour"
-    },
-    {
       "nom": "Pharmacie Okba Ibn Nafii",
       "ville": "Casablanca",
       "quartier": "hay Mohammadi",
       "adresse": "hay Adil rue 5 n°11 Ain Borja",
       "tel": "",
-      "lat": 33.59,
-      "lng": -7.565,
+      "lat": 33.5876,
+      "lng": -7.5674,
       "garde": "jour"
     },
     {
@@ -189,28 +169,28 @@
       "quartier": "Hay mohammadi",
       "adresse": "av. Zouhair Med Najjar -ex D, Bloc Kodia 1 n°44",
       "tel": "",
-      "lat": 33.5912,
-      "lng": -7.5638,
+      "lat": 33.5888,
+      "lng": -7.5662,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Ghizlane",
+      "nom": "Pharmacie Essaada",
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
-      "adresse": "120 Bis, bd du Fouarat, hay Jamal",
+      "adresse": "N°2, Avenue Ali Yata -ex Foum Lahsan",
       "tel": "",
-      "lat": 33.5924,
-      "lng": -7.5626,
+      "lat": 33.59,
+      "lng": -7.565,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Nagjir",
+      "nom": "Pharmacie Jihane",
       "ville": "Casablanca",
-      "quartier": "hay Mohammadi",
-      "adresse": "lot. El Mouahidine (hay Mohammadi) lot.334 bd la Grande Ceinture Hay Mohammadi",
+      "quartier": "Hay mohammadi",
+      "adresse": "bd Abdelkrim Al Khatib ex Oulad Ziane, C.com. Cité Ouled Ziane n°28",
       "tel": "",
-      "lat": 33.5936,
-      "lng": -7.5674,
+      "lat": 33.5912,
+      "lng": -7.5638,
       "garde": "jour"
     },
     {
@@ -219,8 +199,8 @@
       "quartier": "Hay mohammadi",
       "adresse": "278, bd Ibn Tachfine",
       "tel": "",
-      "lat": 33.5864,
-      "lng": -7.5662,
+      "lat": 33.5924,
+      "lng": -7.5626,
       "garde": "jour"
     },
     {
@@ -228,6 +208,26 @@
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
       "adresse": "3, rue Senhaja, khalil II",
+      "tel": "",
+      "lat": 33.5936,
+      "lng": -7.5674,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Ghizlane",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "120 Bis, bd du Fouarat, hay Jamal",
+      "tel": "",
+      "lat": 33.5864,
+      "lng": -7.5662,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Nagjir",
+      "ville": "Casablanca",
+      "quartier": "hay Mohammadi",
+      "adresse": "lot. El Mouahidine (hay Mohammadi) lot.334 bd la Grande Ceinture Hay Mohammadi",
       "tel": "",
       "lat": 33.5876,
       "lng": -7.565,
@@ -361,7 +361,7 @@
       "tel": "",
       "lat": 34.0096,
       "lng": -6.8432,
-      "garde": "24h"
+      "garde": "jour"
     },
     {
       "nom": "Pharmacie Du Minaret",
@@ -381,7 +381,7 @@
       "tel": "",
       "lat": 34.014,
       "lng": -6.8318,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie Relais Des Medecins",
@@ -421,7 +421,7 @@
       "tel": "",
       "lat": 33.9614,
       "lng": -6.862,
-      "garde": "24h"
+      "garde": "jour"
     },
     {
       "nom": "Pharmacie El Kouass",
@@ -431,7 +431,7 @@
       "tel": "",
       "lat": 33.9626,
       "lng": -6.8608,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie L 039 Avenir",
