@@ -114,33 +114,23 @@
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Nadir",
-      "ville": "Casablanca",
-      "quartier": "Hay hassani et el oulfa",
-      "adresse": "3, bd Al Abtal, Q. Guynmer, hay Arraha",
-      "tel": "",
-      "lat": 33.5442,
-      "lng": -7.6572,
-      "garde": "24h"
-    },
-    {
       "nom": "Pharmacie Asmaa",
       "ville": "Casablanca",
       "quartier": "Hay hassani et el oulfa",
       "adresse": "derb Sidi El Khadir, lotiss. Nour n°98",
       "tel": "",
-      "lat": 33.5454,
-      "lng": -7.656,
+      "lat": 33.5442,
+      "lng": -7.6572,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Yasmine",
+      "nom": "Pharmacie Nadir",
       "ville": "Casablanca",
       "quartier": "Hay hassani et el oulfa",
-      "adresse": "N°207, Bd Sidi Abderrahman",
+      "adresse": "3, bd Al Abtal, Q. Guynmer, hay Arraha",
       "tel": "",
-      "lat": 33.5466,
-      "lng": -7.6548,
+      "lat": 33.5454,
+      "lng": -7.656,
       "garde": "24h"
     },
     {
@@ -149,9 +139,19 @@
       "quartier": "Hay hassani et el oulfa",
       "adresse": "Boulevard Oued Oum Errabia, El Ouafaa 1 N°15",
       "tel": "",
+      "lat": 33.5466,
+      "lng": -7.6548,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Yasmine",
+      "ville": "Casablanca",
+      "quartier": "Hay hassani et el oulfa",
+      "adresse": "N°207, Bd Sidi Abderrahman",
+      "tel": "",
       "lat": 33.5394,
       "lng": -7.6536,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie Ouzineb",
@@ -194,23 +194,13 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Kissariat Aziza",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "86, bd de la Grande Ceinture (h.Mohammadi), Kiss. Aziza n°21",
-      "tel": "",
-      "lat": 33.5924,
-      "lng": -7.5626,
-      "garde": "jour"
-    },
-    {
       "nom": "Pharmacie des Abattoirs",
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
       "adresse": "N°78, Rue Abou Bakr El Wahrani . La Villette",
       "tel": "",
-      "lat": 33.5936,
-      "lng": -7.5674,
+      "lat": 33.5924,
+      "lng": -7.5626,
       "garde": "24h"
     },
     {
@@ -219,8 +209,8 @@
       "quartier": "Hay mohammadi",
       "adresse": "hay Mohammadi, ElMassira imm.71, n°3",
       "tel": "",
-      "lat": 33.5864,
-      "lng": -7.5662,
+      "lat": 33.5936,
+      "lng": -7.5674,
       "garde": "jour"
     },
     {
@@ -228,6 +218,16 @@
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
       "adresse": "bd Dr Mohamed Jennaoui -ex Mostachfa Med V, projet Hassan II bloc 2 n°18",
+      "tel": "",
+      "lat": 33.5864,
+      "lng": -7.5662,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Kissariat Aziza",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "86, bd de la Grande Ceinture (h.Mohammadi), Kiss. Aziza n°21",
       "tel": "",
       "lat": 33.5876,
       "lng": -7.565,
