@@ -84,13 +84,23 @@
       "garde": "24h"
     },
     {
+      "nom": "Pharmacie Al Mouna",
+      "ville": "Casablanca",
+      "quartier": "El fida et mers sultan",
+      "adresse": "hay Omar Ibn Khattab, rue 1 n°57 bis",
+      "tel": "",
+      "lat": 33.5806,
+      "lng": -7.6068,
+      "garde": "24h"
+    },
+    {
       "nom": "Pharmacie Gare Routière Ouled Ziane",
       "ville": "Casablanca",
       "quartier": "El fida et mers sultan",
       "adresse": "route Oulad Ziane Gare routière Ouled Ziane Hay El Farah",
       "tel": "",
-      "lat": 33.5806,
-      "lng": -7.6068,
+      "lat": 33.5818,
+      "lng": -7.6056,
       "garde": "jour"
     },
     {
@@ -99,8 +109,8 @@
       "quartier": "El fida et mers sultan",
       "adresse": "19, bd Lamartine",
       "tel": "",
-      "lat": 33.5818,
-      "lng": -7.6056,
+      "lat": 33.583,
+      "lng": -7.6104,
       "garde": "jour"
     },
     {
@@ -109,25 +119,15 @@
       "quartier": "El Fida Et Mers Sultan",
       "adresse": "1258 bd mohammed vi souk du bois koréa nouvelle médina",
       "tel": "",
-      "lat": 33.583,
-      "lng": -7.6104,
-      "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie Al Mouna",
-      "ville": "Casablanca",
-      "quartier": "El fida et mers sultan",
-      "adresse": "hay Omar Ibn Khattab, rue 1 n°57 bis",
-      "tel": "",
       "lat": 33.5842,
       "lng": -7.6092,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Lixus",
+      "nom": "Pharmacie Milad",
       "ville": "Casablanca",
       "quartier": "Hay hassani et el oulfa",
-      "adresse": "76, lotiss. Riad El Oulfa, extention Gh36",
+      "adresse": "283, bd Sidi Abderrahman, hay Salam C.i.l.",
       "tel": "",
       "lat": 33.5454,
       "lng": -7.656,
@@ -144,10 +144,10 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Milad",
+      "nom": "Pharmacie Lixus",
       "ville": "Casablanca",
       "quartier": "Hay hassani et el oulfa",
-      "adresse": "283, bd Sidi Abderrahman, hay Salam C.i.l.",
+      "adresse": "76, lotiss. Riad El Oulfa, extention Gh36",
       "tel": "",
       "lat": 33.5394,
       "lng": -7.6536,
@@ -164,53 +164,13 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie le Projet",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "bd Dr Mohamed Jennaoui -ex Mostachfa Med V, projet Hassan II, bloc 11, n°61-62",
-      "tel": "",
-      "lat": 33.5888,
-      "lng": -7.5662,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie hay Makam",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "quartier Aïn Borja, hay makam n°117.",
-      "tel": "",
-      "lat": 33.59,
-      "lng": -7.565,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie ElMorakab Ettakafi",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "derb Amal rue 6 n°74 H.M Hay Mohammadi",
-      "tel": "",
-      "lat": 33.5912,
-      "lng": -7.5638,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie la Villette",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "23, rue Abou Bakr El Wahrani",
-      "tel": "",
-      "lat": 33.5924,
-      "lng": -7.5626,
-      "garde": "jour"
-    },
-    {
       "nom": "Pharmacie Tissir II",
       "ville": "Casablanca",
       "quartier": "Hay Mohammadi",
       "adresse": "hay tissir ii, av a n°58",
       "tel": "",
-      "lat": 33.5936,
-      "lng": -7.5674,
+      "lat": 33.5888,
+      "lng": -7.5662,
       "garde": "jour"
     },
     {
@@ -219,8 +179,8 @@
       "quartier": "Hay mohammadi",
       "adresse": "Boulevard Fouarat, Lotissement 16, Capeluto, Rue 1",
       "tel": "",
-      "lat": 33.5864,
-      "lng": -7.5662,
+      "lat": 33.59,
+      "lng": -7.565,
       "garde": "jour"
     },
     {
@@ -229,8 +189,8 @@
       "quartier": "hay Mohammadi",
       "adresse": "319 bd. Chouhada (hay Mohammadi) bloc 15 Hay Mohammadi",
       "tel": "",
-      "lat": 33.5876,
-      "lng": -7.565,
+      "lat": 33.5912,
+      "lng": -7.5638,
       "garde": "jour"
     },
     {
@@ -239,18 +199,48 @@
       "quartier": "Hay mohammadi",
       "adresse": "lot. Lamia (bd Fouarat), bloc 10 n°7",
       "tel": "",
-      "lat": 33.5888,
-      "lng": -7.5638,
+      "lat": 33.5924,
+      "lng": -7.5626,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Ichrak Center",
+      "nom": "Pharmacie le Projet",
       "ville": "Casablanca",
-      "quartier": "Lissasfa",
-      "adresse": "zone ind. Lissasfa, lot Diamant Vert Centre Ichrak imm. n°26 mag. n° 7",
+      "quartier": "Hay mohammadi",
+      "adresse": "bd Dr Mohamed Jennaoui -ex Mostachfa Med V, projet Hassan II, bloc 11, n°61-62",
       "tel": "",
-      "lat": 33.53,
-      "lng": -7.6736,
+      "lat": 33.5936,
+      "lng": -7.5674,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie hay Makam",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "quartier Aïn Borja, hay makam n°117.",
+      "tel": "",
+      "lat": 33.5864,
+      "lng": -7.5662,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie ElMorakab Ettakafi",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "derb Amal rue 6 n°74 H.M Hay Mohammadi",
+      "tel": "",
+      "lat": 33.5876,
+      "lng": -7.565,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie la Villette",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "23, rue Abou Bakr El Wahrani",
+      "tel": "",
+      "lat": 33.5888,
+      "lng": -7.5638,
       "garde": "jour"
     },
     {
@@ -259,9 +249,19 @@
       "quartier": "Lissasfa",
       "adresse": "quartier Lissasfa I (route d'El Jadida) Lotiss. Itifaq n°11 Bis Oulfa",
       "tel": "",
+      "lat": 33.53,
+      "lng": -7.6736,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Ichrak Center",
+      "ville": "Casablanca",
+      "quartier": "Lissasfa",
+      "adresse": "zone ind. Lissasfa, lot Diamant Vert Centre Ichrak imm. n°26 mag. n° 7",
+      "tel": "",
       "lat": 33.5312,
       "lng": -7.6784,
-      "garde": "24h"
+      "garde": "jour"
     },
     {
       "nom": "Pharmacie Tessema",
@@ -284,23 +284,33 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Tarik El Kheir",
-      "ville": "Casablanca",
-      "quartier": "Sidi bernoussi",
-      "adresse": "hay Tarik Elkheir (Al Qods) rue9 n°3/5 Sidi Bernoussi",
-      "tel": "",
-      "lat": 33.6114,
-      "lng": -7.5138,
-      "garde": "jour"
-    },
-    {
       "nom": "Pharmacie Athina",
       "ville": "Casablanca",
       "quartier": "Sidi bernoussi",
       "adresse": "cité Chabab, grp. C 2 n°7 Ain Sebaa",
       "tel": "",
+      "lat": 33.6114,
+      "lng": -7.5138,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Tarik El Kheir",
+      "ville": "Casablanca",
+      "quartier": "Sidi bernoussi",
+      "adresse": "hay Tarik Elkheir (Al Qods) rue9 n°3/5 Sidi Bernoussi",
+      "tel": "",
       "lat": 33.6126,
       "lng": -7.5126,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Errayane",
+      "ville": "Casablanca",
+      "quartier": "Sidi Maarouf",
+      "adresse": "1 lotiss. ennour sidi maârouf sidi maarouf",
+      "tel": "",
+      "lat": 33.5038,
+      "lng": -7.6324,
       "garde": "24h"
     },
     {
@@ -308,16 +318,6 @@
       "ville": "Casablanca",
       "quartier": "Sidi maarouf",
       "adresse": "262, lotiss. Hadioui , Sidi Maârouf",
-      "tel": "",
-      "lat": 33.5038,
-      "lng": -7.6324,
-      "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie Errayane",
-      "ville": "Casablanca",
-      "quartier": "Sidi Maarouf",
-      "adresse": "1 lotiss. ennour sidi maârouf sidi maarouf",
       "tel": "",
       "lat": 33.505,
       "lng": -7.6312,
@@ -354,14 +354,14 @@
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Tontonville",
+      "nom": "Pharmacie ElManar",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
-      "adresse": "33, allée du Cygne, Tontonville. Hermitage. Quartier des hôpitaux",
+      "adresse": "48, avenue Mehdi Ben Berka -ex Cimetière",
       "tel": "",
       "lat": 33.5794,
       "lng": -7.6104,
-      "garde": "24h"
+      "garde": "jour"
     },
     {
       "nom": "Pharmacie Marhaba",
@@ -394,14 +394,14 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie ElManar",
+      "nom": "Pharmacie Tontonville",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
-      "adresse": "48, avenue Mehdi Ben Berka -ex Cimetière",
+      "adresse": "33, allée du Cygne, Tontonville. Hermitage. Quartier des hôpitaux",
       "tel": "",
       "lat": 33.5842,
       "lng": -7.6056,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie Ibn Sina",
