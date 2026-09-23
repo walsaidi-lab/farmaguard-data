@@ -104,24 +104,24 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Hôpital Cheikh Khalifa",
-      "ville": "Casablanca",
-      "quartier": "Hay hassani et el oulfa",
-      "adresse": "hay El Oulfa Opération Al Firdaous Gh 26 imm. 249 n°1 Oulfa",
-      "tel": "",
-      "lat": 33.543,
-      "lng": -7.6584,
-      "garde": "24h"
-    },
-    {
       "nom": "Pharmacie Ghafiri",
       "ville": "Casablanca",
       "quartier": "Hay hassani et el oulfa",
       "adresse": "22, rue Abou Rouous -ex Pluviers, lot ferme Bretonne",
       "tel": "",
+      "lat": 33.543,
+      "lng": -7.6584,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Hôpital Cheikh Khalifa",
+      "ville": "Casablanca",
+      "quartier": "Hay hassani et el oulfa",
+      "adresse": "hay El Oulfa Opération Al Firdaous Gh 26 imm. 249 n°1 Oulfa",
+      "tel": "",
       "lat": 33.5442,
       "lng": -7.6572,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie Ahmed",
@@ -184,23 +184,13 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie AlAhd El Jadid",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "43, bd de la Grande Ceinture (h.Mohammadi)",
-      "tel": "",
-      "lat": 33.5912,
-      "lng": -7.5638,
-      "garde": "jour"
-    },
-    {
       "nom": "Pharmacie Houar Rifai",
       "ville": "Casablanca",
       "quartier": "Hay Mohammadi",
       "adresse": "135 bd du Fouarat",
       "tel": "",
-      "lat": 33.5924,
-      "lng": -7.5626,
+      "lat": 33.5912,
+      "lng": -7.5638,
       "garde": "jour"
     },
     {
@@ -209,8 +199,8 @@
       "quartier": "Hay mohammadi",
       "adresse": "154, bd du Fouarat, hay Mohammadi",
       "tel": "",
-      "lat": 33.5936,
-      "lng": -7.5674,
+      "lat": 33.5924,
+      "lng": -7.5626,
       "garde": "jour"
     },
     {
@@ -218,6 +208,16 @@
       "ville": "Casablanca",
       "quartier": "Hay mohammadi",
       "adresse": "1, rue Abou Ali Kali",
+      "tel": "",
+      "lat": 33.5936,
+      "lng": -7.5674,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie AlAhd El Jadid",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "43, bd de la Grande Ceinture (h.Mohammadi)",
       "tel": "",
       "lat": 33.5864,
       "lng": -7.5662,
@@ -304,33 +304,13 @@
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Ibn Tofail",
-      "ville": "Casablanca",
-      "quartier": "Ville et bourgogne et maarif",
-      "adresse": "61, bd Anoual -ex Felix Faure",
-      "tel": "",
-      "lat": 33.5818,
-      "lng": -7.6104,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Loubila",
-      "ville": "Casablanca",
-      "quartier": "Ville et bourgogne et maarif",
-      "adresse": "derb Loubila, rue 15 n°16",
-      "tel": "",
-      "lat": 33.583,
-      "lng": -7.6092,
-      "garde": "24h"
-    },
-    {
       "nom": "Pharmacie Velodrome",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
       "adresse": "16, Rond Point des Sports",
       "tel": "",
-      "lat": 33.5842,
-      "lng": -7.608,
+      "lat": 33.5818,
+      "lng": -7.6104,
       "garde": "jour"
     },
     {
@@ -339,8 +319,8 @@
       "quartier": "Ville et bourgogne et maarif",
       "adresse": "bd de la Grande Ceinture (A.Diab) ex S. Abderrahman, 418 résid. Rio",
       "tel": "",
-      "lat": 33.5854,
-      "lng": -7.6068,
+      "lat": 33.583,
+      "lng": -7.6092,
       "garde": "jour"
     },
     {
@@ -348,6 +328,26 @@
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
       "adresse": "93 Bis, rue Ibn Majat, lotiss Chantimar 2",
+      "tel": "",
+      "lat": 33.5842,
+      "lng": -7.608,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Ibn Tofail",
+      "ville": "Casablanca",
+      "quartier": "Ville et bourgogne et maarif",
+      "adresse": "61, bd Anoual -ex Felix Faure",
+      "tel": "",
+      "lat": 33.5854,
+      "lng": -7.6068,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Loubila",
+      "ville": "Casablanca",
+      "quartier": "Ville et bourgogne et maarif",
+      "adresse": "derb Loubila, rue 15 n°16",
       "tel": "",
       "lat": 33.5866,
       "lng": -7.6056,
