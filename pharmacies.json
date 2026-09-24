@@ -1,6 +1,6 @@
 {
   "source": "annuaire-gratuit.ma",
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "note": "Donnees de garde du jour. Coordonnees approximatives (quartier). Telephones a completer depuis la source officielle.",
   "pharmacies": [
     {
@@ -124,93 +124,23 @@
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Ahmed",
-      "ville": "Casablanca",
-      "quartier": "Hay hassani et el oulfa",
-      "adresse": "hay El Wifak 2, ang. rue 40 n°75 et rue 63 n°3",
-      "tel": "",
-      "lat": 33.5454,
-      "lng": -7.656,
-      "garde": "jour"
-    },
-    {
       "nom": "Pharmacie Mohamed Guessous",
       "ville": "Casablanca",
       "quartier": "Hay hassani et el oulfa",
       "adresse": "Lot. Missimi, rue 20 n°7, bd. Oued Abi Raqraq",
       "tel": "",
+      "lat": 33.5454,
+      "lng": -7.656,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Ahmed",
+      "ville": "Casablanca",
+      "quartier": "Hay hassani et el oulfa",
+      "adresse": "hay El Wifak 2, ang. rue 40 n°75 et rue 63 n°3",
+      "tel": "",
       "lat": 33.5466,
       "lng": -7.6548,
-      "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie H M Minaret",
-      "ville": "Casablanca",
-      "quartier": "Hay Mohammadi",
-      "adresse": "308 bloc Saada rue 37 n°139",
-      "tel": "",
-      "lat": 33.5864,
-      "lng": -7.5626,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Janquière",
-      "ville": "Casablanca",
-      "quartier": "Hay Mohammadi",
-      "adresse": "39, rue beni amar",
-      "tel": "",
-      "lat": 33.5876,
-      "lng": -7.5674,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Hay Hakam",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "bd Ibn Tachfine, rue 21 n°40, Hakam I",
-      "tel": "",
-      "lat": 33.5888,
-      "lng": -7.5662,
-      "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie Lotf Allah",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "hay Mohammadi, hay Mino, rue 3, n°7",
-      "tel": "",
-      "lat": 33.59,
-      "lng": -7.565,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Houar Rifai",
-      "ville": "Casablanca",
-      "quartier": "Hay Mohammadi",
-      "adresse": "135 bd du Fouarat",
-      "tel": "",
-      "lat": 33.5912,
-      "lng": -7.5638,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Slaoui",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "154, bd du Fouarat, hay Mohammadi",
-      "tel": "",
-      "lat": 33.5924,
-      "lng": -7.5626,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Moulay Cherif",
-      "ville": "Casablanca",
-      "quartier": "Hay mohammadi",
-      "adresse": "1, rue Abou Ali Kali",
-      "tel": "",
-      "lat": 33.5936,
-      "lng": -7.5674,
       "garde": "jour"
     },
     {
@@ -220,8 +150,78 @@
       "adresse": "43, bd de la Grande Ceinture (h.Mohammadi)",
       "tel": "",
       "lat": 33.5864,
+      "lng": -7.5626,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Houar Rifai",
+      "ville": "Casablanca",
+      "quartier": "Hay Mohammadi",
+      "adresse": "135 bd du Fouarat",
+      "tel": "",
+      "lat": 33.5876,
+      "lng": -7.5674,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Slaoui",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "154, bd du Fouarat, hay Mohammadi",
+      "tel": "",
+      "lat": 33.5888,
       "lng": -7.5662,
       "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Moulay Cherif",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "1, rue Abou Ali Kali",
+      "tel": "",
+      "lat": 33.59,
+      "lng": -7.565,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Lotf Allah",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "hay Mohammadi, hay Mino, rue 3, n°7",
+      "tel": "",
+      "lat": 33.5912,
+      "lng": -7.5638,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie H M Minaret",
+      "ville": "Casablanca",
+      "quartier": "Hay Mohammadi",
+      "adresse": "308 bloc Saada rue 37 n°139",
+      "tel": "",
+      "lat": 33.5924,
+      "lng": -7.5626,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Janquière",
+      "ville": "Casablanca",
+      "quartier": "Hay Mohammadi",
+      "adresse": "39, rue beni amar",
+      "tel": "",
+      "lat": 33.5936,
+      "lng": -7.5674,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Hay Hakam",
+      "ville": "Casablanca",
+      "quartier": "Hay mohammadi",
+      "adresse": "bd Ibn Tachfine, rue 21 n°40, Hakam I",
+      "tel": "",
+      "lat": 33.5864,
+      "lng": -7.5662,
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie Riad Raha",
@@ -244,33 +244,23 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Ibn Baytar",
-      "ville": "Casablanca",
-      "quartier": "Sidi bernoussi",
-      "adresse": "bloc Farid, av Abess El Ghadaoui n°4",
-      "tel": "",
-      "lat": 33.615,
-      "lng": -7.5126,
-      "garde": "jour"
-    },
-    {
       "nom": "Pharmacie Lissane Eddine",
       "ville": "Casablanca",
       "quartier": "Sidi bernoussi",
       "adresse": "69 Bis, hay El Qods, grp. Albaida",
       "tel": "",
-      "lat": 33.6162,
-      "lng": -7.5174,
+      "lat": 33.615,
+      "lng": -7.5126,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Ali",
+      "nom": "Pharmacie Ibn Baytar",
       "ville": "Casablanca",
-      "quartier": "Sidi maarouf",
-      "adresse": "rte 1029 , Km 4,6 Ouled Haddou Sidi Maârouf",
+      "quartier": "Sidi bernoussi",
+      "adresse": "bloc Farid, av Abess El Ghadaoui n°4",
       "tel": "",
-      "lat": 33.5074,
-      "lng": -7.6312,
+      "lat": 33.6162,
+      "lng": -7.5174,
       "garde": "jour"
     },
     {
@@ -279,8 +269,28 @@
       "quartier": "Sidi maarouf",
       "adresse": "9, lotiss. Al Ichraf",
       "tel": "",
+      "lat": 33.5074,
+      "lng": -7.6312,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Ali",
+      "ville": "Casablanca",
+      "quartier": "Sidi maarouf",
+      "adresse": "rte 1029 , Km 4,6 Ouled Haddou Sidi Maârouf",
+      "tel": "",
       "lat": 33.5086,
       "lng": -7.63,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Tramway",
+      "ville": "Casablanca",
+      "quartier": "Sidi Moumen",
+      "adresse": "lotiss. Rahmani (Sidi Moumen) rue 27 n°43 Sidi Moumen",
+      "tel": "",
+      "lat": 33.5824,
+      "lng": -7.5248,
       "garde": "24h"
     },
     {
@@ -289,48 +299,8 @@
       "quartier": "Sidi Moumen",
       "adresse": "hay Sidi Moumen rue 26 kiss. ElMers n°20 Sidi Moumen",
       "tel": "",
-      "lat": 33.5824,
-      "lng": -7.5248,
-      "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie Tramway",
-      "ville": "Casablanca",
-      "quartier": "Sidi Moumen",
-      "adresse": "lotiss. Rahmani (Sidi Moumen) rue 27 n°43 Sidi Moumen",
-      "tel": "",
       "lat": 33.5836,
       "lng": -7.5236,
-      "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie Velodrome",
-      "ville": "Casablanca",
-      "quartier": "Ville et bourgogne et maarif",
-      "adresse": "16, Rond Point des Sports",
-      "tel": "",
-      "lat": 33.5818,
-      "lng": -7.6104,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Sindibad",
-      "ville": "Casablanca",
-      "quartier": "Ville et bourgogne et maarif",
-      "adresse": "bd de la Grande Ceinture (A.Diab) ex S. Abderrahman, 418 résid. Rio",
-      "tel": "",
-      "lat": 33.583,
-      "lng": -7.6092,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Socrate",
-      "ville": "Casablanca",
-      "quartier": "Ville et bourgogne et maarif",
-      "adresse": "93 Bis, rue Ibn Majat, lotiss Chantimar 2",
-      "tel": "",
-      "lat": 33.5842,
-      "lng": -7.608,
       "garde": "24h"
     },
     {
@@ -339,8 +309,8 @@
       "quartier": "Ville et bourgogne et maarif",
       "adresse": "61, bd Anoual -ex Felix Faure",
       "tel": "",
-      "lat": 33.5854,
-      "lng": -7.6068,
+      "lat": 33.5818,
+      "lng": -7.6104,
       "garde": "jour"
     },
     {
@@ -349,88 +319,98 @@
       "quartier": "Ville et bourgogne et maarif",
       "adresse": "derb Loubila, rue 15 n°16",
       "tel": "",
-      "lat": 33.5866,
-      "lng": -7.6056,
+      "lat": 33.583,
+      "lng": -7.6092,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Des Facultes",
+      "nom": "Pharmacie Sindibad",
+      "ville": "Casablanca",
+      "quartier": "Ville et bourgogne et maarif",
+      "adresse": "bd de la Grande Ceinture (A.Diab) ex S. Abderrahman, 418 résid. Rio",
+      "tel": "",
+      "lat": 33.5842,
+      "lng": -7.608,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Socrate",
+      "ville": "Casablanca",
+      "quartier": "Ville et bourgogne et maarif",
+      "adresse": "93 Bis, rue Ibn Majat, lotiss Chantimar 2",
+      "tel": "",
+      "lat": 33.5854,
+      "lng": -7.6068,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Velodrome",
+      "ville": "Casablanca",
+      "quartier": "Ville et bourgogne et maarif",
+      "adresse": "16, Rond Point des Sports",
+      "tel": "",
+      "lat": 33.5866,
+      "lng": -7.6056,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Des Nations Unies",
       "ville": "Rabat",
       "quartier": "Agdal",
-      "adresse": "av ibn khatab en face cite universitaire agdal",
+      "adresse": "avenue des nations unies rue jabal al ayachi(à côté de station ola energy) s",
       "tel": "",
       "lat": 33.9894,
       "lng": -6.8524,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Ibn Toumerte",
+      "nom": "Pharmacie Napoli",
       "ville": "Rabat",
       "quartier": "Akkari Ocean Orangers",
-      "adresse": "bd ibn toumerte les orangers près clinique al boustane et l'école badr",
+      "adresse": "n°94, rue napoli, quartier océan",
       "tel": "",
       "lat": 34.0096,
       "lng": -6.8432,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Les Colonnes",
+      "nom": "Pharmacie Sawmaat Hassan",
       "ville": "Rabat",
       "quartier": "Centre Ville",
-      "adresse": "à côté de la clinique amal-rajae derrière la ministère des affaires étrangèreset dans la rue de l’ex. ambassade américaine)",
+      "adresse": "1 rue riad — hassan",
       "tel": "",
       "lat": 34.0128,
       "lng": -6.833,
-      "garde": "24h"
+      "garde": "jour"
     },
     {
-      "nom": "Pharmacie City Center",
+      "nom": "Pharmacie Meskellil",
       "ville": "Rabat",
       "quartier": "Hay Riad",
-      "adresse": "centre commerciale acima (prés de la mosquée lalla soukaina)",
+      "adresse": "résidence mesk ellil, imm 3, n°1av. assabir, sect 23 -",
       "tel": "",
       "lat": 34.0209,
       "lng": -6.8404,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Les Terrasses Dar Essalam",
-      "ville": "Rabat",
-      "quartier": "Takadoum Et Souissi",
-      "adresse": "rue bani meskine , résidence terrasses dar essalam a1c3 orangeraie souissi،près mosquée annasr 300m",
-      "tel": "",
-      "lat": 33.9772,
-      "lng": -6.8156,
-      "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie Amwaj",
+      "nom": "Pharmacie Ibn Zohr",
       "ville": "Rabat",
       "quartier": "Yacoub El Mansour",
-      "adresse": "avenue des far n°1350 hay al manzeh derrière la feray cym",
+      "adresse": "19,bloc c av al kifah al kamra (en face la gare routière kamra)",
       "tel": "",
-      "lat": 33.9674,
-      "lng": -6.8644,
-      "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie Sayarh",
-      "ville": "Rabat",
-      "quartier": "Yacoub El Mansour",
-      "adresse": "3, avenue kifah (c.y.m.), resid. essabah, imm. hajar",
-      "tel": "",
-      "lat": 33.9686,
-      "lng": -6.8632,
+      "lat": 33.9662,
+      "lng": -6.8596,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Al Ighata",
+      "nom": "Pharmacie Al Khawarizmi",
       "ville": "Rabat",
       "quartier": "Yacoub El Mansour",
-      "adresse": "1,imm 42 cité al mountazah hay el fath c.y.m -",
+      "adresse": "n°1180 avenue el menzeh hay el menzeh c.y.m -",
       "tel": "",
-      "lat": 33.9614,
-      "lng": -6.862,
+      "lat": 33.9674,
+      "lng": -6.8644,
       "garde": "jour"
     }
   ]
