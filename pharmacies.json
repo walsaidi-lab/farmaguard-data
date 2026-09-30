@@ -1,6 +1,6 @@
 {
   "source": "annuaire-gratuit.ma",
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "note": "Donnees de garde du jour. Coordonnees approximatives (quartier). Telephones a completer depuis la source officielle.",
   "pharmacies": [
     {
@@ -104,24 +104,24 @@
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Yakine",
-      "ville": "Casablanca",
-      "quartier": "El fida et mers sultan",
-      "adresse": "326, rue Ahmed Sebbagh, derb ElKabir",
-      "tel": "",
-      "lat": 33.583,
-      "lng": -7.6104,
-      "garde": "24h"
-    },
-    {
       "nom": "Pharmacie Ghazali",
       "ville": "Casablanca",
       "quartier": "El fida et mers sultan",
       "adresse": "Hay Omar Ibn Khattab . Quartier Hay El Farah",
       "tel": "",
+      "lat": 33.583,
+      "lng": -7.6104,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Yakine",
+      "ville": "Casablanca",
+      "quartier": "El fida et mers sultan",
+      "adresse": "326, rue Ahmed Sebbagh, derb ElKabir",
+      "tel": "",
       "lat": 33.5842,
       "lng": -7.6092,
-      "garde": "jour"
+      "garde": "24h"
     },
     {
       "nom": "Pharmacie Hachad",
@@ -154,24 +154,24 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Place El Feddane",
-      "ville": "Casablanca",
-      "quartier": "Hay Hassani Et El Oulfa",
-      "adresse": "hay El Wifak 3 rue 41 n°270",
-      "tel": "",
-      "lat": 33.5406,
-      "lng": -7.6584,
-      "garde": "jour"
-    },
-    {
       "nom": "Pharmacie Le Bien Etre",
       "ville": "Casablanca",
       "quartier": "Hay Hassani Et El Oulfa",
       "adresse": "lot. Azhari rue 77 n°55",
       "tel": "",
+      "lat": 33.5406,
+      "lng": -7.6584,
+      "garde": "24h"
+    },
+    {
+      "nom": "Pharmacie Place El Feddane",
+      "ville": "Casablanca",
+      "quartier": "Hay Hassani Et El Oulfa",
+      "adresse": "hay El Wifak 3 rue 41 n°270",
+      "tel": "",
       "lat": 33.5418,
       "lng": -7.6572,
-      "garde": "24h"
+      "garde": "jour"
     },
     {
       "nom": "Pharmacie AlWouroud",
@@ -364,13 +364,23 @@
       "garde": "jour"
     },
     {
+      "nom": "Pharmacie des générations",
+      "ville": "Casablanca",
+      "quartier": "Ville et bourgogne et maarif",
+      "adresse": "53 rue Jaber ben Hayane -exVerlet-Hanus Bourgogne",
+      "tel": "",
+      "lat": 33.5806,
+      "lng": -7.6092,
+      "garde": "24h"
+    },
+    {
       "nom": "Pharmacie Saad",
       "ville": "Casablanca",
       "quartier": "Ville et bourgogne et maarif",
       "adresse": "N°44 Bis, Bd Abderrahim Bouabid -ex Jerrada. Oasis. Maarif",
       "tel": "",
-      "lat": 33.5806,
-      "lng": -7.6092,
+      "lat": 33.5818,
+      "lng": -7.608,
       "garde": "24h"
     },
     {
@@ -379,89 +389,89 @@
       "quartier": "Ville et bourgogne et maarif",
       "adresse": "Boulevard Bir Anzarane Angle. boulevard Ali Abderrazak, Résidence. Farah 5. Maarif",
       "tel": "",
-      "lat": 33.5818,
-      "lng": -7.608,
+      "lat": 33.583,
+      "lng": -7.6068,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie des générations",
-      "ville": "Casablanca",
-      "quartier": "Ville et bourgogne et maarif",
-      "adresse": "53 rue Jaber ben Hayane -exVerlet-Hanus Bourgogne",
-      "tel": "",
-      "lat": 33.583,
-      "lng": -7.6068,
-      "garde": "24h"
-    },
-    {
-      "nom": "Pharmacie Bin El Ouidane",
+      "nom": "Pharmacie Alam",
       "ville": "Rabat",
       "quartier": "Agdal",
-      "adresse": "angle av bin el ouidane rue el gansra agdal ss",
+      "adresse": "33.35 avenue oqba agdal (en face du jardin d'essai et l'ambassade de franceet à côté de l'hôtel oumlil) -",
       "tel": "",
       "lat": 33.9894,
       "lng": -6.8524,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie El Amine",
+      "nom": "Pharmacie Berbich",
       "ville": "Rabat",
       "quartier": "Akkari Ocean Orangers",
-      "adresse": "281, av hassan ii - diour jamaa (prés palais kabbaj)",
+      "adresse": "12 bis, avenue alghazali quartier les orangers (en face du centre commercial les orangers)",
       "tel": "",
       "lat": 34.0096,
       "lng": -6.8432,
       "garde": "24h"
     },
     {
-      "nom": "La Grande Pharmacie",
+      "nom": "Pharmacie Les Almohades",
       "ville": "Rabat",
       "quartier": "Centre Ville",
-      "adresse": "rue abou fariss al marini",
+      "adresse": "5 rue zagora hassan (a cote de l'école st gabriel)",
       "tel": "",
       "lat": 34.0128,
       "lng": -6.833,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Warda",
+      "nom": "Pharmacie Sanaoubar Riad",
       "ville": "Rabat",
       "quartier": "Hay Riad",
-      "adresse": "7.av bir kacem souissi -",
+      "adresse": "av sanaoubar (a coté de mosquée saif) sect 18",
       "tel": "",
       "lat": 34.0209,
       "lng": -6.8404,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Guelzim",
+      "nom": "Pharmacie Al Osra",
       "ville": "Rabat",
       "quartier": "Takadoum Et Souissi",
-      "adresse": "av targa 504 groupe al aahd (prés 500 m de marché nahda 1)",
+      "adresse": "66 hay nahda n°1",
       "tel": "",
       "lat": 33.9772,
       "lng": -6.8156,
       "garde": "24h"
     },
     {
-      "nom": "Pharmacie Abi Hourayra",
+      "nom": "Pharmacie Le Carrousel",
       "ville": "Rabat",
       "quartier": "Yacoub El Mansour",
-      "adresse": "73, lot haj slimane j3 c.y.m ( prés de souk laghzel)",
+      "adresse": "promenade du carrousel, av mustapha essayeh",
       "tel": "",
       "lat": 33.9674,
       "lng": -6.8644,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Yacoub El Mansour",
+      "nom": "Pharmacie Imam Malik",
       "ville": "Rabat",
       "quartier": "Yacoub El Mansour",
-      "adresse": "im 2 mag 4 av al majd /massira 5 (en face terrain fus) c.y.m",
+      "adresse": "bloc ai douar haj kacem c.y.m",
       "tel": "",
       "lat": 33.9686,
       "lng": -6.8632,
       "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Mazhar",
+      "ville": "Rabat",
+      "quartier": "Yacoub El Mansour",
+      "adresse": "127 avenue al majd amal 3 c.y.m -",
+      "tel": "",
+      "lat": 33.9614,
+      "lng": -6.862,
+      "garde": "24h"
     }
   ]
 }
