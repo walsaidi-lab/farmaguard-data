@@ -24,23 +24,13 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Chellah",
-      "ville": "Rabat",
-      "quartier": "Centre Ville",
-      "adresse": "",
-      "tel": "",
-      "lat": 34.0128,
-      "lng": -6.833,
-      "garde": "jour"
-    },
-    {
       "nom": "Pharmacie Ryad Andalous",
       "ville": "Rabat",
       "quartier": "Hay Riad",
       "adresse": "",
       "tel": "",
-      "lat": 34.0209,
-      "lng": -6.8404,
+      "lat": 34.0197,
+      "lng": -6.8416,
       "garde": "jour"
     },
     {
@@ -49,8 +39,18 @@
       "quartier": "Takadoum Et Souissi",
       "adresse": "",
       "tel": "",
-      "lat": 33.9772,
-      "lng": -6.8156,
+      "lat": 33.976,
+      "lng": -6.8168,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Chellah",
+      "ville": "Rabat",
+      "quartier": "Centre Ville",
+      "adresse": "",
+      "tel": "",
+      "lat": 34.0152,
+      "lng": -6.8306,
       "garde": "jour"
     },
     {
