@@ -14,23 +14,33 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Ben Omar",
-      "ville": "Rabat",
-      "quartier": "Centre Ville",
-      "adresse": "",
-      "tel": "",
-      "lat": 34.0116,
-      "lng": -6.8342,
-      "garde": "jour"
-    },
-    {
       "nom": "Pharmacie",
       "ville": "Rabat",
       "quartier": "Hay Riad",
       "adresse": "",
       "tel": "",
-      "lat": 34.0197,
-      "lng": -6.8416,
+      "lat": 34.0185,
+      "lng": -6.8428,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie El Kouass",
+      "ville": "Rabat",
+      "quartier": "Yacoub El Mansour",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.9638,
+      "lng": -6.862,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Ben Omar",
+      "ville": "Rabat",
+      "quartier": "Centre Ville",
+      "adresse": "",
+      "tel": "",
+      "lat": 34.014,
+      "lng": -6.8318,
       "garde": "jour"
     },
     {
@@ -39,22 +49,12 @@
       "quartier": "Océon",
       "adresse": "",
       "tel": "",
-      "lat": 34.0209,
-      "lng": -6.8404,
+      "lat": 34.0221,
+      "lng": -6.8392,
       "garde": "jour"
     },
     {
       "nom": "Pharmacie Assabah",
-      "ville": "Rabat",
-      "quartier": "Yacoub El Mansour",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.9662,
-      "lng": -6.8596,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie El Kouass",
       "ville": "Rabat",
       "quartier": "Yacoub El Mansour",
       "adresse": "",
