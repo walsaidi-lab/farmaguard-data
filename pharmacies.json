@@ -1,10 +1,10 @@
 {
   "source": "annuaire-gratuit.ma",
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "note": "Donnees de garde du jour. Coordonnees approximatives (quartier). Telephones a completer depuis la source officielle.",
   "pharmacies": [
     {
-      "nom": "Pharmacie Des Universites",
+      "nom": "Pharmacie Ibn Khatab",
       "ville": "Rabat",
       "quartier": "Agdal",
       "adresse": "",
@@ -14,17 +14,17 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Les Arcades",
+      "nom": "Pharmacie Ben Omar",
       "ville": "Rabat",
-      "quartier": "Akkari Ocean Orangers",
+      "quartier": "Centre Ville",
       "adresse": "",
       "tel": "",
-      "lat": 34.0096,
-      "lng": -6.8432,
+      "lat": 34.0116,
+      "lng": -6.8342,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie La Vitalite",
+      "nom": "Pharmacie",
       "ville": "Rabat",
       "quartier": "Hay Riad",
       "adresse": "",
@@ -34,17 +34,17 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Lacustre",
+      "nom": "Pharmacie Ibn Nafis",
       "ville": "Rabat",
-      "quartier": "Takadoum Et Souissi",
+      "quartier": "Océon",
       "adresse": "",
       "tel": "",
-      "lat": 33.976,
-      "lng": -6.8168,
+      "lat": 34.0209,
+      "lng": -6.8404,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Bouitat",
+      "nom": "Pharmacie Assabah",
       "ville": "Rabat",
       "quartier": "Yacoub El Mansour",
       "adresse": "",
@@ -54,33 +54,23 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie De La Marne",
+      "nom": "Pharmacie El Kouass",
       "ville": "Rabat",
-      "quartier": "Centre Ville",
+      "quartier": "Yacoub El Mansour",
       "adresse": "",
       "tel": "",
-      "lat": 34.0164,
-      "lng": -6.8354,
+      "lat": 33.9674,
+      "lng": -6.8644,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Des Residences",
+      "nom": "Pharmacie L 039 Avenir",
       "ville": "Rabat",
       "quartier": "Yacoub El Mansour",
       "adresse": "",
       "tel": "",
       "lat": 33.9686,
       "lng": -6.8632,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Layachi",
-      "ville": "Rabat",
-      "quartier": "Yacoub El Mansour",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.9614,
-      "lng": -6.862,
       "garde": "jour"
     }
   ]
