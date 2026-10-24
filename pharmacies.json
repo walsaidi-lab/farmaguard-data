@@ -82,6 +82,126 @@
       "lat": 33.9614,
       "lng": -6.862,
       "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Lahlali",
+      "ville": "Meknes",
+      "quartier": "Ismailia",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.8914,
+      "lng": -5.5524,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Al Fath",
+      "ville": "Meknes",
+      "quartier": "Ismailia",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.8926,
+      "lng": -5.5512,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Oujeh Aarouss",
+      "ville": "Meknes",
+      "quartier": "Ismailia",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.8938,
+      "lng": -5.55,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Belmadani",
+      "ville": "Meknes",
+      "quartier": "Ismailia",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.895,
+      "lng": -5.5488,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Zitoune",
+      "ville": "Meknes",
+      "quartier": "Ismailia",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.8962,
+      "lng": -5.5476,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Saif Eddine",
+      "ville": "Meknes",
+      "quartier": "Ismailia",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.8974,
+      "lng": -5.5524,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Younaisse",
+      "ville": "Meknes",
+      "quartier": "Menzeh",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.8816,
+      "lng": -5.5662,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Belair",
+      "ville": "Meknes",
+      "quartier": "Menzeh",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.8744,
+      "lng": -5.565,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Al Firdaous",
+      "ville": "Meknes",
+      "quartier": "Menzeh",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.8756,
+      "lng": -5.5638,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Riad El Ghali",
+      "ville": "Meknes",
+      "quartier": "Ouislane",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.9138,
+      "lng": -5.5226,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Dkhissa Ouislane",
+      "ville": "Meknes",
+      "quartier": "Ouislane",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.915,
+      "lng": -5.5274,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Ryad Toulal",
+      "ville": "Meknes",
+      "quartier": "Toulal",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.8612,
+      "lng": -5.6062,
+      "garde": "jour"
     }
   ]
 }
