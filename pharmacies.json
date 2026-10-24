@@ -1,10 +1,10 @@
 {
   "source": "annuaire-gratuit.ma",
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "note": "Donnees de garde du jour. Coordonnees approximatives (quartier). Telephones a completer depuis la source officielle.",
   "pharmacies": [
     {
-      "nom": "Pharmacie Gare Agdal",
+      "nom": "Pharmacie Bin El Ouidane",
       "ville": "Rabat",
       "quartier": "Agdal",
       "adresse": "",
@@ -14,9 +14,9 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Du Croissant",
+      "nom": "Pharmacie Akkari",
       "ville": "Rabat",
-      "quartier": "Akkari Ocean",
+      "quartier": "Akkari Ocean Orangers",
       "adresse": "",
       "tel": "",
       "lat": 34.0096,
@@ -24,9 +24,9 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Centre Cheques Postaux",
+      "nom": "Pharmacie Chenier",
       "ville": "Rabat",
-      "quartier": "Centre Ville",
+      "quartier": "Centre ville",
       "adresse": "",
       "tel": "",
       "lat": 34.0128,
@@ -34,19 +34,19 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Ghayt",
+      "nom": "Pharmacie Diour Jamaa",
       "ville": "Rabat",
-      "quartier": "Hay riad",
+      "quartier": "Ocean Orangers",
       "adresse": "",
       "tel": "",
-      "lat": 34.0209,
-      "lng": -6.8404,
+      "lat": 34.012,
+      "lng": -6.8408,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Hassania",
+      "nom": "Pharmacie le Claridge",
       "ville": "Rabat",
-      "quartier": "Takadoum Et Souissi",
+      "quartier": "Takadoum et Souissi",
       "adresse": "",
       "tel": "",
       "lat": 33.9772,
@@ -54,17 +54,17 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Attaissir",
+      "nom": "Pharmacie Ya Sin",
       "ville": "Rabat",
-      "quartier": "Yacoub El Mansour",
+      "quartier": "Takadoum Et Souissi",
       "adresse": "",
       "tel": "",
-      "lat": 33.9674,
-      "lng": -6.8644,
+      "lat": 33.9784,
+      "lng": -6.8204,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Hay Al Kora",
+      "nom": "Pharmacie Al Boustane",
       "ville": "Rabat",
       "quartier": "Yacoub El Mansour",
       "adresse": "",
@@ -74,7 +74,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Choukroallah",
+      "nom": "Pharmacie Marjolaine",
       "ville": "Rabat",
       "quartier": "Yacoub El Mansour",
       "adresse": "",
