@@ -1,6 +1,6 @@
 {
   "source": "annuaire-gratuit.ma",
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "note": "Donnees de garde du jour. Coordonnees approximatives (quartier). Telephones a completer depuis la source officielle.",
   "pharmacies": [
     {
@@ -84,7 +84,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Lahlali",
+      "nom": "Pharmacie Lahbib Marjane",
       "ville": "Meknes",
       "quartier": "Ismailia",
       "adresse": "",
@@ -94,7 +94,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Al Fath",
+      "nom": "Pharmacie Al Inaya",
       "ville": "Meknes",
       "quartier": "Ismailia",
       "adresse": "",
@@ -104,7 +104,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Oujeh Aarouss",
+      "nom": "Pharmacie Chorafae",
       "ville": "Meknes",
       "quartier": "Ismailia",
       "adresse": "",
@@ -114,7 +114,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Belmadani",
+      "nom": "Pharmacie de l'Academie",
       "ville": "Meknes",
       "quartier": "Ismailia",
       "adresse": "",
@@ -124,7 +124,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Zitoune",
+      "nom": "Pharmacie La Baraka",
       "ville": "Meknes",
       "quartier": "Ismailia",
       "adresse": "",
@@ -134,7 +134,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Saif Eddine",
+      "nom": "Pharmacie L'océan",
       "ville": "Meknes",
       "quartier": "Ismailia",
       "adresse": "",
@@ -144,7 +144,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Younaisse",
+      "nom": "Pharmacie Al Khassa",
       "ville": "Meknes",
       "quartier": "Menzeh",
       "adresse": "",
@@ -154,7 +154,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Belair",
+      "nom": "Pharmacie Achouhada",
       "ville": "Meknes",
       "quartier": "Menzeh",
       "adresse": "",
@@ -164,7 +164,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Al Firdaous",
+      "nom": "Pharmacie Grande Gare",
       "ville": "Meknes",
       "quartier": "Menzeh",
       "adresse": "",
@@ -174,7 +174,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Riad El Ghali",
+      "nom": "Pharmacie Addoha",
       "ville": "Meknes",
       "quartier": "Ouislane",
       "adresse": "",
@@ -194,7 +194,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Ryad Toulal",
+      "nom": "Pharmacie Toulal",
       "ville": "Meknes",
       "quartier": "Toulal",
       "adresse": "",
