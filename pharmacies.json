@@ -1,10 +1,10 @@
 {
   "source": "annuaire-gratuit.ma",
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "note": "Donnees de garde du jour. Coordonnees approximatives (quartier). Telephones a completer depuis la source officielle.",
   "pharmacies": [
     {
-      "nom": "Pharmacie Bin El Ouidane",
+      "nom": "Pharmacie Imane Ex Benyahia",
       "ville": "Rabat",
       "quartier": "Agdal",
       "adresse": "",
@@ -14,27 +14,27 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Akkari",
+      "nom": "Pharmacie Les Colonnes",
       "ville": "Rabat",
-      "quartier": "Akkari Ocean Orangers",
+      "quartier": "Centre Ville",
       "adresse": "",
       "tel": "",
-      "lat": 34.0096,
-      "lng": -6.8432,
+      "lat": 34.0116,
+      "lng": -6.8342,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Chenier",
+      "nom": "Pharmacie",
       "ville": "Rabat",
-      "quartier": "Centre ville",
+      "quartier": "Hay Riad",
       "adresse": "",
       "tel": "",
-      "lat": 34.0128,
-      "lng": -6.833,
+      "lat": 34.0197,
+      "lng": -6.8416,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Diour Jamaa",
+      "nom": "Pharmacie Aya",
       "ville": "Rabat",
       "quartier": "Ocean Orangers",
       "adresse": "",
@@ -44,163 +44,33 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie le Claridge",
+      "nom": "Pharmacie Hay Chabab",
       "ville": "Rabat",
-      "quartier": "Takadoum et Souissi",
+      "quartier": "Yacoub El Mansour",
       "adresse": "",
       "tel": "",
-      "lat": 33.9772,
-      "lng": -6.8156,
+      "lat": 33.9662,
+      "lng": -6.8596,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Ya Sin",
+      "nom": "Pharmacie Hay El Fath",
       "ville": "Rabat",
-      "quartier": "Takadoum Et Souissi",
+      "quartier": "Yacoub El Mansour",
       "adresse": "",
       "tel": "",
-      "lat": 33.9784,
-      "lng": -6.8204,
+      "lat": 33.9674,
+      "lng": -6.8644,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Al Boustane",
+      "nom": "Pharmacie Al Masbah Al Kabir",
       "ville": "Rabat",
       "quartier": "Yacoub El Mansour",
       "adresse": "",
       "tel": "",
       "lat": 33.9686,
       "lng": -6.8632,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Marjolaine",
-      "ville": "Rabat",
-      "quartier": "Yacoub El Mansour",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.9614,
-      "lng": -6.862,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Lahbib Marjane",
-      "ville": "Meknes",
-      "quartier": "Ismailia",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.8914,
-      "lng": -5.5524,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Al Inaya",
-      "ville": "Meknes",
-      "quartier": "Ismailia",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.8926,
-      "lng": -5.5512,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Chorafae",
-      "ville": "Meknes",
-      "quartier": "Ismailia",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.8938,
-      "lng": -5.55,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie de l'Academie",
-      "ville": "Meknes",
-      "quartier": "Ismailia",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.895,
-      "lng": -5.5488,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie La Baraka",
-      "ville": "Meknes",
-      "quartier": "Ismailia",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.8962,
-      "lng": -5.5476,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie L'océan",
-      "ville": "Meknes",
-      "quartier": "Ismailia",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.8974,
-      "lng": -5.5524,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Al Khassa",
-      "ville": "Meknes",
-      "quartier": "Menzeh",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.8816,
-      "lng": -5.5662,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Achouhada",
-      "ville": "Meknes",
-      "quartier": "Menzeh",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.8744,
-      "lng": -5.565,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Grande Gare",
-      "ville": "Meknes",
-      "quartier": "Menzeh",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.8756,
-      "lng": -5.5638,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Addoha",
-      "ville": "Meknes",
-      "quartier": "Ouislane",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.9138,
-      "lng": -5.5226,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Dkhissa Ouislane",
-      "ville": "Meknes",
-      "quartier": "Ouislane",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.915,
-      "lng": -5.5274,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Toulal",
-      "ville": "Meknes",
-      "quartier": "Toulal",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.8612,
-      "lng": -5.6062,
       "garde": "jour"
     }
   ]
