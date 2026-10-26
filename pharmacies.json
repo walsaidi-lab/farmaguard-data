@@ -34,27 +34,27 @@
       "garde": "jour"
     },
     {
+      "nom": "Pharmacie Al Masbah Al Kabir",
+      "ville": "Rabat",
+      "quartier": "Yacoub El Mansour",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.965,
+      "lng": -6.8608,
+      "garde": "jour"
+    },
+    {
       "nom": "Pharmacie Aya",
       "ville": "Rabat",
       "quartier": "Ocean Orangers",
       "adresse": "",
       "tel": "",
-      "lat": 34.012,
-      "lng": -6.8408,
+      "lat": 34.0132,
+      "lng": -6.8396,
       "garde": "jour"
     },
     {
       "nom": "Pharmacie Hay Chabab",
-      "ville": "Rabat",
-      "quartier": "Yacoub El Mansour",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.9662,
-      "lng": -6.8596,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Hay El Fath",
       "ville": "Rabat",
       "quartier": "Yacoub El Mansour",
       "adresse": "",
@@ -64,7 +64,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Al Masbah Al Kabir",
+      "nom": "Pharmacie Hay El Fath",
       "ville": "Rabat",
       "quartier": "Yacoub El Mansour",
       "adresse": "",
