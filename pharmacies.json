@@ -1,10 +1,10 @@
 {
   "source": "annuaire-gratuit.ma",
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "note": "Donnees de garde du jour. Coordonnees approximatives (quartier). Telephones a completer depuis la source officielle.",
   "pharmacies": [
     {
-      "nom": "Pharmacie Imane Ex Benyahia",
+      "nom": "Pharmacie Ibn Hajar",
       "ville": "Rabat",
       "quartier": "Agdal",
       "adresse": "",
@@ -14,47 +14,47 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Les Colonnes",
+      "nom": "Pharmacie Marassa",
+      "ville": "Rabat",
+      "quartier": "Akkari Ocean Orangers",
+      "adresse": "",
+      "tel": "",
+      "lat": 34.0096,
+      "lng": -6.8432,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Sawmaat Hassan",
       "ville": "Rabat",
       "quartier": "Centre Ville",
       "adresse": "",
       "tel": "",
-      "lat": 34.0116,
-      "lng": -6.8342,
+      "lat": 34.0128,
+      "lng": -6.833,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie",
+      "nom": "Pharmacie Kawtar Riad",
       "ville": "Rabat",
       "quartier": "Hay Riad",
       "adresse": "",
       "tel": "",
-      "lat": 34.0197,
-      "lng": -6.8416,
+      "lat": 34.0209,
+      "lng": -6.8404,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Al Masbah Al Kabir",
+      "nom": "Pharmacie Rabi",
       "ville": "Rabat",
-      "quartier": "Yacoub El Mansour",
+      "quartier": "Takadoum Et Souissi",
       "adresse": "",
       "tel": "",
-      "lat": 33.965,
-      "lng": -6.8608,
+      "lat": 33.9772,
+      "lng": -6.8156,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Aya",
-      "ville": "Rabat",
-      "quartier": "Ocean Orangers",
-      "adresse": "",
-      "tel": "",
-      "lat": 34.0132,
-      "lng": -6.8396,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Hay Chabab",
+      "nom": "Pharmacie Amwaj",
       "ville": "Rabat",
       "quartier": "Yacoub El Mansour",
       "adresse": "",
@@ -64,13 +64,23 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Hay El Fath",
+      "nom": "Pharmacie Sayarh",
       "ville": "Rabat",
       "quartier": "Yacoub El Mansour",
       "adresse": "",
       "tel": "",
       "lat": 33.9686,
       "lng": -6.8632,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Al Ighata",
+      "ville": "Rabat",
+      "quartier": "Yacoub El Mansour",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.9614,
+      "lng": -6.862,
       "garde": "jour"
     }
   ]
