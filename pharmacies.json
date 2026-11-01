@@ -134,7 +134,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Missimi",
+      "nom": "Pharmacie AlAtfal",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -144,7 +144,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie AlAtfal",
+      "nom": "Pharmacie Missimi",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -154,7 +154,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Ouzineb",
+      "nom": "Pharmacie Afak",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -164,7 +164,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie des Abattoirs",
+      "nom": "Pharmacie des Oudayas",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -174,7 +174,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Afak",
+      "nom": "Pharmacie Ouzineb",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -184,7 +184,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie des Oudayas",
+      "nom": "Pharmacie des Abattoirs",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -194,7 +194,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Centrale Aïn Borja",
+      "nom": "Pharmacie AlWissal",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -204,7 +204,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Adil",
+      "nom": "Pharmacie Kissariat Aziza",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -214,7 +214,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie AlWissal",
+      "nom": "Pharmacie Centrale Aïn Borja",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -224,7 +224,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Kissariat Aziza",
+      "nom": "Pharmacie Adil",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -234,7 +234,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Yass",
+      "nom": "Pharmacie Sabrya",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -244,7 +244,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Sabrya",
+      "nom": "Pharmacie Yass",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -284,7 +284,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie hay Essaada",
+      "nom": "Pharmacie Morjana",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -294,7 +294,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Morjana",
+      "nom": "Pharmacie hay Essaada",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -304,7 +304,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie AlKaria",
+      "nom": "Pharmacie Dennay",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -314,7 +314,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Dennay",
+      "nom": "Pharmacie AlKaria",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -324,7 +324,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Tamaarouft",
+      "nom": "Pharmacie Val Fleuri",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -334,7 +334,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Val Fleuri",
+      "nom": "Pharmacie Foucault",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -344,7 +344,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Foucault",
+      "nom": "Pharmacie Tamaarouft",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
