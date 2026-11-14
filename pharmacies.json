@@ -4,7 +4,7 @@
   "note": "Donnees de garde du jour. Coordonnees approximatives (quartier). Telephones a completer depuis la source officielle.",
   "pharmacies": [
     {
-      "nom": "Pharmacie Soulaima",
+      "nom": "Pharmacie Dalanda",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -14,7 +14,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Dalanda",
+      "nom": "Pharmacie ElKheir",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -24,7 +24,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie ElKheir",
+      "nom": "Pharmacie Soulaima",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -124,7 +124,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Fatma",
+      "nom": "Pharmacie Riyad Hay Hassani",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -134,7 +134,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Riyad Hay Hassani",
+      "nom": "Pharmacie Fatma",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -154,83 +154,13 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Houar Rifai",
-      "ville": "Casablanca",
-      "quartier": "",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.5707,
-      "lng": -7.5922,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Slaoui",
-      "ville": "Casablanca",
-      "quartier": "",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.5719,
-      "lng": -7.591,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Lotf Allah",
-      "ville": "Casablanca",
-      "quartier": "",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.5731,
-      "lng": -7.5898,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Hay Hakam",
-      "ville": "Casablanca",
-      "quartier": "",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.5743,
-      "lng": -7.5886,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Fouarat",
-      "ville": "Casablanca",
-      "quartier": "",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.5755,
-      "lng": -7.5874,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Janquière",
-      "ville": "Casablanca",
-      "quartier": "",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.5767,
-      "lng": -7.5922,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Moulay Cherif",
-      "ville": "Casablanca",
-      "quartier": "",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.5695,
-      "lng": -7.591,
-      "garde": "jour"
-    },
-    {
       "nom": "Pharmacie AlAhd El Jadid",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
       "tel": "",
       "lat": 33.5707,
-      "lng": -7.5898,
+      "lng": -7.5922,
       "garde": "jour"
     },
     {
@@ -240,11 +170,81 @@
       "adresse": "",
       "tel": "",
       "lat": 33.5719,
+      "lng": -7.591,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Janquière",
+      "ville": "Casablanca",
+      "quartier": "",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.5731,
+      "lng": -7.5898,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Moulay Cherif",
+      "ville": "Casablanca",
+      "quartier": "",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.5743,
       "lng": -7.5886,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Haj Fateh",
+      "nom": "Pharmacie Lotf Allah",
+      "ville": "Casablanca",
+      "quartier": "",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.5755,
+      "lng": -7.5874,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Hay Hakam",
+      "ville": "Casablanca",
+      "quartier": "",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.5767,
+      "lng": -7.5922,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Houar Rifai",
+      "ville": "Casablanca",
+      "quartier": "",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.5695,
+      "lng": -7.591,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Slaoui",
+      "ville": "Casablanca",
+      "quartier": "",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.5707,
+      "lng": -7.5898,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Fouarat",
+      "ville": "Casablanca",
+      "quartier": "",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.5719,
+      "lng": -7.5886,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Ryad Sofia",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -254,7 +254,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Ryad Sofia",
+      "nom": "Pharmacie Haj Fateh",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -264,7 +264,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Jamila",
+      "nom": "Pharmacie Moukdad Lahrizi",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -274,7 +274,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Moukdad Lahrizi",
+      "nom": "Pharmacie Jamila",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -294,7 +294,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Mechmach",
+      "nom": "Pharmacie Jennane",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -304,7 +304,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Jennane",
+      "nom": "Pharmacie Mechmach",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -314,7 +314,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Tazi",
+      "nom": "Pharmacie Chadili",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -324,7 +324,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Chadili",
+      "nom": "Pharmacie Tazi",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
