@@ -1,6 +1,6 @@
 {
   "source": "annuaire-gratuit.ma",
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "note": "Donnees de garde du jour. Coordonnees approximatives (quartier). Telephones a completer depuis la source officielle.",
   "pharmacies": [
     {
@@ -34,7 +34,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie ElFaiz",
+      "nom": "Pharmacie Daha",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -44,7 +44,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Daha",
+      "nom": "Pharmacie ElFaiz",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -84,7 +84,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Moulay",
+      "nom": "Pharmacie Nationale Diouri",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -94,7 +94,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Nationale Diouri",
+      "nom": "Pharmacie Moulay",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -124,7 +124,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Riyad Hay Hassani",
+      "nom": "Pharmacie Taouss",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -144,7 +144,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Taouss",
+      "nom": "Pharmacie Riyad Hay Hassani",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -154,7 +154,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie AlAhd El Jadid",
+      "nom": "Pharmacie Moulay Cherif",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -164,7 +164,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie kissariat Hay Mohammadi",
+      "nom": "Pharmacie AlAhd El Jadid",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -174,7 +174,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Janquière",
+      "nom": "Pharmacie kissariat Hay Mohammadi",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -184,7 +184,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Moulay Cherif",
+      "nom": "Pharmacie Janquière",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -194,7 +194,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Lotf Allah",
+      "nom": "Pharmacie Fouarat",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -204,7 +204,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Hay Hakam",
+      "nom": "Pharmacie Lotf Allah",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -214,7 +214,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Houar Rifai",
+      "nom": "Pharmacie Hay Hakam",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -224,7 +224,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Slaoui",
+      "nom": "Pharmacie Houar Rifai",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -234,7 +234,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Fouarat",
+      "nom": "Pharmacie Slaoui",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -334,7 +334,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Aida",
+      "nom": "Pharmacie le Corail",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -344,7 +344,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Mérieux",
+      "nom": "Pharmacie Najd",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -354,7 +354,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Al Kandara",
+      "nom": "Pharmacie Aida",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -364,7 +364,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie le Corail",
+      "nom": "Pharmacie Mérieux",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -374,7 +374,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Najd",
+      "nom": "Pharmacie Al Kandara",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -474,7 +474,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Fac De Lettres",
+      "nom": "Pharmacie Cité Universitaire",
       "ville": "Meknes",
       "quartier": "",
       "adresse": "",
@@ -484,7 +484,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie El Kettani",
+      "nom": "Pharmacie Dar Lakbira",
       "ville": "Meknes",
       "quartier": "",
       "adresse": "",
@@ -494,7 +494,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Al Inaya",
+      "nom": "Pharmacie Oujeh Aarouss",
       "ville": "Meknes",
       "quartier": "",
       "adresse": "",
@@ -504,7 +504,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Atlas Assiha",
+      "nom": "Pharmacie Rabha",
       "ville": "Meknes",
       "quartier": "",
       "adresse": "",
@@ -514,7 +514,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Du Mellah",
+      "nom": "Pharmacie Nisrine",
       "ville": "Meknes",
       "quartier": "",
       "adresse": "",
@@ -524,7 +524,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Essaadiyine",
+      "nom": "Pharmacie Lina",
       "ville": "Meknes",
       "quartier": "",
       "adresse": "",
@@ -534,7 +534,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Allal Ben Abdellah",
+      "nom": "Pharmacie Belair",
       "ville": "Meknes",
       "quartier": "",
       "adresse": "",
@@ -544,7 +544,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Lakbibat",
+      "nom": "Pharmacie 15 Mars",
       "ville": "Meknes",
       "quartier": "",
       "adresse": "",
@@ -554,7 +554,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Avenue Sekka",
+      "nom": "Pharmacie Benta",
       "ville": "Meknes",
       "quartier": "",
       "adresse": "",
@@ -564,7 +564,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Hay Ennasr",
+      "nom": "Pharmacie Abdelkarim Khattabi",
       "ville": "Meknes",
       "quartier": "",
       "adresse": "",
@@ -574,7 +574,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie ben Bouziane",
+      "nom": "Pharmacie Assakina 5",
       "ville": "Meknes",
       "quartier": "",
       "adresse": "",
