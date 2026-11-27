@@ -1,6 +1,6 @@
 {
   "source": "annuaire-gratuit.ma",
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "note": "Donnees de garde du jour. Coordonnees approximatives (quartier). Telephones a completer depuis la source officielle.",
   "pharmacies": [
     {
@@ -24,53 +24,13 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Californie",
+      "nom": "Pharmacie Chaaoub",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
       "tel": "",
       "lat": 33.5719,
       "lng": -7.5898,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Chaaoub",
-      "ville": "Casablanca",
-      "quartier": "",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.5731,
-      "lng": -7.5886,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Diwane",
-      "ville": "Casablanca",
-      "quartier": "",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.5743,
-      "lng": -7.5874,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie ElAlaoui",
-      "ville": "Casablanca",
-      "quartier": "",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.5755,
-      "lng": -7.5922,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Extention Anassi",
-      "ville": "Casablanca",
-      "quartier": "",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.5767,
-      "lng": -7.591,
       "garde": "jour"
     },
     {
@@ -79,28 +39,8 @@
       "quartier": "",
       "adresse": "",
       "tel": "",
-      "lat": 33.5695,
-      "lng": -7.5898,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie du Caire",
-      "ville": "Casablanca",
-      "quartier": "",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.5707,
+      "lat": 33.5731,
       "lng": -7.5886,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie ElYousr",
-      "ville": "Casablanca",
-      "quartier": "",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.5719,
-      "lng": -7.5874,
       "garde": "jour"
     },
     {
@@ -109,18 +49,8 @@
       "quartier": "",
       "adresse": "",
       "tel": "",
-      "lat": 33.5731,
-      "lng": -7.5922,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Orjouane",
-      "ville": "Casablanca",
-      "quartier": "",
-      "adresse": "",
-      "tel": "",
       "lat": 33.5743,
-      "lng": -7.591,
+      "lng": -7.5874,
       "garde": "jour"
     },
     {
@@ -130,77 +60,7 @@
       "adresse": "",
       "tel": "",
       "lat": 33.5755,
-      "lng": -7.5898,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Jabrane",
-      "ville": "Casablanca",
-      "quartier": "",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.5767,
-      "lng": -7.5886,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Senhaja Health",
-      "ville": "Casablanca",
-      "quartier": "",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.5695,
-      "lng": -7.5874,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Boualam",
-      "ville": "Casablanca",
-      "quartier": "",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.5707,
       "lng": -7.5922,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie la Grande Ceinture",
-      "ville": "Casablanca",
-      "quartier": "",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.5719,
-      "lng": -7.591,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie ElFarissi",
-      "ville": "Casablanca",
-      "quartier": "",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.5731,
-      "lng": -7.5898,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Choura Al Assil",
-      "ville": "Casablanca",
-      "quartier": "",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.5743,
-      "lng": -7.5886,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie kissariat Hay Mohammadi",
-      "ville": "Casablanca",
-      "quartier": "",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.5755,
-      "lng": -7.5874,
       "garde": "jour"
     },
     {
@@ -210,7 +70,7 @@
       "adresse": "",
       "tel": "",
       "lat": 33.5767,
-      "lng": -7.5922,
+      "lng": -7.591,
       "garde": "jour"
     },
     {
@@ -220,16 +80,6 @@
       "adresse": "",
       "tel": "",
       "lat": 33.5695,
-      "lng": -7.591,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie AlBaida",
-      "ville": "Casablanca",
-      "quartier": "",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.5707,
       "lng": -7.5898,
       "garde": "jour"
     },
@@ -239,18 +89,8 @@
       "quartier": "",
       "adresse": "",
       "tel": "",
-      "lat": 33.5719,
+      "lat": 33.5707,
       "lng": -7.5886,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Hajar",
-      "ville": "Casablanca",
-      "quartier": "",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.5731,
-      "lng": -7.5874,
       "garde": "jour"
     },
     {
@@ -259,18 +99,8 @@
       "quartier": "",
       "adresse": "",
       "tel": "",
-      "lat": 33.5743,
-      "lng": -7.5922,
-      "garde": "jour"
-    },
-    {
-      "nom": "Pharmacie Ottour",
-      "ville": "Casablanca",
-      "quartier": "",
-      "adresse": "",
-      "tel": "",
-      "lat": 33.5755,
-      "lng": -7.591,
+      "lat": 33.5719,
+      "lng": -7.5874,
       "garde": "jour"
     },
     {
@@ -279,7 +109,27 @@
       "quartier": "",
       "adresse": "",
       "tel": "",
-      "lat": 33.5767,
+      "lat": 33.5731,
+      "lng": -7.5922,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Alboudour",
+      "ville": "Casablanca",
+      "quartier": "",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.5743,
+      "lng": -7.591,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Univers Santé",
+      "ville": "Casablanca",
+      "quartier": "",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.5755,
       "lng": -7.5898,
       "garde": "jour"
     },
@@ -289,12 +139,162 @@
       "quartier": "",
       "adresse": "",
       "tel": "",
+      "lat": 33.5767,
+      "lng": -7.5886,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Californie",
+      "ville": "Casablanca",
+      "quartier": "",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.5695,
+      "lng": -7.5874,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Diwane",
+      "ville": "Casablanca",
+      "quartier": "",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.5707,
+      "lng": -7.5922,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie ElAlaoui",
+      "ville": "Casablanca",
+      "quartier": "",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.5719,
+      "lng": -7.591,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Extention Anassi",
+      "ville": "Casablanca",
+      "quartier": "",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.5731,
+      "lng": -7.5898,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie ElYousr",
+      "ville": "Casablanca",
+      "quartier": "",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.5743,
+      "lng": -7.5886,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie du Caire",
+      "ville": "Casablanca",
+      "quartier": "",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.5755,
+      "lng": -7.5874,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Jabrane",
+      "ville": "Casablanca",
+      "quartier": "",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.5767,
+      "lng": -7.5922,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Orjouane",
+      "ville": "Casablanca",
+      "quartier": "",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.5695,
+      "lng": -7.591,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Boualam",
+      "ville": "Casablanca",
+      "quartier": "",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.5707,
+      "lng": -7.5898,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie la Grande Ceinture",
+      "ville": "Casablanca",
+      "quartier": "",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.5719,
+      "lng": -7.5886,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Senhaja Health",
+      "ville": "Casablanca",
+      "quartier": "",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.5731,
+      "lng": -7.5874,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie ElFarissi",
+      "ville": "Casablanca",
+      "quartier": "",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.5743,
+      "lng": -7.5922,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie Choura Al Assil",
+      "ville": "Casablanca",
+      "quartier": "",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.5755,
+      "lng": -7.591,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie kissariat Hay Mohammadi",
+      "ville": "Casablanca",
+      "quartier": "",
+      "adresse": "",
+      "tel": "",
+      "lat": 33.5767,
+      "lng": -7.5898,
+      "garde": "jour"
+    },
+    {
+      "nom": "Pharmacie AlBaida",
+      "ville": "Casablanca",
+      "quartier": "",
+      "adresse": "",
+      "tel": "",
       "lat": 33.5695,
       "lng": -7.5886,
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Mirabel",
+      "nom": "Pharmacie Hajar",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -304,7 +304,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Clinique Andalouss",
+      "nom": "Pharmacie Ottour",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -334,7 +334,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Alboudour",
+      "nom": "Pharmacie Mirabel",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -344,7 +344,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Univers Santé",
+      "nom": "Pharmacie Clinique Andalouss",
       "ville": "Casablanca",
       "quartier": "",
       "adresse": "",
@@ -374,7 +374,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Avenue D Rsquo Alger Hassan",
+      "nom": "Pharmacie Borj",
       "ville": "Rabat",
       "quartier": "",
       "adresse": "",
@@ -384,7 +384,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Borj",
+      "nom": "Pharmacie Ya Sin",
       "ville": "Rabat",
       "quartier": "",
       "adresse": "",
@@ -394,7 +394,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Ya Sin",
+      "nom": "Pharmacie L 039 Avenir",
       "ville": "Rabat",
       "quartier": "",
       "adresse": "",
@@ -404,7 +404,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie Assabah",
+      "nom": "Pharmacie Avenue D Rsquo Alger Hassan",
       "ville": "Rabat",
       "quartier": "",
       "adresse": "",
@@ -414,7 +414,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie El Kouass",
+      "nom": "Pharmacie Assabah",
       "ville": "Rabat",
       "quartier": "",
       "adresse": "",
@@ -424,7 +424,7 @@
       "garde": "jour"
     },
     {
-      "nom": "Pharmacie L 039 Avenir",
+      "nom": "Pharmacie El Kouass",
       "ville": "Rabat",
       "quartier": "",
       "adresse": "",
